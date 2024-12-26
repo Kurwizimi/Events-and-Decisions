@@ -7,7 +7,7 @@
 		"Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
 		
 		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
-		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]>",
+		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
 		"Triggers a [Artists Protest the Eiffel Tower] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
 		"Triggers a [A Destitute Noble] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
 		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <after turn number [164]> <before turn number [166]>",
