@@ -151,7 +151,7 @@
       
      			{ "text": " I shall hunt this beast myself!",
 			  "uniques": ["[+3 Happiness] [in all cities] <for [10] turns>",
-				      "[+3 Culture] [in all cities] <for [5] turns>",
+				      "[+5 Culture] [in all cities] <for [5] turns>",
 				      "Comment [Lose 100 Gold]",
 				      "Gain [-100] [Gold] <hidden from users>"] }]
   },
