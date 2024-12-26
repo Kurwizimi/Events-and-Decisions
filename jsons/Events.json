@@ -248,6 +248,22 @@
 			 		"Gain [110] [Science] <during the [Medieval era]> <hidden from users>",
 			  		"Gain [170] [Science] <during the [Renaissance era]> <hidden from users>"] } ]
   	},
+	{
+		    "name": "Harvest",
+		    "text": "This years harvest was more bountiful than normal, with granarys, flour mills and bakeries full to the brim with food for the people!",
+		    "choices": [
+			    {"text": "A glorious harvest for a glorious year!",
+			     "uniques": ["[+50 Food] [in all cities] <for [1] turns>"] } ]
+	
+	},
+	{
+		    "name": "Famine",
+		    "text": "This years harvest was less bountiful than normal, with granarys, flour mills and bakeries practically empty. How will the people feed themselves this year?",
+		    "choices": [
+			    {"text": "Who could have cursed this land with famine?",
+			     "uniques": ["[-50 Food] [in all cities] <for [1] turns>"] } ]
+	
+	},
 
 	
 ]
