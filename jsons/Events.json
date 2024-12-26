@@ -227,6 +227,27 @@
 			     		"Gain a free [Underground Subway] [in capital]"] } ]
 	
 	},
+	{
+		"name": "Mystic",
+		"text": "An itinerant mystic had made some spiced cider from the fruit trees he has planted during his annual pilgramige. Crowds are already gathering, sharing food and listening to the mystics sermons",
+		"choices": [
+			{ "text": "Listen to his sermons, they are quite thought-provoking",
+			  "uniques": [	"Gain [15]-[30] [Faith]",
+					"Gain [15]-[30] [Culture]"]}
+      
+      			{ "text": "Take up the product, and share it with the world!",
+			  "uniques": [	"[+15 Food] [in all cities] <for [1] turns>"] }
+      
+     			{ "text": "Tell the mystic to be quiet! I deal with enough crazy people already!",
+			  "uniques": [ 	"Comment [Grants a burst of Science]",
+				  	"Comment [Lose 20 Faith]",
+                                       	"[-2 Happiness] [in all cities] <for [5] turns>",
+				  	 "Gain [-20] [Faith] <hidden from users>",
+					"Gain [25] [Science] <during the [Ancient era]> <hidden from users>",
+					"Gain [65] [Science] <during the [Classical era]> <hidden from users>",
+			 		"Gain [110] [Science] <during the [Medieval era]> <hidden from users>",
+			  		"Gain [170] [Science] <during the [Renaissance era]> <hidden from users>"] } ]
+  	},
 
 	
 ]
