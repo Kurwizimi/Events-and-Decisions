@@ -13,7 +13,7 @@
 		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <after turn number [164]> <before turn number [166]>",
 		"Triggers a [Solar Eclipse] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
 		"Triggers a [Mercenaries] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Medieval era]> <before the [Industrial era]>",
-		"Triggers a [PMC's] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Modern era]>",
+		"Triggers a [PMCs] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Modern era]>",
 		"Triggers a [Struck Oil!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
 		"Triggers a [A Beast Stalks the City] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
 		"Triggers a [Social Reforms] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Classical era]>",
