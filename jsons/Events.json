@@ -229,7 +229,7 @@
 	},
 	{
 		"name": "Mystic",
-		"text": "An itinerant mystic had made some spiced cider from the fruit trees he has planted during his annual pilgrimage. Crowds are already gathering, sharing food and listening to the mystics sermons.",
+		"text": "An itinerant mystic had made some spiced cider from the fruit trees he has planted during his annual pilgrimage. Crowds are already gathering, sharing food and listening to the mystic's sermons.",
 		"choices": [
 			{ "text": "Listen to his sermons, they are quite thought-provoking.",
 			  "uniques": [	"Gain [15]-[30] [Faith]",
