@@ -263,7 +263,20 @@
 			    {"text": "Who could have cursed this land with famine?",
 			     "uniques": ["[-50 Food] [in all cities] <for [1] turns>"] } ]
 	
-	},
+	},{
+		"name": "Desertion",
+		"text": "Some of out troops have grown weary because of this war. Many of them are deserting their ranks and running away.",
+		"choices": [
+			{ "text": "There is nothing we can do. Tell our generals to just bear this burden for now.",
+			  "uniques": [	]}
+      
+      			{ "text": "Increase their pay! A man will walk to Hell and back as long as they are given enough gold.",
+			  "uniques": [	"Comment [Lose 300 Gold]",
+				  	"Gain [-300] [Gold]",] }
+      
+     			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
+			  "uniques": [ 	] } ]
+  	},
 
 	
 ]
