@@ -18,8 +18,9 @@
 		"Triggers a [A Beast Stalks the City] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
 		"Triggers a [Social Reforms] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Classical era]>",
 		"Triggers a [Mystic] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Industrial era]>",
-		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <<before discovering [Fertilizer]>",
-		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <<before discovering [Fertilizer]>",
+		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
+		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
+		"Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [10]% chance> <when at war>",
 
 	]
 }
