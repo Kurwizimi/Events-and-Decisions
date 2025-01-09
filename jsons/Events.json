@@ -268,14 +268,14 @@
 		"text": "Some of out troops have grown weary because of this war. Many of them are deserting their ranks and running away.",
 		"choices": [
 			{ "text": "There is nothing we can do. Tell our generals to just bear this burden for now.",
-			  "uniques": [	]}
+			  "uniques": [	"[All] units gain the [Extremely High Desertion] promotion"]}
       
       			{ "text": "Increase their pay! A man will walk to Hell and back as long as they are given enough gold.",
 			  "uniques": [	"Comment [Lose 300 Gold]",
-				  	"Gain [-300] [Gold]",] }
+				  	"Gain [-300] [Gold]"] }
       
      			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
-			  "uniques": [ 	] } ]
+			  "uniques": [ 	"[All] units gain the [Common Desertion] promotion"] } ]
   	},
 
 	
