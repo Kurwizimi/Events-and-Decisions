@@ -263,7 +263,8 @@
 			    {"text": "Who could have cursed this land with famine?",//"[-50 Food] [in all cities] <for [1] turns>",
 			     "uniques": [ "[-50 Food] [in all cities] <for [1] turns>" ]} ]
 	
-	},{
+	},
+	{
 		"name": "Desertion",
 		"text": "Some of out troops have grown weary because of this war. Many of them are deserting their ranks and running away, making it difficult for our attacks to succeed.",
 		"choices": [
