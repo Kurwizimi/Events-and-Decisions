@@ -273,20 +273,35 @@
       
       			{ "text": "Increase their pay! A man will walk to Hell and back as long as they are given enough gold.",
 			  "uniques": [	"Comment [Lose 300 Gold]",
-				  	"Gain [-300] [Gold]"] }
+				  	"Gain [-300] [Gold] <hidden from users>"] }
 
 			{ "text": "Put the deserters on trial and court-martial them. There is no space for conscientious objectors in our army!",
 			  "uniques": [	"[-10]% Strength <for [All] units> <for [10] turns>",
 				  	"Comment [Lose 75 Gold]",
-				  	"Gain [-75] [Gold]",
+				  	"Gain [-75] [Gold] <hidden from users>",
 			  		"Only available <starting from the [Modern era]>"] }
       
      			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
 			  "uniques": [ 	 "[-15]% Strength <for [All] units> <for [10] turns>",
 			  		 "[-1 Happiness] [in all cities] <for [10] turns>"] } ]
   	},
+	
 	{
-		"name": "Olympics",
+		"name": "Modern Olympics",
+		"text": "Our archaeologists have discovered that our ancestors from antiquity participate in a large sports competition called 'The Olympics' every four years to appease the Gods.",
+		"choices": [
+			{ "text": "What if we can revive these games? This tournament can benefit us economically and will honour our ancestors past!",
+			  "uniques": [	"Gain a free [IOC Membership] [in capital]",
+				  	"Gain a free [IOC Founder] [in capital]",
+				  	"Only available <after discovering [Flight]> <if no other Civilization has researched this> <hidden from users>"]}
+      
+      			{ "text": "I have heard talks about some nations setting up an organisation in order to revive these games. I don't see why we shouldn't join it!",
+			  "uniques": [	"Gain a free [IOC Membership] [in capital]",
+				  	"Only available <if [IOC Founder] is constructed by anybody> <hidden from users>" ] }]
+  	},
+	
+	{
+		"name": "Olympiad",
 		"text": "The International Olympics Committee have daecided that we should host the next Olympic Games! How should we plan for this event?",
 		"choices": [
 			{ "text": "Prepare the Capital for the Games. It is the most suitable venue for the event",
@@ -307,8 +322,9 @@
 			  "uniques": [	"[+20]% Strength <for [All] units> <for [5] turns> <with [50]% chance>",
 				  	"[+5 Culture] <in cities with a [Palace]> <for [5] turns>",
 			  		"[+5 Happiness] <in cities with a [Palace]> <for [5] turns>",
-			  		"Only available <when at war>"] }]
+			  		"Only available <when at war> <hidden from users>"] }]
   	},
+	
 
 	
 ]
