@@ -283,7 +283,31 @@
       
      			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
 			  "uniques": [ 	 "[-15]% Strength <for [All] units> <for [10] turns>",
-			  		 "[-1 Happiness] [in all cities] <for [10] turns>",] } ]
+			  		 "[-1 Happiness] [in all cities] <for [10] turns>"] } ]
+  	},
+	{
+		"name": "Olympics",
+		"text": "The International Olympics Committee have daecided that we should host the next Olympic Games! How should we plan for this event?",
+		"choices": [
+			{ "text": "Prepare the Capital for the Games. It is the most suitable venue for the event",
+			  "uniques": [	"[+15 Gold] <in cities with a [Palace]> <for [5] turns>",
+			  		"[+15 Culture] <in cities with a [Palace]> <for [5] turns>",
+			  		"[+15 Happiness] <in cities with a [Palace]> <for [5] turns>",
+			  		"[+30 Gold] <in cities with a [Palace]> <if [Stadium] is constructed> <for [5] turns>",
+			  		"[-25]% [Production] <in cities with a [Palace]> <for [5] turns>"]}
+      
+      			{ "text": "Prepare the entire nation for the Games. This way will show the world the glory of our empire!",
+			  "uniques": [	"[+1 Gold] [in all cities] <for [5] turns>",
+			  		"[+1 Culture] [in all cities] <for [5] turns>",
+			  		"[+1 Happiness] [in all cities] <for [5] turns>",
+			  		"[+5 Gold] [in all cities] <in cities with a [Stadium]> <for [5] turns>",
+			  		"[-4 Production] [in all cities] <for [5] turns>",] }
+
+			{ "text": "We shall only accept this offer if we are able to deny our eneies from participating. We need to beat them on the front, not on the field.",
+			  "uniques": [	"[+20]% Strength <for [All] units> <for [5] turns> <with [50]% chance>",
+				  	"[+5 Culture] <in cities with a [Palace]> <for [5] turns>",
+			  		"[+5 Happiness] <in cities with a [Palace]> <for [5] turns>",
+			  		"Only available <when at war>"] }]
   	},
 
 	
