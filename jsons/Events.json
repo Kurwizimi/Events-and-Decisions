@@ -301,7 +301,7 @@
 			  		"[+1 Culture] [in all cities] <for [5] turns>",
 			  		"[+1 Happiness] [in all cities] <for [5] turns>",
 			  		"[+5 Gold] [in all cities] <in cities with a [Stadium]> <for [5] turns>",
-			  		"[-4 Production] [in all cities] <for [5] turns>",] }
+			  		"[-4 Production] [in all cities] <for [5] turns>"] }
 
 			{ "text": "We shall only accept this offer if we are able to deny our eneies from participating. We need to beat them on the front, not on the field.",
 			  "uniques": [	"[+20]% Strength <for [All] units> <for [5] turns> <with [50]% chance>",
