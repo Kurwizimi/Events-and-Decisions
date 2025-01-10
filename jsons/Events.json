@@ -290,14 +290,8 @@
 		"name": "Modern Olympics",
 		"text": "Our archaeologists have discovered that our ancestors from antiquity participate in a large sports competition called 'The Olympics' every four years to appease the Gods.",
 		"choices": [
-			{ "text": "What if we can revive these games? This tournament can benefit us economically and will honour our ancestors past!",
-			  "uniques": [	"Gain a free [IOC Membership] [in capital]",
-				  	"Gain a free [IOC Founder] [in capital]",
-				  	"Only available <after discovering [Flight]> <if no other Civilization has researched this> <hidden from users>"]}
-      
-      			{ "text": "I have heard talks about some nations setting up an organisation in order to revive these games. I don't see why we shouldn't join it!",
-			  "uniques": [	"Gain a free [IOC Membership] [in capital]",
-				  	"Only available <if [IOC Founder] is constructed by anybody> <hidden from users>" ] }]
+			{ "text": "I have heard talks about some nations setting up an organisation in order to revive these games. I don't see why we shouldn't join it!",
+			  "uniques": [	"Gain a free [IOC Membership] [in capital]" ] }]
   	},
 	
 	{
