@@ -1,40 +1,54 @@
 
 game.png
-size: 512, 128
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bus Routes
   rotate: false
-  xy: 4, 5
+  xy: 200, 14
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 BuildingIcons/Code of Laws
   rotate: false
-  xy: 101, 4
+  xy: 297, 13
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
   index: -1
+BuildingIcons/IOC Membership
+  rotate: false
+  xy: 4, 6
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+BuildingIcons/International Olympic Committee Headquarters
+  rotate: false
+  xy: 102, 4
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
 BuildingIcons/Underground Subway
   rotate: false
-  xy: 295, 5
+  xy: 491, 14
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/PMC
   rotate: false
-  xy: 392, 18
+  xy: 588, 27
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 UnitIcons/PMC
   rotate: false
-  xy: 198, 4
+  xy: 394, 13
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
