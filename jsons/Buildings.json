@@ -26,4 +26,22 @@
 		"uniques": ["[10]% Food is carried over after population increases [in all cities]","Unbuildable"],
 		"isNationalWonder": true,
 	},
+	{
+		"name": "IOC Membership",
+		"cost": 80,
+		"maintenance": 1,
+		"happiness": 2,
+		"culture": 3,
+		"uniques": ["Unbuildable"],
+		"isNationalWonder": true,
+	},
+	{
+		"name": "IOC Founder",
+		"cost": 80,
+		"happiness": 5,
+		"culture": 3,
+		"gold": 2,
+		"uniques": ["[-25]% City-State Influence degradation","[+10]% Golden Age length","Unbuildable"],
+		"isNationalWonder": true,
+	},
 ]
