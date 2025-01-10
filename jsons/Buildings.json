@@ -36,12 +36,12 @@
 		"isNationalWonder": true,
 	},
 	{
-		"name": "IOC Founder",
-		"cost": 80,
-		"happiness": 5,
+		"name": "International Olympic Committee Headquaters",
+		"happiness": 4,
 		"culture": 3,
-		"gold": 2,
-		"uniques": ["[-25]% City-State Influence degradation","[+10]% Golden Age length","Unbuildable"],
-		"isNationalWonder": true,
+		"uniques": ["[-25]% City-State Influence degradation","[+20]% Golden Age length"],
+		"requiredTech": "Refrigeration",
+        	"quote": "'Citius, Altius, Fortius – Communiter' - Olympic Motto"
+		"isWonder": true,
 	},
 ]
