@@ -269,7 +269,7 @@
 		"text": "Some of out troops have grown weary because of this war. Many of them are deserting their ranks and running away, making it difficult for our attacks to succeed.",
 		"choices": [
 			{ "text": "There is nothing we can do. Tell our generals to just bear this burden for now.",
-			  "uniques": [	"[-25]% Strength <for [All] units> <for [10] turns>"]}
+			  "uniques": [	"[-20]% Strength <for [All] units> <for [10] turns>"]}
       
       			{ "text": "Increase their pay! A man will walk to Hell and back as long as they are given enough gold.",
 			  "uniques": [	"Comment [Lose 300 Gold]",
