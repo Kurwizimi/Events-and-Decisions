@@ -36,7 +36,7 @@
 		"isNationalWonder": true,
 	},
 	{
-		"name": "International Olympic Committee Headquaters",
+		"name": "International Olympic Committee Headquarters",
 		"happiness": 4,
 		"culture": 3,
 		"uniques": ["[-25]% City-State Influence degradation","[+20]% Golden Age length","Only available <in cities with a [IOC Membership]>"],
