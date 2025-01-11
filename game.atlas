@@ -6,50 +6,64 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bus Routes
   rotate: false
-  xy: 200, 14
+  xy: 396, 16
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 BuildingIcons/Code of Laws
   rotate: false
-  xy: 297, 13
+  xy: 493, 15
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
   index: -1
 BuildingIcons/IOC Membership
   rotate: false
-  xy: 4, 6
+  xy: 4, 8
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/International Olympic Committee Headquarters
   rotate: false
-  xy: 102, 4
+  xy: 102, 6
   size: 90, 88
   orig: 90, 88
   offset: 0, 0
   index: -1
+BuildingIcons/Manifest Destiny
+  rotate: false
+  xy: 200, 4
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 BuildingIcons/Underground Subway
   rotate: false
-  xy: 491, 14
+  xy: 687, 16
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/PMC
   rotate: false
-  xy: 588, 27
+  xy: 784, 29
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 UnitIcons/PMC
   rotate: false
-  xy: 394, 13
+  xy: 590, 15
   size: 89, 79
   orig: 89, 79
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/We the People
+  rotate: false
+  xy: 298, 7
+  size: 90, 87
+  orig: 90, 87
   offset: 0, 0
   index: -1
