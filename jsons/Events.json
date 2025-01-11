@@ -318,6 +318,26 @@
 			  		"[+5 Happiness] <in cities with a [Palace]> <for [5] turns>",
 			  		"Only available <when at war> <hidden from users>"] }]
   	},
+	{
+		"name": "America UE",
+		"text": "Mr President, there has been recent discontet across our nation. Our people are at odds with each other, with one group advocating for the expansion of the use of slaves in order to revitalise the economy, while another is promoting the idea of 'Manifest Destiny' and the expansion of our nation to the uncivilised wilderness so that our nation can secure all the potential resources it needs. If one side does not triumph over another soon, our nation will decend into Civil War. What shall we do, Mr President?",
+		"choices": [
+			{ "text": "By expanding into the frontiers and bringing civilisation to these untamed lands, the United States shall secure its position in this world. Forwards to our Destiny!",
+			  "uniques": [	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns> ",
+			  		"Gain a free [Manifest Destiny] [in this city] <upon founding a city> <for [20] turns>",
+			  		"[-4 Food] [in all cities] <for [20] turns>"]}
+      
+      			{ "text": "Expanding the slave markets will allow us to have acces to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
+			  "uniques": [	"[+7 Production] [in all cities] <for [20] turns>",
+				  	"[+10 Gold] [in all cities] <for [20] turns>",
+				  	"[-3 Happiness] [in all cities]"] }
+
+			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil war. Liberty for all, no mattter the cost!",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>",
+			  		"[+5 Happiness] [in all cities] <for [20] turns>",
+			  		"[+5 Culture] [in all cities]",
+			  		"All newly-trained [Military] units [in all cities] receive the [We the People] promotion"] }]
+  	},
 	
 
 	
