@@ -1,7 +1,7 @@
 [
 	{
 		"name": "We the People",
-        	"uniques": ["[+50]% Strength <for [Military] units> <in [Foreign Land] tiles> <when defending>"],
+        	"uniques": ["[+50]% Strength <in [Foreign Land] tiles> <when defending>"],
 
 	}
 ]
