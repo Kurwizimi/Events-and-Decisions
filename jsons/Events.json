@@ -340,19 +340,22 @@
   	},
 	{
 		"name": "Arabia UE", //On Theology
-		"text": "O Great Caliph, from the arid deserts, our people have forged a grand civilisation. Now it is time to decide what path our glorious nation should take.",
+		"text": "O Great Caliph, from the arid deserts, our people have forged a grand civilisation. Now it is time to decide what path our glorious nation should take. How shall our Caliphate and the Arab people be remembered for the rest of time?",
 		"choices": [
-			{ "text": "It is time for our grand conquest! The world shall look at our conquests in awe, and we shall be remembered indefinitely",
-			  "uniques": [	]}
+			{ "text": "It is time for our grand conquest! The world shall look at our conquests in awe, and we shall be remembered indefinitely!",
+			  "uniques": [	"[3] free [Camel Archers] units appear",
+				  	"Free [Great General] appears",
+				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns>",
+			  		"Provides [3] [Horses] <hidden from users>",]}
       
-      			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge",
-			  "uniques": [	] }
+      			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
+			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings",
+			  		"Free [Great Scientist] appears",
+			  		"Empire enters golden age"] }
 
-			{ "text": "Our trade routes have made our people some of th wealthiest in the world. W",
-			  "uniques": [	"Rebel units may spawn <for [30] turns>",
-			  		"[+5 Happiness] [in all cities] <for [20] turns>",
-			  		"[+5 Culture] [in all cities]",
-			  		"All newly-trained [Military] units [in all cities] receive the [We the People] promotion"] }]
+			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
+			  "uniques": [	"Gain a free [Bazaar] [in this city] <upon founding a city>",
+			  		"[3] free [Great Merchants] units appear",] }]
   	},
 	
 
