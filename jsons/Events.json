@@ -319,7 +319,7 @@
 			  		"Only available <when at war> <hidden from users>"] }]
   	},
 	{
-		"name": "America UE",
+		"name": "America UE", //On Economics
 		"text": "Mr President, there has been recent discontet across our nation. Our people are at odds with each other, with one group advocating for the expansion of the use of slaves in order to revitalise the economy, while another is promoting the idea of 'Manifest Destiny' and the expansion of our nation to the uncivilised wilderness so that our nation can secure all the potential resources it needs. If one side does not triumph over another soon, our nation will decend into Civil War. What shall we do, Mr President?",
 		"choices": [
 			{ "text": "By expanding into the frontiers and bringing civilisation to these untamed lands, the United States shall secure its position in this world. Forwards to our Destiny!",
@@ -332,7 +332,23 @@
 				  	"[+10 Gold] [in all cities] <for [20] turns>",
 				  	"[-3 Happiness] [in all cities]"] }
 
-			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil war. Liberty for all, no mattter the cost!",
+			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>",
+			  		"[+5 Happiness] [in all cities] <for [20] turns>",
+			  		"[+5 Culture] [in all cities]",
+			  		"All newly-trained [Military] units [in all cities] receive the [We the People] promotion"] }]
+  	},
+	{
+		"name": "Arabia UE", //On Theology
+		"text": "O Great Caliph, from the arid deserts, our people have forged a grand civilisation. Now it is time to decide what path our glorious nation should take.",
+		"choices": [
+			{ "text": "It is time for our grand conquest! The world shall look at our conquests in awe, and we shall be remembered indefinitely",
+			  "uniques": [	]}
+      
+      			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge",
+			  "uniques": [	] }
+
+			{ "text": "Our trade routes have made our people some of th wealthiest in the world. W",
 			  "uniques": [	"Rebel units may spawn <for [30] turns>",
 			  		"[+5 Happiness] [in all cities] <for [20] turns>",
 			  		"[+5 Culture] [in all cities]",
