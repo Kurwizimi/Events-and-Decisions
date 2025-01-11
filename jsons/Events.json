@@ -42,9 +42,7 @@
       
      			{ "text": "Fine, let's tear it down.",
 			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
-				      "[-1 Culture] [in capital]",
-				      "[-5 Happiness] [in capital]",
-				      "[-1 Happiness] per [2] social policies adopted",
+				      "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
                                       "[2] free [Great Artist] units appear",
                                       "[1] free [Great Engineer] units appear"] }]
   },
@@ -82,7 +80,7 @@
 		"choices": [
 			{ "text": "Our prayers and sacrifices shall bring back the light.",
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
-			  		"[+20]% [Faith] [in all cities] <for [8] turns>"]},
+			  		"[+50]% [Faith] [in all cities] <for [8] turns>"]},
       
      			{ "text": "There must be a reasonable explanation.",
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
