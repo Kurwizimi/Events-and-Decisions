@@ -42,7 +42,10 @@
       
      			{ "text": "Fine, let's tear it down.",
 			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
-                  		      "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
+                  		       //"Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
+				      "[-1 Culture] [in capital]",
+				      "[-5 Happiness] [in capital]",
+				      "[-1 Happiness] per [2] social policies adopted",
                                       "[2] free [Great Artist] units appear",
                                       "[1] free [Great Engineer] units appear"] }]
   },
