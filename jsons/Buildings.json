@@ -44,4 +44,9 @@
         	"quote": "'Citius, Altius, Fortius – Communiter' - Olympic Motto"
 		"isWonder": true,
 	},
+	{
+		"name": "Manifest Destiny",
+		"cost": 80,
+		"uniques": ["[+1] population [in this city]","[20]% Food is carried over after population increases [in this city]","Unbuildable"],
+	},
 ]
