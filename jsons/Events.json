@@ -296,7 +296,7 @@
 	
 	{
 		"name": "Olympiad",
-		"text": "The International Olympics Committee have daecided that we should host the next Olympic Games! How should we plan for this event?",
+		"text": "The International Olympics Committee have decided that we should host the next Olympic Games! How should we plan for this event?",
 		"choices": [
 			{ "text": "Prepare the Capital for the Games. It is the most suitable venue for the event",
 			  "uniques": [	"[+15 Gold] [in capital] <for [5] turns>",
