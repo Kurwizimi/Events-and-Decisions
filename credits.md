@@ -8,3 +8,6 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * Bus Stop by Laxouri Studio from <a href="https://thenounproject.com/browse/icons/term/bus-stop/" target="_blank" title="Bus Stop Icons">Noun Project</a> (CC BY 3.0)
 * Olympic Torch by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/olympic-torch/" target="_blank" title="Olympic Torch Icons">Noun Project</a> (CC BY 3.0)
 * olympic by sachan from <a href="https://thenounproject.com/browse/icons/term/olympic/" target="_blank" title="olympic Icons">Noun Project</a> (CC BY 3.0)
+* USA by GrinnUX from <a href="https://thenounproject.com/browse/icons/term/usa/" target="_blank" title="USA Icons">Noun Project</a> (CC BY 3.0)
+* Covered Wagon by James Keuning : "https://thenounproject.com/icon/covered-wagon-9099/"
+* 
