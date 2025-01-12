@@ -373,7 +373,7 @@
 			  		"[+25]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	{
-		"name": "Aztecs UE", //On 
+		"name": "Aztecs UE", //On Civil Service
 		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nations demise. What shall we do to prevent these disasters from happening?",
 		"choices": [
 			{ "text": "The Gods are testing us so that they know that we are worhty of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
@@ -382,11 +382,13 @@
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
-			  "uniques": [	"[-2 Happiness] [in all cities]",
-			  		] }
+			  "uniques": [	"[+2 Happiness] [in all cities]",
+			  		"[+20]% growth [in all cities] <for [20] turns>"] }
 
-			{ "text": "People on the borders of our empire are starting to not pay tribute to their preists and are starting to show signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
-			  "uniques": [	] }]
+			{ "text": "People on the borders of our empire must be avoiding paying tribute to their preists and maybe are starting to show signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
+			  "uniques": [	"[+7 Gold] from [Plantation] tiles [in all cities] <for [20] turns>",
+				  	"[+1 Culture] from all [Gold] buildings <for [20] turns>",
+			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
   	},
 	
 
