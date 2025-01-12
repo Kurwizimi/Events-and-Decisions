@@ -366,11 +366,27 @@
       
       			{ "text": "In order to secure as much territory for the State, I shall marry this earl. His land shall allow us to greatly expand Austria.",
 			  "uniques": [	"[-75]% Culture cost of natural border growth [in all cities] <for [20] turns>",
-			  		"Free [Settler] appears",] }
+			  		"Free [Settler] appears"] }
 
 			{ "text": "I can't be dealing with such petty attempts trying to win my hand in marriage. If you or any of the other handmaidens are interested in these men, I could arrange your marriages instead!",
 			  "uniques": [	"[+3 Happiness] [in all cities]",
 			  		"[+25]% [Culture] [in capital] <for [20] turns>"] }]
+  	},
+	{
+		"name": "Aztecs UE", //On 
+		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nations demise. What shall we do to prevent these disasters from happening?",
+		"choices": [
+			{ "text": "The Gods are testing us so that they know that we are worhty of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
+			  "uniques": [	 "[+2 Food] from all [Courthouse] buildings",
+			  		 "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
+      
+      			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
+			  "uniques": [	"[-2 Happiness] [in all cities]",
+			  		] }
+
+			{ "text": "People on the borders of our empire are starting to not pay tribute to their preists and are starting to show signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
+			  "uniques": [	] }]
   	},
 	
 
