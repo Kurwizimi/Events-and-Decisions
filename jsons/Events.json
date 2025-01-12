@@ -314,8 +314,8 @@
 
 			{ "text": "We shall only accept this offer if we are able to deny our enemies from participating. We need to beat them on the front, not on the field.",
 			  "uniques": [	"[+20]% Strength <for [All] units> <for [5] turns> <with [50]% chance>",
-				  	"[+5 Culture] <in cities with a [Palace]> <for [5] turns>",
-			  		"[+5 Happiness] <in cities with a [Palace]> <for [5] turns>",
+				  	"[+5 Culture] [in capital] <for [5] turns>",
+			  		"[+5 Happiness] [in capital] <for [5] turns>",
 			  		"Only available <when at war> <hidden from users>"] }]
   	},
 	{
@@ -346,7 +346,7 @@
 			  "uniques": [	"[3] free [Camel Archers] units appear",
 				  	"Free [Great General] appears",
 				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns>",
-			  		"Provides [3] [Horses] <hidden from users>",]}
+			  		"Provides [3] [Horses] <hidden from users>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
 			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings",
@@ -355,7 +355,22 @@
 
 			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
 			  "uniques": [	"Gain a free [Bazaar] [in this city] <upon founding a city>",
-			  		"[3] free [Great Merchants] units appear",] }]
+			  		"[3] free [Great Merchants] units appear"] }]
+  	},
+	{
+		"name": "Austria UE", //On Printing Press
+		"text": "Holy Roman Empress, we have had some marriage offers sent to the Palace recently. All of these young men wish to be the one that you call their husband. My... some of them are really good looking... er, b-but it is your decision on who you wish to marry, your highness.",
+		"choices": [
+			{ "text": "This duke has been on my mind recently, his wit and charm amused me greatly last time we met. I believe that he is the one for me!",
+			  "uniques": [	"Free Great Person"]}
+      
+      			{ "text": "In order to secure as much territory for the State, I shall marry this earl. His land shall allow us to greatly expand Austria.",
+			  "uniques": [	"[-75]% Culture cost of natural border growth [in all cities] <for [20] turns>",
+			  		"Free [Settler] appears",] }
+
+			{ "text": "I can't be dealing with such petty attempts trying to win my hand in marriage. If you or any of the other handmaidens are interested in these men, I could arrange your marriages instead!",
+			  "uniques": [	"[+3 Happiness] [in all cities]",
+			  		"[+25]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	
 
