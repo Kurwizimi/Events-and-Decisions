@@ -407,7 +407,26 @@
 
 			{ "text": "Get all the wise men in Babylon to observe this holy battle, quick! This war will only happen once, and we shall not have the chance to observe it in a later age.",
 			  "uniques": [	"Gain a free [Observatory] [in this city] <upon founding a city>",
-			  		"[+4 Faith] from [Academy] tiles [in all cities]"] }]
+			  		"[+2 Faith] from [Academy] tiles [in all cities]"] }]
+  	},
+	{
+
+		"name": "Byzantium UE", //On Theology
+		"text": "Noble Empress of the Romans, I have worrying news to tell you. Once again the Patriarchy of Constantinople seek to unseat you from your rightful throne, for they refuse to be led by a woman. What plans do you suspect they are carrying ou to depose your rightous rule?",
+		"choices": [
+			{ "text": "They must be planning to stage a coup with the army, maning we cannot trust even or own troops. Hire some mercenaries, so that we have soldiers that are not under the thumb of the Patriarchy!",
+			  "uniques": [	 "[4] free [Horse Archers] units appear",
+			  		 "[2] free [Berserker] units appear",
+			  	         "[2] free [Landsknecht] units appear"]}
+      
+      			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
+			  "uniques": [	"[+1 Culture] from all [Faith] buildings",
+			  		 "[+5 Gold] from all [Gold] buildings <for [20] turns>"] }
+
+
+			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
+			  "uniques": [	"[3] free [Cataphracts] units appear",
+			  		"All newly-trained [Military] units [in all cities] receive the [Deus Vult] promotion"] }]
   	},
 	
 
