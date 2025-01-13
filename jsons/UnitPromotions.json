@@ -2,6 +2,15 @@
 	{
 		"name": "We the People",
         	"uniques": ["[+50]% Strength <in [Foreign Land] tiles> <when defending>"],
+		"row": 140,
+      		"column": 0,
+
+	}
+	{
+		"name": "Deus Vult",
+        	"uniques": ["[+15]% Strength <in [Foreign Land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"row": 140,
+      		"column": 0,
 
 	}
 ]
