@@ -11,4 +11,5 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * USA by GrinnUX from <a href="https://thenounproject.com/browse/icons/term/usa/" target="_blank" title="USA Icons">Noun Project</a> (CC BY 3.0)
 * Covered Wagon by James Keuning : "https://thenounproject.com/icon/covered-wagon-9099/"
 * ishtar gate by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/ishtar-gate/" target="_blank" title="ishtar gate Icons">Noun Project</a> (CC BY 3.0)
+* Cross by Evgeni Moryakov from <a href="https://thenounproject.com/browse/icons/term/cross/" target="_blank" title="Cross Icons">Noun Project</a> (CC BY 3.0)
 * 
