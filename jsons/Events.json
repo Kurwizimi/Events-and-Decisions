@@ -430,14 +430,16 @@
   	},
 	{
 
-		"name": "Carthage UE", //On Theology
+		"name": "Carthage UE", //On Optics
 		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the neww king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
 		"choices": [
 			{ "text": "It may be in our best interests to marry this young admiral. He has strong Phonecian heritage and will allow us to bolster our naval economy. He is the best choice for new consort, even if he smells of fish all the time.",
-			  "uniques": [	 ]}
+			  "uniques": [	 "[+1 Gold, +1 Culture] from [Fishing Boats] tiles [in all cities]",
+			  		 "[+25]% [Gold] [in capital] <for [20] turns>"]}
       
       			{ "text": "I have heard of a local warlord that will be willing to be the new King. Marrying him will strengthen our army significantly. This will be a match made in heaven, ...or wherever this warlord beleives he will end up.",
-			  "uniques": [	] }
+			  "uniques": [	"[2] free [African Forest Elephant] units appear",
+			  		"[+100]% [Faith] [in capital] <for [20] turns>"] }
 
 
 			{ "text": "There is a young naval commander that has successfuly led many daring raids on the ports of our enemies. This will help us strengthen our navy significantly. As long as he doesn't have an eyepatch or pegleg, he shall be my new husband.",
