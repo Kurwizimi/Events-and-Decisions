@@ -13,4 +13,11 @@
       		"column": 0,
 
 	}
+	{
+		"name": "Pirate Slaver",
+        	"uniques": ["Earn [100]% of the damage done to [Water] units as [Gold]"],
+		"row": 140,
+      		"column": 0,
+
+	}
 ]
