@@ -431,7 +431,7 @@
 	{
 
 		"name": "Carthage UE", //On Optics
-		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the neww king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
+		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the new king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
 		"choices": [
 			{ "text": "It may be in our best interests to marry this young admiral. He has strong Phonecian heritage and will allow us to bolster our naval economy. He is the best choice for new consort, even if he smells of fish all the time.",
 			  "uniques": [	 "[+1 Gold, +1 Culture] from [Fishing Boats] tiles [in all cities]",
@@ -445,6 +445,24 @@
 			{ "text": "There is a young naval commander that has successfuly led many daring raids on the ports of our enemies. This will help us strengthen our navy significantly. As long as he doesn't have an eyepatch or pegleg, he shall be my new husband.",
 			  "uniques": [	"[+3 Production, +3 Gold] from all [Harbor] buildings <for [20] turns>",
 			  		"All newly-trained [Water] units [in all cities] receive the [Pirate Slaver] promotion"] }]
+  	},
+	{
+
+		"name": "Celts UE", //On Calendar
+		"text": "O queen of the Iceni, the summer solstice has come upon us again, and for the first time in many years, Mars is with Jupiter. For this important day, all the druids and elders of our realm have conveined to discuss on their future matters. What matters do you wish to discuss with them?",
+		"choices": [
+			{ "text": "Our lands are full of tin and lead. If we manage to exploit these resources, we could have a monopoly on the worlds tin supply!",
+			  "uniques": [	 "[+1 Gold] from [Mine] tiles [in all cities]",
+			  		 "[+50]% [Gold] [in capital] <for [20] turns> <with [50]% chance>"]}
+      
+      			{ "text": "Our tribes need to unite so that we do not falter to the iron fist of our enemies. There shall be one united Celtica, a nation against imperialism and oppression!",
+			  "uniques": [	"[2] free [Pictish Warrior] units appear",
+			  		"[2] free [Berserker] units appear"] }
+
+
+			{ "text": "We need to ensure that our culture does not be overcomed be our enemy's traditions. We must encourage our people to take up the arts, so that the Celtic culture shall stand the test of time!",
+			  "uniques": [	"[+2 Faith] from [Landmark] tiles [in all cities]",
+				 	"[+100]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	
 
