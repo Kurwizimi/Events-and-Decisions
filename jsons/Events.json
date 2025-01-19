@@ -486,7 +486,7 @@
   	},
 	{
 
-		"name": "Denmark UE", //On 
+		"name": "Denmark UE", //On Compass
 		"text": "High Thane, may Odin bless your soul! A horde of men have gathered outside the Palace, drunk of fire and anger. What shall be done to quell this rabble?",
 		"choices": [
 			{ "text": "They are angry due to the lack of housing in the winter. What good will happen if we let our people freeze? Open up the barracks so that these men have a place to rest!",
@@ -500,6 +500,23 @@
 			{ "text": "They are angry as our coast have been left unprotected. Even the most pathetic cities can bolster a navy greater than ours! This shall not be the case, as the seas belong to the Danes!",
 			  "uniques": [	"[+3 Production] from [Citadel] tiles [in all cities]",
 				 	"[+2 Production] from all [Culture] buildings [in all cities] <for [20] turns>"] }]
+  	},
+	{
+
+		"name": "Egypt UE", //On Masonry
+		"text": "Great Pharaoh, the orphan that your wife has been raising has matured to an age where people have noticed his intelligence and ingenious ways. How will you direct this orphan so that his gifts benefit us?",
+		"choices": [
+			{ "text": "Fate should be left to Ra and Horus, not the pharaoh. The boy shall be whoever he wants.",
+			  "uniques": [	 "Free Great Person"]}
+      
+      			{ "text": "He shall guide our engineers to construct machines accross our rivers, so that we can predict their flooding.",
+			  "uniques": [	"[+2 Production] from [Flood plains] tiles [in all cities] <for [20] turns>",
+			  		"[+1 Food] from [Flood plains] tiles [in all cities]",] }
+
+
+			{ "text": "He shall help me purge the old, idiosyncratic ways of the nobility and start a lineage of fresh leaders. Now Egypt shall not fall behind its enemies!",
+			  "uniques": [	"[+2 Culture] from [Farm] tiles [in all cities] <for [20] turns>",
+			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
   	},
 	
 
