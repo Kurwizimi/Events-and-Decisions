@@ -58,4 +58,12 @@
 		"uniques": ["Provides [2] [Mušḫuššu Art 𒈲𒍽]","Unbuildable"],
 		"isNationalWonder": true,
 	},
+	{
+		"name": "Stave Church",
+		"cost": 80,
+		"maintenance": 2,
+		"faith": 4,
+		"culture": 1,
+		"uniques": ["Unbuildable"],
+	},
 ]
