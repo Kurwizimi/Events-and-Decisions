@@ -464,6 +464,26 @@
 			  "uniques": [	"[+2 Faith] from [Landmark] tiles [in all cities]",
 				 	"[+100]% [Culture] [in capital] <for [20] turns>"] }]
   	},
+	{
+
+		"name": "China UE", //On Banking
+		"text": "Great Empress of the Middle Kingdom, a messenger awits outside the palace. They say that their message is of great importance. Oh look, here he is right now!",
+		"choices": [
+			{ "text": "Isn't that the son of my rival?... You Fool! This is an assassin, not a messenger! Guards! Guards!",
+			  "uniques": [	 "[+2 Food, +2 Gold] from [Plantation] tiles [in capital]",
+				  	 "[+1 Production] from [Farm] tiles [in all cities]",
+			  		 "[-5 Happiness] [in all cities] <for [20] turns>"]}
+      
+      			{ "text": "A tea merchant? An offer to establish a tea pavilion in the capital in exchange for some patronage. My, why would I reject such an offer!",
+			  "uniques": [	"[+3 Culture, +2 Happiness] from all [Opera House] buildings [in all cities]",
+			  		"Comment [Lose 400 Gold]",
+				 	 "Gain [-400] [Gold] <hidden from users>"] }
+
+
+			{ "text": "An envoy? There is news of a rediscovered religius text after an excavation of an old palace? This text could change the way we see the world forever!",
+			  "uniques": [	"[+2 Food, +2 Culture] from [Holy Site] tiles [in all cities]",
+				 	"[+2 Food, +2 Faith] from all [Faith] buildings [in all cities] <for [20] turns>"] }]
+  	},
 	
 
 	
