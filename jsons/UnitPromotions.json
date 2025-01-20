@@ -9,14 +9,14 @@
 	{
 		"name": "Deus Vult",
         	"uniques": ["[+15]% Strength <in [Foreign Land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"row": 140,
+		"row": 130,
       		"column": 0,
 
 	}
 	{
 		"name": "Pirate Slaver",
         	"uniques": ["Earn [100]% of the damage done to [Water] units as [Gold]"],
-		"row": 140,
+		"row": 120,
       		"column": 0,
 
 	}
