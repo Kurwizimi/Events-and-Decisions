@@ -555,20 +555,24 @@
   	},
 	{
 
-		"name": "France UE", //On 
+		"name": "France UE", //On Steam Power
 		"text": "Glorious Emperor of France, I have some worrying news to tell you. It seems that some of the most recent laws the Republic has passed has not been recieved well by the people. Some rumours have been passed around that there might be a revolt if the laws are not reversed. How shall the Republic act, great Consul?",
 		"choices": [
 			{ "text": "The support of the intelligensia has waned because salon culture has declined. If I partake in this activity, it may revitalise it, and bring the brains of the nation back to being loyal.",
-			  "uniques": [	 "[+2 Faith] from all [Market] buildings [in all cities]"]}
+			  "uniques": [	 "[+3 Science] from all [Garden] buildings [in all cities] <for [20] turns>",
+			  		"[+3 Culture] from all [Garden] buildings [in all cities]" ]}
       
       			{ "text": "French culture has been inhibited be th Academei of Paris, trying to moderate and standardise every pathetic thing, crushing the will of the people under its hobnailed boot. The arts shall be left free of control, for the people and by the people!",
-			  "uniques": [	 "[3] free [Pikeman] units appear",
-			  		 "Empire enters a [20]-turn Golden Age"] }
+			  "uniques": [	 "[+10 Culture] from every [National Epic]",
+			  		 "Empire enters a [10]-turn Golden Age"] }
 
 
 			{ "text": "Bah! Can the people not see that I am a master leader!? If those ungratful brutes believe they deserve anything more than they already got, then I'll make them grateful!",
-			  "uniques": [	"[+2 Food] from [Farm] tiles [in all cities] <for [20] turns>",
-			  		"[+2 Food] from [Plantation] tiles [in all cities]"] }]
+			  "uniques": [	"Rebel units may spawn <for [30] turns>",
+			  		"[-20 Happiness] [in all cities] <for [2] turns>",
+				  	"Nullifies [Science] [in all cities] <for [2] turns>",
+				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
+			  		"[2] Free Social Policies"] }]
   	},
 	
 
