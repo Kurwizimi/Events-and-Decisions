@@ -494,7 +494,7 @@
 			 		 "[+5 Food] [in all cities] <for [20] turns>"]}
       
       			{ "text": "They are angry because of the lack of faith in our empire. Maybe we shouldn't have pillaged all those monestaries... No worry! We shall build our own churches!",
-			  "uniques": [	"Gain a free [Stave Church] [in this city] <upon founding a city>",] }
+			  "uniques": [	"Gain a free [Stave Church] [in this city] <upon founding a city>"] }
 
 
 			{ "text": "They are angry as our coast have been left unprotected. Even the most pathetic cities can bolster a navy greater than ours! This shall not be the case, as the seas belong to the Danes!",
@@ -511,12 +511,30 @@
       
       			{ "text": "He shall guide our engineers to construct machines accross our rivers, so that we can predict their flooding.",
 			  "uniques": [	"[+2 Production] from [Flood plains] tiles [in all cities] <for [20] turns>",
-			  		"[+1 Food] from [Flood plains] tiles [in all cities]",] }
+			  		"[+1 Food] from [Flood plains] tiles [in all cities]"] }
 
 
 			{ "text": "He shall help me purge the old, idiosyncratic ways of the nobility and start a lineage of fresh leaders. Now Egypt shall not fall behind its enemies!",
 			  "uniques": [	"[+2 Culture] from [Farm] tiles [in all cities] <for [20] turns>",
 			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
+  	},
+	{
+
+		"name": "England UE", //On 
+		"text": "Your majesty, our lords have been showing concerns about the stability of the Crown. Infighting in the Privy council, distrust in the Church of England and there being no official heir to the throne are becoming ever increasing issues. Luckily, one man has over the years grown in popularity and power, and we can lererage that to stabilise the nation. What shall we do, my queen?",
+		"choices": [
+			{ "text": "We can claim that he has found the legendary Excalibur! That will surely unite the people, knowing that the successor of the mythical King Arthur is with us.",
+			  "uniques": [	 "[2] free [Longbowman] units appear",
+			  		 "Empire enters golden age"]}
+      
+      			{ "text": "We need to keep the church united and free from external influence. Make him the new Archbishop of Canterbury, and let him restore the faith in our empire! ",
+			  "uniques": [	"May buy [Parish Church] buildings with [Faith] [in all cities] <in cities with an enhanced religion>",
+			  		"[50]% resources gifted by City-States <in cities following our religion>"] }
+
+
+			{ "text": "The fringes of our empire may be susceptible to rebellion and distrust. This will hamper our imperial ambitions. Let this man be our colonial governor, so that the sun shall never set on the empire.",
+			  "uniques": [	"May buy [Courthouse] buildings with [Gold] [in all cities]",
+			  		"Gain an extra spy"] }]
   	},
 	
 
