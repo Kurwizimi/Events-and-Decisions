@@ -536,6 +536,40 @@
 			  "uniques": [	"May buy [Courthouse] buildings with [Gold] [in all cities]",
 			  		"Gain an extra spy"] }]
   	},
+	{
+
+		"name": "Ethiopia UE", //On Currency
+		"text": "Ras Tafari, your people gather i the city square, waiting for you to show them the wisdom of Solomon. Show them the truth, oh Negusa Nagast!",
+		"choices": [
+			{ "text": "With only 30 pieces of silver, our Lord was betrayed. We will print His likeness into seventy times seven coins, and spread them around the whole World! So every man, woman, and child knows the name of their savior!",
+			  "uniques": [	 "[+2 Faith] from all [Market] buildings [in all cities]"]}
+      
+      			{ "text": "In this world plagued by division, we allow things like race and creed to set us apart. But God does not see the color of our skin, only the goodness of our soul. We will write it in our songs, in our tales, in our laws.",
+			  "uniques": [	 "[3] free [Pikeman] units appear",
+			  		 "Empire enters a [20]-turn Golden Age"] }
+
+
+			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
+			  "uniques": [	"[+2 Food] from [Farm] tiles [in all cities] <for [20] turns>",
+			  		"[+2 Food] from [Plantation] tiles [in all cities]"] }]
+  	},
+	{
+
+		"name": "France UE", //On 
+		"text": "Ras Tafari, your people gather i the city square, waiting for you to show them the wisdom of Solomon. Show them the truth, oh Negusa Nagast!",
+		"choices": [
+			{ "text": "With only 30 pieces of silver, our Lord was betrayed. We will print His likeness into seventy times seven coins, and spread them around the whole World! So every man, woman, and child knows the name of their savior!",
+			  "uniques": [	 "[+2 Faith] from all [Market] buildings [in all cities]"]}
+      
+      			{ "text": "In this world plagued by division, we allow things like race and creed to set us apart. But God does not see the color of our skin, only the goodness of our soul. We will write it in our songs, in our tales, in our laws.",
+			  "uniques": [	 "[3] free [Pikeman] units appear",
+			  		 "Empire enters a [20]-turn Golden Age"] }
+
+
+			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
+			  "uniques": [	"[+2 Food] from [Farm] tiles [in all cities] <for [20] turns>",
+			  		"[+2 Food] from [Plantation] tiles [in all cities]"] }]
+  	},
 	
 
 	
