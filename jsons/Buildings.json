@@ -66,4 +66,12 @@
 		"culture": 1,
 		"uniques": ["Unbuildable"],
 	},
+	{
+		"name": "Parish Church",
+		"cost": 80,
+		"maintenance": 2,
+		"faith": 2,
+		"gold": 3,
+		"uniques": ["Unbuildable"],
+	},
 ]
