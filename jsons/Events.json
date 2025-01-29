@@ -407,7 +407,7 @@
 
 			{ "text": "Get all the wise men in Babylon to observe this holy battle, quick! This war will only happen once, and we shall not have the chance to observe it in a later age.",
 			  "uniques": [	"Gain a free [Observatory] [in this city] <upon founding a city>",
-			  		"[+2 Faith] from [Academy] tiles [in all cities]"] }]
+			  		"[+2 Faith] from every [Academy] "] }]
   	},
 	{
 
@@ -420,8 +420,8 @@
 			  	         "[2] free [Landsknecht] units appear"]}
       
       			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
-			  "uniques": [	"[+1 Culture] from all [Faith] buildings",
-			  		 "[+5 Gold] from all [Gold] buildings <for [20] turns>"] }
+			  "uniques": [	"[+1 Culture] from every [Faith] buildings",
+			  		 "[+5 Gold] from every [Gold] buildings <for [20] turns>"] }
 
 
 			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
@@ -434,7 +434,7 @@
 		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the new king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
 		"choices": [
 			{ "text": "It may be in our best interests to marry this young admiral. He has strong Phonecian heritage and will allow us to bolster our naval economy. He is the best choice for new consort, even if he smells of fish all the time.",
-			  "uniques": [	 "[+1 Gold, +1 Culture] from [Fishing Boats] tiles [in all cities]",
+			  "uniques": [	 "[+1 Gold, +1 Culture] from every [Fishing Boats] ",
 			  		 "[+25]% [Gold] [in capital] <for [20] turns>"]}
       
       			{ "text": "I have heard of a local warlord that will be willing to be the new King. Marrying him will strengthen our army significantly. This will be a match made in heaven, ...or wherever this warlord beleives he will end up.",
@@ -443,7 +443,7 @@
 
 
 			{ "text": "There is a young naval commander that has successfuly led many daring raids on the ports of our enemies. This will help us strengthen our navy significantly. As long as he doesn't have an eyepatch or pegleg, he shall be my new husband.",
-			  "uniques": [	"[+3 Production, +3 Gold] from all [Harbor] buildings <for [20] turns>",
+			  "uniques": [	"[+3 Production, +3 Gold] from every [Harbor]  <for [20] turns>",
 			  		"All newly-trained [Water] units [in all cities] receive the [Pirate Slaver] promotion"] }]
   	},
 	{
@@ -452,7 +452,7 @@
 		"text": "O queen of the Iceni, the summer solstice has come upon us again, and for the first time in many years, Mars is with Jupiter. For this important day, all the druids and elders of our realm have conveined to discuss on their future matters. What matters do you wish to discuss with them?",
 		"choices": [
 			{ "text": "Our lands are full of tin and lead. If we manage to exploit these resources, we could have a monopoly on the worlds tin supply!",
-			  "uniques": [	 "[+1 Gold] from [Mine] tiles [in all cities]",
+			  "uniques": [	 "[+1 Gold] from every [Mine] ",
 			  		 "[+50]% [Gold] [in capital] <for [20] turns> <with [50]% chance>"]}
       
       			{ "text": "Our tribes need to unite so that we do not falter to the iron fist of our enemies. There shall be one united Celtica, a nation against imperialism and oppression!",
@@ -461,7 +461,7 @@
 
 
 			{ "text": "We need to ensure that our culture does not be overcomed be our enemy's traditions. We must encourage our people to take up the arts, so that the Celtic culture shall stand the test of time!",
-			  "uniques": [	"[+2 Faith] from [Landmark] tiles [in all cities]",
+			  "uniques": [	"[+2 Faith] from every [Landmark] ",
 				 	"[+100]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	{
@@ -470,8 +470,8 @@
 		"text": "Great Empress of the Middle Kingdom, a messenger awits outside the palace. They say that their message is of great importance. Oh look, here he is right now!",
 		"choices": [
 			{ "text": "Isn't that the son of my rival?... You Fool! This is an assassin, not a messenger! Guards! Guards!",
-			  "uniques": [	 "[+2 Food, +2 Gold] from [Plantation] tiles [in capital]",
-				  	 "[+1 Production] from [Farm] tiles [in all cities]",
+			  "uniques": [	 "[+2 Food, +2 Gold] from every [Plantation] [in capital]",
+				  	 "[+1 Production] from every [Farm]",
 			  		 "[-5 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "A tea merchant? An offer to establish a tea pavilion in the capital in exchange for some patronage. My, why would I reject such an offer!",
@@ -481,7 +481,7 @@
 
 
 			{ "text": "An envoy? There is news of a rediscovered religius text after an excavation of an old palace? This text could change the way we see the world forever!",
-			  "uniques": [	"[+2 Food, +2 Culture] from [Holy Site] tiles [in all cities]",
+			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy Site]",
 				 	"[+2 Food, +2 Faith] from all [Faith] buildings [in all cities] <for [20] turns>"] }]
   	},
 	{
@@ -498,7 +498,7 @@
 
 
 			{ "text": "They are angry as our coast have been left unprotected. Even the most pathetic cities can bolster a navy greater than ours! This shall not be the case, as the seas belong to the Danes!",
-			  "uniques": [	"[+3 Production] from [Citadel] tiles [in all cities]",
+			  "uniques": [	"[+3 Production] from every [Citadel]",
 				 	"[+2 Production] from all [Culture] buildings [in all cities] <for [20] turns>"] }]
   	},
 	{
@@ -515,7 +515,7 @@
 
 
 			{ "text": "He shall help me purge the old, idiosyncratic ways of the nobility and start a lineage of fresh leaders. Now Egypt shall not fall behind its enemies!",
-			  "uniques": [	"[+2 Culture] from [Farm] tiles [in all cities] <for [20] turns>",
+			  "uniques": [	"[+2 Culture] from every [Farm] tiles  <for [20] turns>",
 			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
   	},
 	{
@@ -542,7 +542,7 @@
 		"text": "Ras Tafari, your people gather i the city square, waiting for you to show them the wisdom of Solomon. Show them the truth, oh Negusa Nagast!",
 		"choices": [
 			{ "text": "With only 30 pieces of silver, our Lord was betrayed. We will print His likeness into seventy times seven coins, and spread them around the whole World! So every man, woman, and child knows the name of their savior!",
-			  "uniques": [	 "[+2 Faith] from all [Market] buildings [in all cities]"]}
+			  "uniques": [	 "[+2 Faith] from all [Market] buildings  <for [9999] turns> <hidden from users>"]} //
       
       			{ "text": "In this world plagued by division, we allow things like race and creed to set us apart. But God does not see the color of our skin, only the goodness of our soul. We will write it in our songs, in our tales, in our laws.",
 			  "uniques": [	 "[3] free [Pikeman] units appear",
@@ -551,7 +551,7 @@
 
 			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
 			  "uniques": [	"[+2 Food] from every [Farm] <for [20] turns>",
-			  		"[+2 Food] from every [Plantation]"] }]
+			  		"[+2 Food] from every [Plantation]  <for [9999] turns> <hidden from users>"] }] //
   	},
 	{
 
@@ -560,7 +560,7 @@
 		"choices": [
 			{ "text": "The support of the intelligensia has waned because salon culture has declined. If I partake in this activity, it may revitalise it, and bring the brains of the nation back to being loyal.",
 			  "uniques": [	 "[+3 Science] from every [Garden] <for [20] turns>",
-			  		"[+3 Culture] from every [Garden] " ]}
+			  		"[+3 Culture] from every [Garden]  <for [9999] turns> <hidden from users>" ]} //
       
       			{ "text": "French culture has been inhibited be th Academei of Paris, trying to moderate and standardise every pathetic thing, crushing the will of the people under its hobnailed boot. The arts shall be left free of control, for the people and by the people!",
 			  "uniques": [	 "Comment [ +5 Culture from every National Wonder ]",
