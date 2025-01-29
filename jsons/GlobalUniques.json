@@ -6,6 +6,16 @@
 		"Triggers a [Subsidize] event <upon discovering [Steam Power] technology>",
 		"Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
 		"Triggers a [Modern Olympics] event <upon discovering [Flight] technology>",
+
+		"Triggers a [America UE] event <for [America] Civilizations> <upon discovering [Economics] technology>",
+		"Triggers a [Arabia UE] event <for [Arabia] Civilizations> <upon discovering [Theology] technology>",
+		"Triggers a [Austria UE] event <for [Austria] Civilizations> <upon discovering [Printing Press] technology>",
+		"Triggers a [Aztec UE] event <for [Aztec] Civilizations> <upon discovering [Civil Service] technology>",
+		"Triggers a [Babylon UE] event <for [Babylon] Civilizations> <upon discovering [Writing] technology>",
+		"Triggers a [Byzantium UE] event <for [Byzantium] Civilizations> <upon discovering [Theology] technology>",
+		"Triggers a [Carthage UE] event <for [Carthage] Civilizations> <upon discovering [Optics] technology>",
+		"Triggers a [Celts UE] event <for [Celts] Civilizations> <upon discovering [Calendar] technology>",
+		"Triggers a [China UE] event <for [China] Civilizations> <upon discovering [Banking] technology>",
 		
 		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
 		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
@@ -22,7 +32,7 @@
 		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
 		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
 		"Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when at war>",
-		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <starting from the [Modern era]>" //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back
+		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <starting from the [Modern era]>", //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back
 
 	]
 }
