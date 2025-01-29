@@ -550,8 +550,8 @@
 
 
 			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
-			  "uniques": [	"[+2 Food] from [Farm] tiles [in all cities] <for [20] turns>",
-			  		"[+2 Food] from [Plantation] tiles [in all cities]"] }]
+			  "uniques": [	"[+2 Food] from [Farm] tiles <for [20] turns>",
+			  		"[+2 Food] from [Plantation] tiles"] }]
   	},
 	{
 
@@ -559,11 +559,11 @@
 		"text": "Glorious Emperor of France, I have some worrying news to tell you. It seems that some of the most recent laws the Republic has passed has not been recieved well by the people. Some rumours have been passed around that there might be a revolt if the laws are not reversed. How shall the Republic act, great Consul?",
 		"choices": [
 			{ "text": "The support of the intelligensia has waned because salon culture has declined. If I partake in this activity, it may revitalise it, and bring the brains of the nation back to being loyal.",
-			  "uniques": [	 "[+3 Science] from all [Garden] buildings [in all cities] <for [20] turns>",
-			  		"[+3 Culture] from all [Garden] buildings [in all cities]" ]}
+			  "uniques": [	 "[+3 Science] from all [Garden] buildings <for [20] turns>",
+			  		"[+3 Culture] from all [Garden] buildings" ]}
       
       			{ "text": "French culture has been inhibited be th Academei of Paris, trying to moderate and standardise every pathetic thing, crushing the will of the people under its hobnailed boot. The arts shall be left free of control, for the people and by the people!",
-			  "uniques": [	 "[+10 Culture] from every [National Epic]",
+			  "uniques": [	 "[+5 Culture] from every [National Wonder]",
 			  		 "Empire enters a [10]-turn Golden Age"] }
 
 
