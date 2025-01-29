@@ -528,12 +528,12 @@
 			  		 "Empire enters golden age"]}
       
       			{ "text": "We need to keep the church united and free from external influence. Make him the new Archbishop of Canterbury, and let him restore the faith in our empire! ",
-			  "uniques": [	"May buy [Parish Church] buildings with [Faith] [in all cities] <in cities with an enhanced religion>",
-			  		"[50]% resources gifted by City-States <in cities following our religion>"] }
+			  "uniques": [	"May buy [Parish Church] buildings with [Faith] <in cities with an enhanced religion>",
+			  		"[+50]% resources gifted by City-States <in cities following our religion>"] }
 
 
 			{ "text": "The fringes of our empire may be susceptible to rebellion and distrust. This will hamper our imperial ambitions. Let this man be our colonial governor, so that the sun shall never set on the empire.",
-			  "uniques": [	"May buy [Courthouse] buildings with [Gold] [in all cities]",
+			  "uniques": [	"May buy [Courthouse] buildings with [Gold]",
 			  		"Gain an extra spy"] }]
   	},
 	{
