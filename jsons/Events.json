@@ -424,7 +424,7 @@
 		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the new king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
 		"choices": [
 			{ "text": "It may be in our best interests to marry this young admiral. He has strong Phonecian heritage and will allow us to bolster our naval economy. He is the best choice for new consort, even if he smells of fish all the time.",
-			  "uniques": [	 "[+2 Culture] from [Fishing Boats] [in all cities]",
+			  "uniques": [	 "[+2 Culture] from [Fishing Boats] tiles [in all cities]",
 			  		 "[+25]% [Gold] [in capital] <for [20] turns>"]}
       
       			{ "text": "I have heard of a local warlord that will be willing to be the new King. Marrying him will strengthen our army significantly. This will be a match made in heaven, ...or wherever this warlord beleives he will end up.",
