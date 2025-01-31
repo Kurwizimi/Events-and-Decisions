@@ -332,7 +332,7 @@
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
 			  "uniques": [	"Rebel units may spawn <for [50] turns>",
-			  		"All newly-trained [Military] units [in all cities] receive the [We the People] promotion"] }]
+			  		"All newly-trained [Military] units [in all cities] receive the [We the People] promotion"] } ]
   	},
 	{
 		"name": "Arabia UE", //On Theology
