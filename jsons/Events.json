@@ -324,18 +324,14 @@
 		"choices": [
 			{ "text": "By expanding into the frontiers and bringing civilisation to these untamed lands, the United States shall secure its position in this world. Forwards to our Destiny!",
 			  "uniques": [	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns> ",
-			  		"Gain a free [Manifest Destiny] [in this city] <upon founding a city> <for [20] turns>",
-			  		"[-4 Food] [in all cities] <for [20] turns>"]}
+			  		"Gain a free [Manifest Destiny] [in this city] <upon founding a city>"]} //[-4 Food] [in all cities] <for [20] turns>
       
       			{ "text": "Expanding the slave markets will allow us to have access to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
-			  "uniques": [	"[+7 Production] [in all cities] <for [20] turns>",
-				  	"[+10 Gold] [in all cities] <for [20] turns>",
-				  	"[-3 Happiness] [in all cities]"] }
+			  "uniques": [	"[+7 Production] [in all cities]",
+				  	"[-5 Happiness] [in all cities]"] } //[+10 Gold] [in all cities] <for [20] turns>
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
-			  "uniques": [	"Rebel units may spawn <for [30] turns>",
-			  		"[+5 Happiness] [in all cities] <for [20] turns>",
-			  		"[+5 Culture] [in all cities]",
+			  "uniques": [	"Rebel units may spawn <for [50] turns>",
 			  		"All newly-trained [Military] units [in all cities] receive the [We the People] promotion"] }]
   	},
 	{
@@ -344,18 +340,15 @@
 		"choices": [
 			{ "text": "It is time for our grand conquest! The world shall look at our conquests in awe, and we shall be remembered indefinitely!",
 			  "uniques": [	"[3] free [Camel Archers] units appear",
-				  	"Free [Great General] appears",
-				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns>",
-			  		"Provides [3] [Horses] <hidden from users>"]}
+				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [30] turns>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
 			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings",
-			  		"Free [Great Scientist] appears",
 			  		"Empire enters golden age"] }
 
 			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
 			  "uniques": [	"Gain a free [Bazaar] [in this city] <upon founding a city>",
-			  		"[3] free [Great Merchants] units appear"] }]
+			  		"[3] free [Great Merchant] units appear"] }]
   	},
 	{
 		"name": "Austria UE", //On Printing Press
@@ -378,19 +371,17 @@
 		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nation's demise. What shall we do to prevent these disasters from happening?",
 		"choices": [
 			{ "text": "The Gods are testing us so that they know that we are worthy of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
-			  "uniques": [	 "[+2 Food] from all [Courthouse] buildings",
-			  		 "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
-			  "uniques": [	"[+2 Happiness] [in all cities]",
+			  "uniques": [	"[+10 Happiness] [in all cities]",
 			  		"[+20]% growth [in all cities] <for [20] turns>"] }
 
 
 			{ "text": "People on the borders of our empire are starting to not pay tribute to their preists and are showing signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
-			  "uniques": [	"[+7 Gold] from [Plantation] tiles [in all cities] <for [20] turns>",
-				  	"[+1 Culture] from all [Gold] buildings <for [20] turns>",
-			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
+			  "uniques": [	"[+10 Gold] from [Plantation] tiles [in all cities] <for [20] turns>",
+				  	"[-5 Happiness] [in all cities] <for [20] turns>"] }]
   	},
 	{
 
@@ -416,11 +407,10 @@
 		"choices": [
 			{ "text": "They must be planning to stage a coup with the army, maning we cannot trust even or own troops. Hire some mercenaries, so that we have soldiers that are not under the thumb of the Patriarchy!",
 			  "uniques": [	 "[4] free [Horse Archers] units appear",
-			  		 "[2] free [Berserker] units appear",
-			  	         "[2] free [Landsknecht] units appear"]}
+			  		 "[2] free [Berserker] units appear"]}
       
       			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
-			  "uniques": [	"[+1 Culture] from every [Faith] buildings",
+			  "uniques": [	"[+2 Culture] from every [Temple] buildings",
 			  		 "[+5 Gold] from every [Gold] buildings <for [20] turns>"] }
 
 
