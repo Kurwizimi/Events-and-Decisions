@@ -339,7 +339,7 @@
 		"text": "O Great Caliph, from the arid deserts, our people have forged a grand civilisation. Now it is time to decide what path our glorious nation should take. How shall our Caliphate and the Arab people be remembered for the rest of time?",
 		"choices": [
 			{ "text": "It is time for our grand conquest! The world shall look at our conquests in awe, and we shall be remembered indefinitely!",
-			  "uniques": [	"[3] free [Camel Archers] units appear",
+			  "uniques": [	"[3] free [Camel Archer] units appear",
 				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [30] turns>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
