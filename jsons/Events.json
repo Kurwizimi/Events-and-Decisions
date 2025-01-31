@@ -410,12 +410,12 @@
 			  		 "[2] free [Berserker] units appear"]}
       
       			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
-			  "uniques": [	"[+2 Culture] from every [Temple] buildings",
+			  "uniques": [	"[+2 Culture] from every [Temple] ",
 			  		 "[+5 Gold] from every [Gold] buildings <for [20] turns>"] }
 
 
 			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
-			  "uniques": [	"[3] free [Cataphracts] units appear",
+			  "uniques": [	"[3] free [Cataphract] units appear",
 			  		"All newly-trained [Military] units [in all cities] receive the [Deus Vult] promotion"] }]
   	},
 	{
@@ -424,7 +424,7 @@
 		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the new king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
 		"choices": [
 			{ "text": "It may be in our best interests to marry this young admiral. He has strong Phonecian heritage and will allow us to bolster our naval economy. He is the best choice for new consort, even if he smells of fish all the time.",
-			  "uniques": [	 "[+1 Gold, +1 Culture] from every [Fishing Boats] ",
+			  "uniques": [	 "[+2 Culture] from every [Fishing Boats]",
 			  		 "[+25]% [Gold] [in capital] <for [20] turns>"]}
       
       			{ "text": "I have heard of a local warlord that will be willing to be the new King. Marrying him will strengthen our army significantly. This will be a match made in heaven, ...or wherever this warlord beleives he will end up.",
@@ -442,7 +442,7 @@
 		"text": "O queen of the Iceni, the summer solstice has come upon us again, and for the first time in many years, Mars is with Jupiter. For this important day, all the druids and elders of our realm have conveined to discuss on their future matters. What matters do you wish to discuss with them?",
 		"choices": [
 			{ "text": "Our lands are full of tin and lead. If we manage to exploit these resources, we could have a monopoly on the worlds tin supply!",
-			  "uniques": [	 "[+1 Gold] from every [Mine] ",
+			  "uniques": [	 "[+1 Gold] from every [Mine]",
 			  		 "[+50]% [Gold] [in capital] <for [20] turns> <with [50]% chance>"]}
       
       			{ "text": "Our tribes need to unite so that we do not falter to the iron fist of our enemies. There shall be one united Celtica, a nation against imperialism and oppression!",
@@ -451,7 +451,7 @@
 
 
 			{ "text": "We need to ensure that our culture does not be overcomed be our enemy's traditions. We must encourage our people to take up the arts, so that the Celtic culture shall stand the test of time!",
-			  "uniques": [	"[+2 Faith] from every [Landmark] ",
+			  "uniques": [	"[+2 Faith] from every [Landmark]",
 				 	"[+100]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	{
