@@ -406,7 +406,7 @@
 		"text": "Noble Empress of the Romans, I have worrying news to tell you. Once again the Patriarchy of Constantinople seek to unseat you from your rightful throne, for they refuse to be led by a woman. What plans do you suspect they are carrying ou to depose your rightous rule?",
 		"choices": [
 			{ "text": "They must be planning to stage a coup with the army, maning we cannot trust even or own troops. Hire some mercenaries, so that we have soldiers that are not under the thumb of the Patriarchy!",
-			  "uniques": [	 "[4] free [Horse Archers] units appear",
+			  "uniques": [	 "[4] free [Horse Archer] units appear",
 			  		 "[2] free [Berserker] units appear"]}
       
       			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
@@ -424,7 +424,7 @@
 		"text": "Your imperial Majesty! I have some.. err... concerns about remarriage. Y-you see... your advisors are a bit... anxious about who you will pick to be the new king. The Kings d-death was quite a while ago, so it is in the b-best interest of the nation for you to pick a new consort. Don't you think so y-your Grace?",
 		"choices": [
 			{ "text": "It may be in our best interests to marry this young admiral. He has strong Phonecian heritage and will allow us to bolster our naval economy. He is the best choice for new consort, even if he smells of fish all the time.",
-			  "uniques": [	 "[+2 Culture] from every [Fishing Boats]",
+			  "uniques": [	 "[+2 Culture] from [Fishing Boats] [in all cities]",
 			  		 "[+25]% [Gold] [in capital] <for [20] turns>"]}
       
       			{ "text": "I have heard of a local warlord that will be willing to be the new King. Marrying him will strengthen our army significantly. This will be a match made in heaven, ...or wherever this warlord beleives he will end up.",
