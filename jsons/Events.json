@@ -471,9 +471,9 @@
 				 	 "Gain [-400] [Gold] <hidden from users>"] }
 
 
-			{ "text": "An envoy? There is news of a rediscovered religius text after an excavation of an old palace? This text could change the way we see the world forever!",
+			{ "text": "An envoy? There is news of a rediscovered religious text after an excavation of an old palace? This text could change the way we see the world forever!",
 			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy Site] <for [1000] turns>",
-				 	"[+2 Food, +2 Faith] from all [Faith] buildings <for [20] turns>"] }]
+				 	"[+2 Food, +2 Faith] from all [Culture] buildings <for [20] turns>"] }]
   	},
 	{
 
@@ -485,7 +485,7 @@
 			 		 "[+5 Food] [in all cities] <for [20] turns>"]}
       
       			{ "text": "They are angry because of the lack of faith in our empire. Maybe we shouldn't have pillaged all those monestaries... No worry! We shall build our own churches!",
-			  "uniques": [	"Gain a free [Stave Church] [in this city] <upon founding a city>"] }
+			  "uniques": [	"Gain a free [Stave Church] [in all cities] <upon founding a city>"] }
 
 
 			{ "text": "They are angry as our coast have been left unprotected. Even the most pathetic cities can bolster a navy greater than ours! This shall not be the case, as the seas belong to the Danes!",
@@ -519,18 +519,18 @@
 			  		 "Empire enters golden age"]}
       
       			{ "text": "We need to keep the church united and free from external influence. Make him the new Archbishop of Canterbury, and let him restore the faith in our empire! ",
-			  "uniques": [	"May buy [Parish Church] buildings with [Faith] <for [1000] turns>",
+			  "uniques": [	"Gain a free [Parish Church] [in all cities]",
 			  		"[+50]% resources gifted by City-States <in cities following our religion> <for [1000] turns>"] }
 
 
 			{ "text": "The fringes of our empire may be susceptible to rebellion and distrust. This will hamper our imperial ambitions. Let this man be our colonial governor, so that the sun shall never set on the empire.",
-			  "uniques": [	"May buy [Colonial Offices] buildings with [Gold] <for [1000] turns>",
+			  "uniques": [	"Gain a free [Colonial Offices] [in all cities]",
 			  		"Gain an extra spy"] }]
   	},
 	{
 
 		"name": "Ethiopia UE", //On Currency
-		"text": "Ras Tafari, your people gather i the city square, waiting for you to show them the wisdom of Solomon. Show them the truth, oh Negusa Nagast!",
+		"text": "Ras Tafari, your people gather in the city square, waiting for you to show them the wisdom of Solomon. Show them the wisdom of Solomon, oh Negusa Nagast!",
 		"choices": [
 			{ "text": "With only 30 pieces of silver, our Lord was betrayed. We will print His likeness into seventy times seven coins, and spread them around the whole World! So every man, woman, and child knows the name of their savior!",
 			  "uniques": [	 "[+2 Faith] from all [Market] buildings <for [1000] turns> <hidden from users>"]}
