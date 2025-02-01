@@ -363,7 +363,7 @@
 			  		"Free [Settler] appears"] }
 
 			{ "text": "I can't be dealing with such petty attempts trying to win my hand in marriage. If you or any of the other handmaidens are interested in these men, I could arrange your marriages instead!",
-			  "uniques": [	"[+3 Happiness] [in all cities]",
+			  "uniques": [	"[+3 Happiness] [in all cities] <for [1000] turns>",
 			  		"[+25]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	{
@@ -372,7 +372,7 @@
 		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nation's demise. What shall we do to prevent these disasters from happening?",
 		"choices": [
 			{ "text": "The Gods are testing us so that they know that we are worthy of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
-			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
+			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns>",
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
