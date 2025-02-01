@@ -327,8 +327,8 @@
 			  		"Gain a free [Manifest Destiny] [in this city] <upon founding a city>"]} 
       
       			{ "text": "Expanding the slave markets will allow us to have access to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
-			  "uniques": [	"[+7 Production] [in all cities]",
-				  	"[-5 Happiness] [in all cities]"]} 
+			  "uniques": [	"[+7 Production] [in all cities] <for [20] turns>",
+				  	"[-5 Happiness] [in all cities] <for [20] turns>"]} 
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
 			  "uniques": [	"Rebel units may spawn <for [50] turns>",
