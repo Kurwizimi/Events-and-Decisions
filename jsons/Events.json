@@ -324,7 +324,7 @@
 		"choices": [
 			{ "text": "By expanding into the frontiers and bringing civilisation to these untamed lands, the United States shall secure its position in this world. Forwards to our Destiny!",
 			  "uniques": [	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns> ",
-			  		"[-20]% Culture cost of natural border growth [in all cities] <for [40] turns>"]} 
+			  		"[-50]% Culture cost of natural border growth [in all cities] <for [40] turns>"]} 
       
       			{ "text": "Expanding the slave markets will allow us to have access to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
 			  "uniques": [	"[+15 Production] [in all cities] <for [20] turns>",
@@ -332,7 +332,7 @@
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
 			  "uniques": [	"Rebel units may spawn <for [50] turns>",
-				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [50] turns>",
+				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [1000] turns>",
 			  		"[Land] units gain the [We the People] promotion"] } ]
   	},
 	{
@@ -344,7 +344,7 @@
 				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [30] turns>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
-			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings <for [50] turns>",
+			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings  <for [1000] turns>",
 			  		"Empire enters golden age"] }
 
 			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
@@ -376,7 +376,7 @@
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
-			  "uniques": [	"[+10 Happiness] [in all cities]",
+			  "uniques": [	"[+10 Happiness] [in all cities]  <for [1000] turns>",
 			  		"[+20]% growth [in all cities] <for [20] turns>"] }
 
 
@@ -391,7 +391,7 @@
 		"choices": [
 			{ "text": "This is a blessing from Marduk! Our creator shall protect us from the envious and vile forces of Tiamat, and Babylon shall be his loyal servant",
 			  "uniques": [	 "[+2 Food, +2 Science] from all [Faith] buildings <for [20] turns>",
-			  		 "[+2 Faith] from every [Scientist]"]}
+			  		 "[+2 Faith] from every [Scientist]  <for [1000] turns>"]}
       
       			{ "text": "Marduk is sending us a warning, showing that if we depart from the Gods, we shall suffer the same fate as his enemies. We shall build a Celestial Gate to show that we remain loyal to Marduk!",
 			  "uniques": [	"Gain a free [Ishtar's Gate] [in capital]"] }
@@ -399,7 +399,7 @@
 
 			{ "text": "Get all the wise men in Babylon to observe this holy battle, quick! This war will only happen once, and we shall not have the chance to observe it in a later age.",
 			  "uniques": [	"Gain a free [Observatory] [in this city] <upon founding a city>",
-			  		"[+2 Faith] from every [Academy] "] }]
+			  		"[+2 Faith] from every [Academy]  <for [1000] turns>"] }]
   	},
 	{
 
@@ -411,13 +411,13 @@
 			  		 "[2] free [Berserker] units appear"]}
       
       			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
-			  "uniques": [	"[+2 Culture] from every [Temple] ",
+			  "uniques": [	"[+2 Culture] from every [Temple]  <for [1000] turns>",
 			  		 "[+5 Gold] from every [Gold] buildings <for [20] turns>"] }
 
 
 			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
 			  "uniques": [	"[3] free [Cataphract] units appear",
-			  		"All newly-trained [Military] units [in all cities] receive the [Deus Vult] promotion"] }]
+			  		"All newly-trained [Military] units [in all cities] receive the [Deus Vult] promotion  <for [1000] turns>"] }]
   	},
 	{
 
