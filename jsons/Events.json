@@ -327,7 +327,7 @@
 			  		"[-20]% Culture cost of natural border growth [in all cities] <for [40] turns>"]} 
       
       			{ "text": "Expanding the slave markets will allow us to have access to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
-			  "uniques": [	"[+10 Production] [in all cities] <for [20] turns>",
+			  "uniques": [	"[+15 Production] [in all cities] <for [20] turns>",
 				  	"[-5 Happiness] [in all cities] <for [50] turns>"]} 
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
@@ -344,7 +344,7 @@
 				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [30] turns>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
-			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings",
+			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings <for [50] turns>",
 			  		"Empire enters golden age"] }
 
 			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
