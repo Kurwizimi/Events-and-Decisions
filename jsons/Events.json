@@ -390,7 +390,7 @@
 		"text": "O Great Lawgiver, King of All Four Corners of the Totality, the night sky has been filled with crimson flame and streams of smoke. The great priests have claimed that our creator-god, Marduk, is waging a war against Tiamat, the mother of all Gods. How shall our empire respond to this heavenly conflict?",
 		"choices": [
 			{ "text": "This is a blessing from Marduk! Our creator shall protect us from the envious and vile forces of Tiamat, and Babylon shall be his loyal servant",
-			  "uniques": [	 "[+2 Food, +2 Science] from all [Culture] buildings <for [20] turns>",
+			  "uniques": [	 "[+2 Food, +2 Science] from all [Faith] buildings <for [20] turns>",
 			  		 "[+2 Faith] from every [Scientist]  <for [1000] turns>"]}
       
       			{ "text": "Marduk is sending us a warning, showing that if we depart from the Gods, we shall suffer the same fate as his enemies. We shall build a Celestial Gate to show that we remain loyal to Marduk!",
