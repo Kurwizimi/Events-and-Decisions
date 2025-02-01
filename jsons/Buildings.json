@@ -46,9 +46,9 @@
 		"isWonder": true,
 	},
 	{
-		"name": "Frontier Waystation",
+		"name": "Colonial Offices",
 		"cost": 80,
-		"uniques": ["[+1] population [in this city]","[20]% Food is carried over after population increases [in this city]","Unbuildable"],
+		"uniques": ["[+1] population [in this city]","[-1 Happiness] from each Trade Route","Unbuildable"],
 	},
 	{
 		"name": "Ishtar's Gate",
