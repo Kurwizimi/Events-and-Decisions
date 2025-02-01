@@ -412,7 +412,7 @@
       
       			{ "text": "Support of the Church is vital for the Patriarch to exist. If we help the Church deal with its current isues with iconoclasm, we might sway them to our side and deny the Patriachy any legitimate support.",
 			  "uniques": [	"[+2 Culture] from every [Temple]  <for [1000] turns>",
-			  		 "[+5 Gold] from every [Faith] buildings <for [20] turns>"] }
+			  		 "[+5 Gold] from every [Culture] buildings <for [20] turns>"] }
 
 
 			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
