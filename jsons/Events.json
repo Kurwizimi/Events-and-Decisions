@@ -390,7 +390,7 @@
 		"text": "O Great Lawgiver, King of All Four Corners of the Totality, the night sky has been filled with crimson flame and streams of smoke. The great priests have claimed that our creator-god, Marduk, is waging a war against Tiamat, the mother of all Gods. How shall our empire respond to this heavenly conflict?",
 		"choices": [
 			{ "text": "This is a blessing from Marduk! Our creator shall protect us from the envious and vile forces of Tiamat, and Babylon shall be his loyal servant",
-			  "uniques": [	 "[+2 Food, +2 Science] from all [Faith] buildings <for [20] turns>",
+			  "uniques": [	 "[+2 Food, +2 Science] from all [Culture] buildings <for [20] turns>",
 			  		 "[+2 Faith] from every [Scientist]  <for [1000] turns>"]}
       
       			{ "text": "Marduk is sending us a warning, showing that if we depart from the Gods, we shall suffer the same fate as his enemies. We shall build a Celestial Gate to show that we remain loyal to Marduk!",
@@ -461,19 +461,19 @@
 		"text": "Great Empress of the Middle Kingdom, a messenger awits outside the palace. They say that their message is of great importance. Oh look, here he is right now!",
 		"choices": [
 			{ "text": "Isn't that the son of my rival?... You Fool! This is an assassin, not a messenger! Guards! Guards!",
-			  "uniques": [	 "[+2 Food, +2 Gold] from every [Plantation] [in capital]",
+			  "uniques": [	 "[+2 Food, +1 Gold] from every [Plantation] <for [20] turns>",
 				  	 "[+1 Production] from every [Farm] <for [1000] turns>",
 			  		 "[-5 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "A tea merchant? An offer to establish a tea pavilion in the capital in exchange for some patronage. My, why would I reject such an offer!",
-			  "uniques": [	"[+3 Culture, +2 Happiness] from all [Opera House] buildings [in all cities] <for [1000] turns>",
+			  "uniques": [	"[+3 Culture, +2 Happiness] from all [Opera House] buildings <for [1000] turns>",
 			  		"Comment [Lose 400 Gold]",
 				 	 "Gain [-400] [Gold] <hidden from users>"] }
 
 
 			{ "text": "An envoy? There is news of a rediscovered religius text after an excavation of an old palace? This text could change the way we see the world forever!",
 			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy Site] <for [1000] turns>",
-				 	"[+2 Food, +2 Faith] from all [Faith] buildings [in all cities] <for [20] turns>"] }]
+				 	"[+2 Food, +2 Faith] from all [Faith] buildings <for [20] turns>"] }]
   	},
 	{
 
@@ -481,7 +481,7 @@
 		"text": "High Thane, may Odin bless your soul! A horde of men have gathered outside the Palace, drunk of fire and anger. What shall be done to quell this rabble?",
 		"choices": [
 			{ "text": "They are angry due to the lack of housing in the winter. What good will happen if we let our people freeze? Open up the barracks so that these men have a place to rest!",
-			  "uniques": [	 "[+2 Food, +2 Culture] from all [Barracks] buildings [in all cities] <for [1000] turns>",
+			  "uniques": [	 "[+2 Food, +2 Culture] from all [Barracks] buildings  <for [1000] turns>",
 			 		 "[+5 Food] [in all cities] <for [20] turns>"]}
       
       			{ "text": "They are angry because of the lack of faith in our empire. Maybe we shouldn't have pillaged all those monestaries... No worry! We shall build our own churches!",
@@ -490,7 +490,7 @@
 
 			{ "text": "They are angry as our coast have been left unprotected. Even the most pathetic cities can bolster a navy greater than ours! This shall not be the case, as the seas belong to the Danes!",
 			  "uniques": [	"[+5 Production] from every [Citadel] <for [1000] turns>",
-				 	"[+2 Production] from all [Culture] buildings [in all cities] <for [20] turns>"] }]
+				 	"[+2 Production] from all [Culture] buildings <for [20] turns>"] }]
   	},
 	{
 
@@ -506,7 +506,7 @@
 
 
 			{ "text": "He shall help me purge the old, idiosyncratic ways of the nobility and start a lineage of fresh leaders. Now Egypt shall not fall behind its enemies!",
-			  "uniques": [	"[+3 Culture] from every [Farm] tiles  <for [20] turns>",
+			  "uniques": [	"[+4 Culture] from [Farm] tiles  <for [20] turns>",
 			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
   	},
 	{
@@ -519,12 +519,12 @@
 			  		 "Empire enters golden age"]}
       
       			{ "text": "We need to keep the church united and free from external influence. Make him the new Archbishop of Canterbury, and let him restore the faith in our empire! ",
-			  "uniques": [	"May buy [Parish Church] buildings with [Faith] <in cities with an enhanced religion> <for [1000] turns>",
+			  "uniques": [	"May buy [Parish Church] buildings with [Faith] <for [1000] turns>",
 			  		"[+50]% resources gifted by City-States <in cities following our religion> <for [1000] turns>"] }
 
 
 			{ "text": "The fringes of our empire may be susceptible to rebellion and distrust. This will hamper our imperial ambitions. Let this man be our colonial governor, so that the sun shall never set on the empire.",
-			  "uniques": [	"May buy [Courthouse] buildings with [Gold] <for [1000] turns>",
+			  "uniques": [	"May buy [Colonial Offices] buildings with [Gold] <for [1000] turns>",
 			  		"Gain an extra spy"] }]
   	},
 	{
