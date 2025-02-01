@@ -55,7 +55,7 @@
 		"cost": 80,
 		"culture": 2,
 		"percentStatBonus": {"production": 20},
-		"uniques": ["Provides [2] [Mušḫuššu Art 𒈲𒍽]","Unbuildable"],
+		"uniques": ["Provides [2] [Mušḫuššu Art]","Unbuildable"],
 		"isNationalWonder": true,
 	},
 	{
