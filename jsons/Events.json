@@ -324,7 +324,7 @@
 		"choices": [
 			{ "text": "By expanding into the frontiers and bringing civilisation to these untamed lands, the United States shall secure its position in this world. Forwards to our Destiny!",
 			  "uniques": [	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns> ",
-			  		"Upon constructing a [Pasture], gain control of its surrounding tiles"]} 
+			  		"[-20]% Culture cost of natural border growth [in all cities] <for [40] turns>"]} 
       
       			{ "text": "Expanding the slave markets will allow us to have access to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
 			  "uniques": [	"[+10 Production] [in all cities] <for [20] turns>",
@@ -332,6 +332,7 @@
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
 			  "uniques": [	"Rebel units may spawn <for [50] turns>",
+				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [50] turns>",
 			  		"[Land] units gain the [We the People] promotion"] } ]
   	},
 	{
