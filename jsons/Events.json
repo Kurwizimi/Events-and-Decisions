@@ -324,7 +324,7 @@
 		"choices": [
 			{ "text": "By expanding into the frontiers and bringing civilisation to these untamed lands, the United States shall secure its position in this world. Forwards to our Destiny!",
 			  "uniques": [	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [20] turns> ",
-			  		"Gain a free [Frontier Waystation] [in this city] <upon founding a city>"]} 
+			  		"Upon constructing a [Pasture], gain control of its surrounding tiles"]} 
       
       			{ "text": "Expanding the slave markets will allow us to have access to more cheap labour, allowing us to develop more quickly and efficiently. For industry and progress!",
 			  "uniques": [	"[+10 Production] [in all cities] <for [20] turns>",
