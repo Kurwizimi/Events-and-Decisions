@@ -12,4 +12,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * Covered Wagon by James Keuning : "https://thenounproject.com/icon/covered-wagon-9099/"
 * ishtar gate by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/ishtar-gate/" target="_blank" title="ishtar gate Icons">Noun Project</a> (CC BY 3.0)
 * Cross by Evgeni Moryakov from <a href="https://thenounproject.com/browse/icons/term/cross/" target="_blank" title="Cross Icons">Noun Project</a> (CC BY 3.0)
+* cross patty by Mourad Mokrane from <a href="https://thenounproject.com/browse/icons/term/cross-patty/" target="_blank" title="cross patty Icons">Noun Project</a> (CC BY 3.0)
+* Knight by Hayden Kerrisk from <a href="https://thenounproject.com/browse/icons/term/knight/" target="_blank" title="Knight Icons">Noun Project</a> (CC BY 3.0)
+* polish eagle by Robert Bjurshagen from <a href="https://thenounproject.com/browse/icons/term/polish-eagle/" target="_blank" title="polish eagle Icons">Noun Project</a> (CC BY 3.0)
 * 
