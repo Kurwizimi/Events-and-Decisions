@@ -580,10 +580,31 @@
       			{ "text": "Crusaders and hires knights are constantly being hired by dukes and barons, forming paramilitaries that threaten our stability. We must merge them into one order, for the betterment of the people.",
 			  "uniques": [	 "[2] free [Teutonic Order Knight] units appear",
 			  		"[2] free [Livonian Order Knight] units appear",
-			  		"[1] free [Pomeranian Knight] units appear",] }
+			  		"[1] free [Pomeranian Knight] units appear"] }
 
 
 			{ "text": "German trade has fallen dramatically, causing our craftsmen and merchants to become penniless. We shall form the Hanseatic League to improve trade relations and stop us from entering an economic disaster.",
+			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
+			  		"Gain [300] [Gold]" ] }]
+  	},
+
+	{
+
+		"name": "Greece UE", //On 
+		"text": "",
+		"choices": [
+			{ "text": "",
+			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Woodsman] promotion <for [1000] turns>",
+			  		"[Land] units gain the [Woodsman] promotion",
+			  		"[+1 Culture] from every [Forest] <for [9999] turns>" ]} 
+      
+      			{ "text": "",
+			  "uniques": [	 "[2] free [Teutonic Order Knight] units appear",
+			  		"[2] free [Livonian Order Knight] units appear",
+			  		"[1] free [Pomeranian Knight] units appear"] }
+
+
+			{ "text": "",
 			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
 			  		"Gain [300] [Gold]" ] }]
   	},
