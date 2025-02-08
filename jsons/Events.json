@@ -551,7 +551,7 @@
 		"choices": [
 			{ "text": "The support of the intelligensia has waned because salon culture has declined. If I partake in this activity, it may revitalise it, and bring the brains of the nation back to being loyal.",
 			  "uniques": [	 "[+3 Science] from every [Garden] <for [20] turns>",
-			  		"[+3 Culture] from every [Garden]  <for [9999] turns> <hidden from users>" ]} //
+			  		"[+3 Culture] from every [Garden]  <for [9999] turns>" ]} //
       
       			{ "text": "French culture has been inhibited be th Academei of Paris, trying to moderate and standardise every pathetic thing, crushing the will of the people under its hobnailed boot. The arts shall be left free of control, for the people and by the people!",
 			  "uniques": [	 "Comment [ +5 Culture from every National Wonder ]",
@@ -564,7 +564,28 @@
 			  		"[-20 Happiness] [in all cities] <for [2] turns>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
-			  		"[2] Free Social Policies"] }]
+			  		"[2] Free Social Policies",
+			  		"Empire enters a [7]-turn Golden Age"] }]
+  	},
+	{
+
+		"name": "Germany UE", //On 
+		"text": "Chancellor, the governors of all of our provnices has arrived at the Bundesrat to discuss solutions to solve rising issues in our nation. Old rivalries have flared up and even the greatest compronise cannot suppress these fueds. The german people need your power to restore order.",
+		"choices": [
+			{ "text": "These divisions between the pagans and the church have left our enemies an opportunity to see our weaknesses. We must unite ourselves under one banner, and forge a new people to dominate this world",
+			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Woodsman] promotion <for [1000] turns>",
+			  		"[Land] units gain the [Woodsman] promotion",
+			  		"[+1 Culture] from every [Forest] <for [9999] turns>" ]} 
+      
+      			{ "text": "Crusaders and hires knights are constantly being hired by dukes and barons, forming paramilitaries that threaten our stability. We must merge them into one order, for the betterment of the people.",
+			  "uniques": [	 "[2] free [Teutonic Order Knight] units appear",
+			  		"[2] free [Livonian Order Knight] units appear",
+			  		"[1] free [Pomeranian Knight] units appear",] }
+
+
+			{ "text": "German trade has fallen dramatically, causing our craftsmen and merchants to become penniless. We shall form the Hanseatic League to improve trade relations and stop us from entering an economic disaster.",
+			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
+			  		"Gain [300] [Gold]" ] }]
   	},
 	
 
