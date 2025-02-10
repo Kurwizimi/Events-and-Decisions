@@ -593,18 +593,17 @@
 		"name": "Greece UE", //On 
 		"text": "Great Conquerer, some people are seeking an audience in the court, as usual. However they haven't revealed why yet, and they do seem to carry urgent information. What must they need to tell?",
 		"choices": [
-			{ "text": "",
-			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Woodsman] promotion <for [1000] turns>",
-			  		"[Land] units gain the [Woodsman] promotion",
-			  		"[+1 Culture] from every [Forest] <for [9999] turns>" ]} 
+			{ "text": "I recognise these people... they are my old teachers! These men taught me all the skills I have used to become such a great leader! Show them hospitality and give them a place in my court, it is the least I can do!",
+			  "uniques": [	 "[+3 Culture] from every [Library] <for [20] turns>",
+			  		 "[+2 Science] from every [Library]  <for [9999] turns>",
+			  		 "Free Technology"]} 
       
-      			{ "text": "",
-			  "uniques": [	 "[2] free [Teutonic Order Knight] units appear",
-			  		"[2] free [Livonian Order Knight] units appear",
-			  		"[1] free [Pomeranian Knight] units appear"] }
+      			{ "text": "These men are priests from Mount Athos. They bring news of a great birth, as revealed to them in an Oracle's prophecy. How glorious!",
+			  "uniques": [	 "Free Great Person",
+			  		"[+50]% Great Person generation [in capital] <for [20] turns>"] }
 
 
-			{ "text": "",
+			{ "text": "Emmisaries from a... society? They claim to have underground links and spies around my empire and beyond, and they wish to help me? My... I shouldn't be turning down an opportunity like this!",
 			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
 			  		"Gain [300] [Gold]" ] }]
   	},
