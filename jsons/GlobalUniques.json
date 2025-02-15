@@ -21,6 +21,8 @@
 		"Triggers a [England UE] event <for [England] Civilizations> <upon discovering [Navigation] technology>",
 		"Triggers a [Ethiopia UE] event <for [Ethiopia] Civilizations> <upon discovering [Currency] technology>",
 		"Triggers a [France UE] event <for [France] Civilizations> <upon discovering [Steam Power] technology>",
+		"Triggers a [Germany UE] event <for [Ethiopia] Civilizations> <upon discovering [Civil Service] technology>",
+		"Triggers a [Greece UE] event <for [France] Civilizations> <upon discovering [Philosophy] technology>",
 		
 		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
 		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
