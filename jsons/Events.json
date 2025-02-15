@@ -569,7 +569,7 @@
   	},
 	{
 
-		"name": "Germany UE", //On 
+		"name": "Germany UE", //On Civil Service
 		"text": "Chancellor, the governors of all of our provnices has arrived at the Bundesrat to discuss solutions to solve rising issues in our nation. Old rivalries have flared up and even the greatest compronise cannot suppress these fueds. The german people need your power to restore order.",
 		"choices": [
 			{ "text": "These divisions between the pagans and the church have left our enemies an opportunity to see our weaknesses. We must unite ourselves under one banner, and forge a new people to dominate this world",
@@ -590,7 +590,7 @@
 
 	{
 
-		"name": "Greece UE", //On 
+		"name": "Greece UE", //On Philosophy
 		"text": "Great Conquerer, some people are seeking an audience in the court, as usual. However they haven't revealed why yet, and they do seem to carry urgent information. What must they need to tell?",
 		"choices": [
 			{ "text": "I recognise these people... they are my old teachers! These men taught me all the skills I have used to become such a great leader! Show them hospitality and give them a place in my court, it is the least I can do!",
@@ -604,6 +604,23 @@
 
 
 			{ "text": "Emmisaries from a... secret society?! They claim to have underground links and spies around my empire and beyond, and they wish to help me? My... I shouldn't be turning down an opportunity like this!",
+			  "uniques": [	"[+20]% [Culture] [in all cities] <for [20] turns>",
+			  		"Gain [200] [Faith]"] }]
+  	},
+
+	{
+
+		"name": "Inca UE", //On 
+		"text": "Sapa Inca, the leaders of your vassals have arrives at the Palace today. They are prepared to give you whatever tribute you ask for them. What will demand from your servants, Great Emperor?",
+		"choices": [
+			{ "text": "The backbone of our nation is our livestock, without it, travel and commerce would be impossible. So I shall demand my vassals to give me their alpacas and llamas, to ensure our nation has enough livestock to thrive.",
+			  "uniques": [	 ]} 
+      
+      			{ "text": "Riches from the mountains and rare goods from the earth have been gifted to us by the Gods. My vassals shall gift me these luxuries, so we can uncover the vast riches the Gods have given to us",
+			  "uniques": [	 ] }
+
+
+			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
 			  "uniques": [	"[+20]% [Culture] [in all cities] <for [20] turns>",
 			  		"Gain [200] [Faith]"] }]
   	},
