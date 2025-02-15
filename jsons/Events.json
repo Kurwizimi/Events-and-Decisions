@@ -603,9 +603,9 @@
 			  		"[+50]% Great Person generation [in capital] <for [20] turns>"] }
 
 
-			{ "text": "Emmisaries from a... society? They claim to have underground links and spies around my empire and beyond, and they wish to help me? My... I shouldn't be turning down an opportunity like this!",
-			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
-			  		"Gain [300] [Gold]" ] }]
+			{ "text": "Emmisaries from a... secret society?! They claim to have underground links and spies around my empire and beyond, and they wish to help me? My... I shouldn't be turning down an opportunity like this!",
+			  "uniques": [	"[+20]% [Culture] [in all cities] <for [20] turns>",
+			  		"Gain [200] [Faith]"] }]
   	},
 	
 
