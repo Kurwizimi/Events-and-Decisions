@@ -610,19 +610,21 @@
 
 	{
 
-		"name": "Inca UE", //On 
+		"name": "Inca UE", //On Guilds
 		"text": "Sapa Inca, the leaders of your vassals have arrives at the Palace today. They are prepared to give you whatever tribute you ask for them. What will demand from your servants, Great Emperor?",
 		"choices": [
 			{ "text": "The backbone of our nation is our livestock, without it, travel and commerce would be impossible. So I shall demand my vassals to give me their alpacas and llamas, to ensure our nation has enough livestock to thrive.",
-			  "uniques": [	 ]} 
+			  "uniques": [	 "[+2 Culture, +1 Food] from every [Sheep] <for [9999] turns>",
+			  		"[+2 Happiness] [in all cities] <for [20] turns>",]} 
       
       			{ "text": "Riches from the mountains and rare goods from the earth have been gifted to us by the Gods. My vassals shall gift me these luxuries, so we can uncover the vast riches the Gods have given to us",
-			  "uniques": [	 ] }
+			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
+			  		 "[+2 Production] from every [Hill] <for [20] turns>",] }
 
 
 			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
-			  "uniques": [	"[+20]% [Culture] [in all cities] <for [20] turns>",
-			  		"Gain [200] [Faith]"] }]
+			  "uniques": [	"[+200]% [Faith] [in all cities] <for [20] turns>",
+			  		"Gain a free [Shrine] [in this city] <upon founding a city>",] }]
   	},
 	
 
