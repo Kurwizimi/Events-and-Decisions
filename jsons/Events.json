@@ -615,14 +615,32 @@
 		"choices": [
 			{ "text": "The backbone of our nation is our livestock, without it, travel and commerce would be impossible. So I shall demand my vassals to give me their alpacas and llamas, to ensure our nation has enough livestock to thrive.",
 			  "uniques": [	 "[+2 Culture, +1 Food] from every [Sheep] <for [9999] turns>",
-			  		"[+2 Happiness] [in all cities] <for [20] turns>",]} 
+			  		"[+2 Happiness] [in all cities] <for [20] turns>"]} 
       
       			{ "text": "Riches from the mountains and rare goods from the earth have been gifted to us by the Gods. My vassals shall gift me these luxuries, so we can uncover the vast riches the Gods have given to us",
+			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
+			  		 "[+2 Production] from every [Hill] <for [20] turns>"] }
+
+
+			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
+			  "uniques": [	"[+200]% [Faith] [in all cities] <for [20] turns>",
+			  		"Gain a free [Shrine] [in this city] <upon founding a city>"] }]
+  	},
+
+	{
+
+		"name": "India UE", //On 
+		"text": "Namaste, great leader. If it does not bother you, your councilof Lords wishes you to share some of your wisdom. They believe that it will greatly benefit their work and help them address some of the issues that we have recently been having.",
+		"choices": [
+			{ "text": "Faith is nessecary for men to do great things. My lords shall need to lean closer to heaven, and only then shall they reap the rewards for their actions.",
+			  "uniques": [	 ]} 
+      
+      			{ "text": "We need to protect ourselves from outside threats. Our enemies will spare no expense to drestroy our nation, so we shall do everything in our power to prevent it!",
 			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
 			  		 "[+2 Production] from every [Hill] <for [20] turns>",] }
 
 
-			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
+			{ "text": "The people in the lands we have recently expanded into have .",
 			  "uniques": [	"[+200]% [Faith] [in all cities] <for [20] turns>",
 			  		"Gain a free [Shrine] [in this city] <upon founding a city>",] }]
   	},
