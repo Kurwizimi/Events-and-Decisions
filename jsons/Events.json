@@ -629,20 +629,24 @@
 
 	{
 
-		"name": "India UE", //On 
+		"name": "India UE", //On Education
 		"text": "Namaste, great leader. If it does not bother you, your councilof Lords wishes you to share some of your wisdom. They believe that it will greatly benefit their work and help them address some of the issues that we have recently been having.",
 		"choices": [
 			{ "text": "Faith is nessecary for men to do great things. My lords shall need to lean closer to heaven, and only then shall they reap the rewards for their actions.",
-			  "uniques": [	 ]} 
+			  "uniques": [	  "[+5 Food] from every [Monument] <for [20] turns>",
+			  		   "Gain a free [Temple] [in this city] <upon founding a city>"]} 
       
       			{ "text": "We need to protect ourselves from outside threats. Our enemies will spare no expense to drestroy our nation, so we shall do everything in our power to prevent it!",
-			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
-			  		 "[+2 Production] from every [Hill] <for [20] turns>",] }
+			  "uniques": [	  "[+3 Culture] from every [Mughal Fort] <for [20] turns>",
+			  		 "[+2 Faith] from every [Mughal Fort]  <for [9999] turns>",] }
 
 
-			{ "text": "The people in the lands we have recently expanded into have .",
-			  "uniques": [	"[+200]% [Faith] [in all cities] <for [20] turns>",
-			  		"Gain a free [Shrine] [in this city] <upon founding a city>",] }]
+			{ "text": "The people in the lands we have recently expanded into have complained about how they are treated under the caste system. we must abolish this backwards system, even if it might anger the lords of the nation",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>",
+			  		"[-20 Happiness] [in all cities] <for [2] turns>",
+				  	"Nullifies [Science] [in all cities] <for [2] turns>",
+				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
+			  		"[+200]% [Food] [in all cities] <for [20] turns>",] }]
   	},
 	
 
