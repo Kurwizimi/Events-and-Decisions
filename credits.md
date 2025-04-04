@@ -1,7 +1,7 @@
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
 * Credit to https://github.com/the-s-is-silent/Wasteland-Happenings and Sukritact's Events and Decisions Mod for inspiring me
-* PMC design from https://github.com/Caballero-Arepa/Latin-American_Civs (dont worry, this is just a placeholder, i will make my own sprite soon!)
+* PMC design from https://github.com/Caballero-Arepa/Latin-American_Civs
 * [PMC] Kalash by Robert Bjurshagen from <a href="https://thenounproject.com/browse/icons/term/kalash/" target="_blank" title="Kalash Icons">Noun Project</a> (CC BY 3.0)
 * laws of physics by Juicy Fish from <a href="https://thenounproject.com/browse/icons/term/laws-of-physics/" target="_blank" title="laws of physics Icons">Noun Project</a> (CC BY 3.0)
 * Subway by Jang Jeong Eui from <a href="https://thenounproject.com/browse/icons/term/subway/" target="_blank" title="Subway Icons">Noun Project</a> (CC BY 3.0)
@@ -15,4 +15,6 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * cross patty by Mourad Mokrane from <a href="https://thenounproject.com/browse/icons/term/cross-patty/" target="_blank" title="cross patty Icons">Noun Project</a> (CC BY 3.0)
 * Knight by Hayden Kerrisk from <a href="https://thenounproject.com/browse/icons/term/knight/" target="_blank" title="Knight Icons">Noun Project</a> (CC BY 3.0)
 * polish eagle by Robert Bjurshagen from <a href="https://thenounproject.com/browse/icons/term/polish-eagle/" target="_blank" title="polish eagle Icons">Noun Project</a> (CC BY 3.0)
-* 
+* Crusader by Marnix 't Hart from <a href="https://thenounproject.com/browse/icons/term/crusader/" target="_blank" title="Crusader Icons">Noun Project</a> (CC BY 3.0)
+* slave by Dicky Prayudawanto from <a href="https://thenounproject.com/browse/icons/term/slave/" target="_blank" title="slave Icons">Noun Project</a> (CC BY 3.0)
+* Japanese Sun by Coloranz Rockzx from <a href="https://thenounproject.com/browse/icons/term/japanese-sun/" target="_blank" title="Japanese Sun Icons">Noun Project</a> (CC BY 3.0)
