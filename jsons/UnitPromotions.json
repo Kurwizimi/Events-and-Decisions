@@ -1,23 +1,18 @@
 [
-	{
+		{
 		"name": "We the People",
         	"uniques": ["[+50]% Strength <in [Foreign Land] tiles> <when defending>"],
-		"row": 140,
-      		"column": 0,
-
-	}
-	{
+	},
+		{
 		"name": "Deus Vult",
         	"uniques": ["[+15]% Strength <in [Foreign Land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"row": 130,
-      		"column": 0,
-
-	}
-	{
+	},
+		{
 		"name": "Pirate Slaver",
-        	"uniques": ["Earn [100]% of the damage done to [Water] units as [Gold]"],
-		"row": 120,
-      		"column": 0,
-
+        	"uniques": ["Earn [150]% of the damage done to [Water] units as [Gold]"],
+	}
+		{
+		"name": "Eternal Mourning",
+        	"uniques": ["Earn [50]% of the damage done to [Military] units as [Production]", "Earn [25]% of killed [Military] unit's [Strength] as [Faith]"],
 	}
 ]
