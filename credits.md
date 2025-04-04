@@ -18,3 +18,4 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * Crusader by Marnix 't Hart from <a href="https://thenounproject.com/browse/icons/term/crusader/" target="_blank" title="Crusader Icons">Noun Project</a> (CC BY 3.0)
 * slave by Dicky Prayudawanto from <a href="https://thenounproject.com/browse/icons/term/slave/" target="_blank" title="slave Icons">Noun Project</a> (CC BY 3.0)
 * Japanese Sun by Coloranz Rockzx from <a href="https://thenounproject.com/browse/icons/term/japanese-sun/" target="_blank" title="Japanese Sun Icons">Noun Project</a> (CC BY 3.0)
+* grief by icon trip from <a href="https://thenounproject.com/browse/icons/term/grief/" target="_blank" title="grief Icons">Noun Project</a> (CC BY 3.0)
