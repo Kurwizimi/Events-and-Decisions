@@ -17,8 +17,7 @@
         "strength": 27,
         "cost": 120,
         "upgradesTo": "Cavalry",
-        "uniques": [
-            "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>","Unbuildable","Cannot be purchased"],
+        "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>","Unbuildable","Cannot be purchased"],
         "attackSound": "horse"
     },
 
@@ -29,8 +28,7 @@
         "strength": 20,
         "cost": 120,
         "upgradesTo": "Cavalry",
-        "uniques": [
-            "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>","Unbuildable","Cannot be purchased"],
+        "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>","Unbuildable","Cannot be purchased"],
         "attackSound": "horse"
     },
 
@@ -41,8 +39,7 @@
         "strength": 20,
         "cost": 120,
         "upgradesTo": "Cavalry",
-        "uniques": [
-            "Can move after attacking", "No defensive terrain bonus", "Unbuildable","Cannot be purchased"],
+        "uniques": ["Can move after attacking", "No defensive terrain bonus", "Unbuildable","Cannot be purchased"],
         "attackSound": "horse"
     },
 ]
