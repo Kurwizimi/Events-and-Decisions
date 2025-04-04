@@ -59,7 +59,8 @@
 					"Gain [-100] [Gold] <hidden from users>" ]},
       
      			{ "text": "Confiscate what little estate he possesses and then have him executed!",
-			  "uniques": ["Gain [60] [Gold]",
+			  "uniques": ["[-2 Happiness] [in all cities] <for [10] turns>",
+				      "Gain [60] [Gold]",
                   		      "Gain [25]-[35] [Culture]"] }]
   },
 
@@ -379,7 +380,6 @@
 			  "uniques": [	"[+10 Happiness] [in all cities]  <for [1000] turns>",
 			  		"[+20]% growth [in all cities] <for [20] turns>"] }
 
-
 			{ "text": "People on the borders of our empire are starting to not pay tribute to their preists and are showing signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
 			  "uniques": [	"[+10 Gold] from [Plantation] tiles [in all cities] <for [20] turns>",
 				  	"[-5 Happiness] [in all cities] <for [20] turns>"] }]
@@ -395,7 +395,6 @@
       
       			{ "text": "Marduk is sending us a warning, showing that if we depart from the Gods, we shall suffer the same fate as his enemies. We shall build a Celestial Gate to show that we remain loyal to Marduk!",
 			  "uniques": [	"Gain a free [Ishtar's Gate] [in capital]"] }
-
 
 			{ "text": "Get all the wise men in Babylon to observe this holy battle, quick! This war will only happen once, and we shall not have the chance to observe it in a later age.",
 			  "uniques": [	"Gain a free [Observatory] [in this city] <upon founding a city>",
@@ -414,7 +413,6 @@
 			  "uniques": [	"[+2 Culture] from every [Temple]  <for [1000] turns>",
 			  		 "[+5 Gold] from all [Faith] buildings <for [20] turns>"] }
 
-
 			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
 			  "uniques": [	"[3] free [Cataphract] units appear",
 			  		"All newly-trained [Military] units [in all cities] receive the [Deus Vult] promotion  <for [1000] turns>"] }]
@@ -432,7 +430,6 @@
 			  "uniques": [	"[2] free [African Forest Elephant] units appear",
 			  		"[+100]% [Faith] [in capital] <for [20] turns>"] }
 
-
 			{ "text": "There is a young naval commander that has successfuly led many daring raids on the ports of our enemies. This will help us strengthen our navy significantly. As long as he doesn't have an eyepatch or pegleg, he shall be my new husband.",
 			  "uniques": [	"[+3 Production, +3 Gold] from every [Harbor]  <for [20] turns>",
 			  		"All newly-trained [Water] units [in all cities] receive the [Pirate Slaver] promotion <for [1000] turns>"] }]
@@ -449,7 +446,6 @@
       			{ "text": "Our tribes need to unite so that we do not falter to the iron fist of our enemies. There shall be one united Celtica, a nation against imperialism and oppression!",
 			  "uniques": [	"[2] free [Pictish Warrior] units appear",
 			  		"[2] free [Berserker] units appear"] }
-
 
 			{ "text": "We need to ensure that our culture does not be overcomed be our enemy's traditions. We must encourage our people to take up the arts, so that the Celtic culture shall stand the test of time!",
 			  "uniques": [	"[+2 Faith] from every [Landmark] <for [1000] turns>",
@@ -470,7 +466,6 @@
 			  		"Comment [Lose 400 Gold]",
 				 	 "Gain [-400] [Gold] <hidden from users>"] }
 
-
 			{ "text": "An envoy? There is news of a rediscovered religious text after an excavation of an old palace? This text could change the way we see the world forever!",
 			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy Site] <for [1000] turns>",
 				 	"[+2 Food, +2 Faith] from all [Culture] buildings <for [20] turns>"] }]
@@ -487,7 +482,6 @@
       			{ "text": "They are angry because of the lack of faith in our empire. Maybe we shouldn't have pillaged all those monestaries... No worry! We shall build our own churches!",
 			  "uniques": [	"Gain a free [Stave Church] [in all cities] <upon founding a city>"] }
 
-
 			{ "text": "They are angry as our coast have been left unprotected. Even the most pathetic cities can bolster a navy greater than ours! This shall not be the case, as the seas belong to the Danes!",
 			  "uniques": [	"[+5 Production] from every [Citadel] <for [1000] turns>",
 				 	"[+2 Production] from all [Culture] buildings <for [20] turns>"] }]
@@ -503,7 +497,6 @@
       			{ "text": "He shall guide our engineers to construct machines accross our rivers, so that we can predict their flooding.",
 			  "uniques": [	"[+2 Production] from [Flood plains] tiles [in all cities] <for [20] turns>",
 			  		"[+1 Food] from [Flood plains] tiles [in all cities] <for [1000] turns>"] }
-
 
 			{ "text": "He shall help me purge the old, idiosyncratic ways of the nobility and start a lineage of fresh leaders. Now Egypt shall not fall behind its enemies!",
 			  "uniques": [	"[+4 Culture] from [Farm] tiles  <for [20] turns>",
@@ -522,7 +515,6 @@
 			  "uniques": [	"Gain a free [Parish Church] [in all cities]",
 			  		"[+50]% resources gifted by City-States <in cities following our religion> <for [1000] turns>"] }
 
-
 			{ "text": "The fringes of our empire may be susceptible to rebellion and distrust. This will hamper our imperial ambitions. Let this man be our colonial governor, so that the sun shall never set on the empire.",
 			  "uniques": [	"Gain a free [Colonial Offices] [in all cities]",
 			  		"Gain an extra spy"] }]
@@ -538,7 +530,6 @@
       			{ "text": "In this world plagued by division, we allow things like race and creed to set us apart. But God does not see the color of our skin, only the goodness of our soul. We will write it in our songs, in our tales, in our laws.",
 			  "uniques": [	 "[3] free [Pikeman] units appear",
 			  		 "Empire enters a [20]-turn Golden Age"] }
-
 
 			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
 			  "uniques": [	"[+2 Food] from every [Farm] <for [20] turns>",
@@ -558,7 +549,6 @@
 				  	"[+5 Culture] from every [National Wonder] <for [9999] turns> <hidden from users>",
 			  		 "Empire enters a [10]-turn Golden Age"] }
 
-
 			{ "text": "Bah! Can the people not see that I am a master leader!? If those ungratful brutes believe they deserve anything more than they already got, then I'll make them grateful!",
 			  "uniques": [	"Rebel units may spawn <for [30] turns>",
 			  		"[-20 Happiness] [in all cities] <for [2] turns>",
@@ -573,7 +563,7 @@
 		"text": "Chancellor, the governors of all of our provnices has arrived at the Bundesrat to discuss solutions to solve rising issues in our nation. Old rivalries have flared up and even the greatest compronise cannot suppress these fueds. The german people need your power to restore order.",
 		"choices": [
 			{ "text": "These divisions between the pagans and the church have left our enemies an opportunity to see our weaknesses. We must unite ourselves under one banner, and forge a new people to dominate this world",
-			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Woodsman] promotion <for [1000] turns>",
+			  "uniques": [	"All newly-trained [Land] units [in all cities] receive the [Woodsman] promotion <for [1000] turns>",
 			  		"[Land] units gain the [Woodsman] promotion",
 			  		"[+1 Culture] from every [Forest] <for [9999] turns>" ]} 
       
@@ -581,7 +571,6 @@
 			  "uniques": [	 "[2] free [Teutonic Order Knight] units appear",
 			  		"[2] free [Livonian Order Knight] units appear",
 			  		"[1] free [Pomeranian Knight] units appear"] }
-
 
 			{ "text": "German trade has fallen dramatically, causing our craftsmen and merchants to become penniless. We shall form the Hanseatic League to improve trade relations and stop us from entering an economic disaster.",
 			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
@@ -602,7 +591,6 @@
 			  "uniques": [	 "Free Great Person",
 			  		"[+50]% Great Person generation [in capital] <for [20] turns>"] }
 
-
 			{ "text": "Emmisaries from a... secret society?! They claim to have underground links and spies around my empire and beyond, and they wish to help me? My... I shouldn't be turning down an opportunity like this!",
 			  "uniques": [	"[+20]% [Culture] [in all cities] <for [20] turns>",
 			  		"Gain [200] [Faith]"] }]
@@ -621,7 +609,6 @@
 			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
 			  		 "[+2 Production] from every [Hill] <for [20] turns>"] }
 
-
 			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
 			  "uniques": [	"[+200]% [Faith] [in all cities] <for [20] turns>",
 			  		"Gain a free [Shrine] [in this city] <upon founding a city>"] }]
@@ -630,25 +617,41 @@
 	{
 
 		"name": "India UE", //On Education
-		"text": "Namaste, great leader. If it does not bother you, your councilof Lords wishes you to share some of your wisdom. They believe that it will greatly benefit their work and help them address some of the issues that we have recently been having.",
+		"text": "Namaste, great leader. If it does not bother you, your council of Lords wish you to share some of your wisdom. They believe that it will greatly benefit their work and help them address some of the issues that we have recently been having.",
 		"choices": [
 			{ "text": "Faith is nessecary for men to do great things. My lords shall need to lean closer to heaven, and only then shall they reap the rewards for their actions.",
 			  "uniques": [	  "[+5 Food] from every [Monument] <for [20] turns>",
 			  		   "Gain a free [Temple] [in this city] <upon founding a city>"]} 
       
       			{ "text": "We need to protect ourselves from outside threats. Our enemies will spare no expense to drestroy our nation, so we shall do everything in our power to prevent it!",
-			  "uniques": [	  "[+3 Culture] from every [Mughal Fort] <for [20] turns>",
-			  		 "[+2 Faith] from every [Mughal Fort]  <for [9999] turns>",] }
+			  "uniques": [	 "[+3 Culture] from every [Mughal Fort] <for [20] turns>",
+			  		 "[+2 Faith] from every [Mughal Fort]  <for [9999] turns>" ] }
 
-
-			{ "text": "The people in the lands we have recently expanded into have complained about how they are treated under the caste system. we must abolish this backwards system, even if it might anger the lords of the nation",
+			{ "text": "The people in the lands we have recently expanded into have complained about how they are treated under the caste system. We must abolish this backwards system, even if it might anger the lords of the nation",
 			  "uniques": [	"Rebel units may spawn <for [30] turns>",
 			  		"[-20 Happiness] [in all cities] <for [2] turns>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
-			  		"[+200]% [Food] [in all cities] <for [20] turns>",] }]
+			  		"[+100]% [Food] [in all cities] <for [100] turns>",] }]
+  	},
+
+	{
+
+		"name": "Iroquois UE", //On 
+		"text": "Great Chieftan! All of the lessert chiefs have gathered here today as the Mid-Winter festival draws to a close. What shall our tribes pla for this year, to ensure our freedom and heratige?",
+		"choices": [
+			{ "text": "We have fought in many wars recently, and now many families mourn the loss of their kin. We shall devout this year for retribution against our enemies, for these soldiers have not died in vain!",
+			  "uniques": [	  "All newly-trained [Land] units [in all cities] receive the [Eternal Mourning] promotion <for [1000] turns>",
+			  		   "[+2 Food] from every [Barracks] <for [20] turns>"]} 
+      
+      			{ "text": "Our people have grow weary, as morale within tribes have faltered. Therefore we shall unite our people and help rid them of their idleness by making them participate in more sports!",
+			  "uniques": [	  "[+2 Happiness] in cities on [unimproved] tiles <for [20] turns>",
+				  	  "[+2 Culture] from all [Happiness] buildings <for [9999] turns>"] }
+
+			{ "text": "Foriegn empires have taken interest in our decorative Wampum beads. By producing more of them and selling them to these people, we will surely benefit.",
+			  "uniques": [	"[+3 Gold, +2 Production] from every [Longhouse] <for [20] turns>",
+			  		"[+3 Culture] from every [Luxury] <for [9999] turns>",] }]
   	},
 	
-
 	
 ]
