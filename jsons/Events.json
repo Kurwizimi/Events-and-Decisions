@@ -653,22 +653,22 @@
 			  		"[+3 Culture] from every [Luxury] <for [9999] turns>",] }]
   	},
 
-	{
+		{
 
 		"name": "Japan UE", //On Gunpowder
 		"text": "Great Shogun! Your presence is needed at the Chrysanthemum Throne. The Emperor urgently requires you to be there.",
 		"choices": [
 			{ "text": "The Emperor is displeased with his court musicians. For commiting the crime of displeasing the emperor, we shall have them and their families killed!",
-			  "uniques": [	  "All newly-trained [Land] units [in all cities] receive the [Eternal Mourning] promotion <for [1000] turns>",
-			  		   "[+2 Food] from every [Barracks] <for [20] turns>"]} 
+			  "uniques": [	   "Comment [Lose 300 Gold]",
+				  	   "Gain [-300] [Gold]" ,
+			  		   "[+3 Culture] from every [Castle] <for [9999] turns>"]} 
       
-      			{ "text": "Foriegn nations look doiwn upon Japan, calling us barbaric, and the Emperor knows this. We shall not worry however, as our ingenuity will pull Japan into the ranks of elite nations.  ",
-			  "uniques": [	  "[+2 Happiness] in cities on [unimproved] tiles <for [20] turns>",
-				  	  "[+2 Culture] from all [Happiness] buildings <for [9999] turns>"] }
+      			{ "text": "Foriegn nations look down upon Japan, calling us barbaric, and the Emperor knows this. We shall not worry however, as our ingenuity will pull Japan into the ranks of elite nations.  ",
+			  "uniques": [	   "Double quantity of [Coal] produced",
+			  		   "Double quantity of [Aluminum] produced"] }
 
 			{ "text": "Our coasts are weak and undefended. The Emperor worries that our foes might exploit this weakness. Therefore we will build new defences so that the Emperor can sleep easy at night.",
-			  "uniques": [	"[+3 Gold, +2 Production] from every [Longhouse] <for [20] turns>",
-			  		"[+3 Culture] from every [Luxury] <for [9999] turns>",] }]
+			  "uniques": [	 "All newly-trained [Water] units [in all cities] receive the [Yamato] promotion <for [9999] turns>"] }]
   	},
 	
 	
