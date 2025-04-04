@@ -15,4 +15,8 @@
 		"name": "Eternal Mourning",
         	"uniques": ["Earn [50]% of the damage done to [Military] units as [Production]", "Earn [25]% of killed [Military] unit's [Strength] as [Faith]"],
 	}
+		{
+		"name": "Yamato",
+        	"uniques": ["[+50]% Strength <when defending>"],
+	},
 ]
