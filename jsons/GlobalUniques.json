@@ -43,7 +43,10 @@
 		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
 		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
 		"Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when at war>",
-		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <starting from the [Modern era]>", //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back
+		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <starting from the [Modern era]>",   //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back,
+		"Triggers a [Economic Depression] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
+		"Triggers a [Economic Boom] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
+		"Triggers a [Research] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
 
 	]
 }
