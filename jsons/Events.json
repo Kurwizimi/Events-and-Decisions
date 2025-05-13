@@ -326,7 +326,7 @@
 		    "choices": [
 			    {"text": "Damn.",
 			     "uniques": ["[-25]% [Gold] [in all cities] <for [5] turns>",
-				         "[+10 Gol] [in all cities] <for [10] turns>",
+				         "[+10 Gold] [in all cities] <for [10] turns>",
 			     		"[-5 Happiness] [in all cities] <for [5] turns>"] } ]
 	
 	},
