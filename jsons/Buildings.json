@@ -73,7 +73,7 @@
 		"uniques": ["Unbuildable"],
 	},
 	{
-		"name": "Hanse Guilds",
+		"name": "Hanse Guild",
 		"cost": 80,
 		"gold": 2,
 		"percentStatBonus": {"production": 10},
