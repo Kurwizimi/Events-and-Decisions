@@ -185,7 +185,7 @@
 		    "name": "Codify Laws",
 		    "text": "Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.",
 		    "choices": [
-			    {"text": "Very well.",
+			    {"text": "And so it shall be.",
 			     "uniques": ["Gain a free [Code of Laws] [in capital]"] } ]
 	
 	},
@@ -241,9 +241,9 @@
       
      			{ "text": "Tell the mystic to be quiet! I deal with enough crazy people already!",
 			  "uniques": [ 	"Comment [Grants a burst of Science]",
-				  	"Comment [Lose 20 Faith]",
+				  	"Comment [Lose 30 Faith]",
                                        	"[-2 Happiness] [in all cities] <for [5] turns>",
-				  	 "Gain [-20] [Faith] <hidden from users>",
+				  	 "Gain [-30] [Faith] <hidden from users>",
 					"Gain [25] [Science] <during the [Ancient era]> <hidden from users>",
 					"Gain [65] [Science] <during the [Classical era]> <hidden from users>",
 			 		"Gain [110] [Science] <during the [Medieval era]> <hidden from users>",
@@ -284,7 +284,7 @@
       
      			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
 			  "uniques": [ 	 "[-15]% Strength <for [All] units> <for [10] turns>",
-			  		 "[-1 Happiness] [in all cities] <for [10] turns>"] } ]
+			  		 "[-2 Happiness] [in all cities] <for [10] turns>"] } ]
   	},
 	
 	{
@@ -319,6 +319,55 @@
 			  		"[+5 Happiness] [in capital] <for [5] turns>",
 			  		"Only available <when at war> <hidden from users>"] }]
   	},
+
+	{
+		    "name": "Economic Depression",
+		    "text": "A rapid turn of events have lead to the collapse of our nation's economy, and the Stock Market falling to levels unseen before. Former barons and lords of business are finding their money losing their value rapidly, and the workers and nearly workers are now in crippling poverty. The next few years shall be remembered as an economic torment for the rest of history!",
+		    "choices": [
+			    {"text": "Damn.",
+			     "uniques": ["[-25]% [Gold] [in all cities] <for [5] turns>",
+				         "[+10 Gol] [in all cities] <for [10] turns>",
+			     		"[-5 Happiness] [in all cities] <for [5] turns>"] } ]
+	
+	},
+	{
+		    "name": "Economic Boom",
+		    "text": "Crowd gather around the stock markets as the conomy starts to boom. Businesses are rapidly growing in size, and their worker's standard of living has never been better. The next few years shall be known as an economic paradise for the rest of history!",
+		    "choices": [
+			    {"text": "Great!",
+			     "uniques": ["[+25]% [Gold] [in all cities] <for [5] turns>",
+				         "[+10 Gold] [in all cities] <for [10] turns>",
+			     		"[+5 Happiness] [in all cities] <for [5] turns>"] } ]
+	
+	},
+
+	{
+		    "name": "Research",
+		    "text": "Some of our top scientists have rapidly increased our understanding on how the world works. How shall our nation support these researchers?",
+		    "choices": [
+
+			    { "text": "Use their research to support our current military effort",
+			  "uniques": ["[-1 Science] from all [Science] buildings <for [10] turns>",
+			  		"[-25]% Production when constructing [Military] units [in all cities] <for [10] turns>",
+			  		"[+5]% Strength <for [All] units> <for [10] turns>",
+			  		"Only available <when at war> <hidden from users>"]},
+
+			     { "text": "Knowledge is of no use if it is not passed on.",
+			  "uniques": ["[+3 Happiness, +3 Science] from all [Science] buildings <for [10] turns>"]},
+			    
+			    {"text": "Support the Academia, and fund their research.",
+			     "uniques": ["Comment [Lose 500 Gold]",
+				     	 "[+3 Science] from every [Academy]  <for [10] turns>",
+				     	 "Free Technology",
+				     	 "Gain [-500] [Gold] <hidden from users>"] } ]
+	
+	},
+
+
+
+
+	
+	//Civ specific events
 	{
 		"name": "America UE", //On Economics   [-4 Food] [in all cities] <for [20] turns>  [+10 Gold] [in all cities] <for [20] turns>//
 		"text": "Mr President, there has been recent discontent across our nation. Our people are at odds with each other, with one group advocating for the expansion of the use of slaves in order to revitalise the economy, while another is promoting the idea of 'Manifest Destiny' and the expansion of our nation to the uncivilised wilderness so that it can secure all the potential resources it needs. If one side does not triumph over another soon, our nation will decend into Civil War. What shall we do, Mr President?",
@@ -664,8 +713,8 @@
 			  		   "[+3 Culture] from every [Castle] <for [9999] turns>"]} 
       
       			{ "text": "Foriegn nations look down upon Japan, calling us barbaric, and the Emperor knows this. We shall not worry however, as our ingenuity will pull Japan into the ranks of elite nations.  ",
-			  "uniques": [	   "Double quantity of [Coal] produced",
-			  		   "Double quantity of [Aluminum] produced"] }
+			  "uniques": [	   "Double quantity of [Coal] produced <for [9999] turns>",
+			  		   "Double quantity of [Aluminum] produced <for [9999] turns>"] }
 
 			{ "text": "Our coasts are weak and undefended. The Emperor worries that our foes might exploit this weakness. Therefore we will build new defences so that the Emperor can sleep easy at night.",
 			  "uniques": [	 "All newly-trained [Water] units [in all cities] receive the [Yamato] promotion <for [9999] turns>"] }]
