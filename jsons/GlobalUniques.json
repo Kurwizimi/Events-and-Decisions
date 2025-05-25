@@ -47,7 +47,7 @@
 		"Triggers a [Economic Depression] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
 		"Triggers a [Economic Boom] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
 		"Triggers a [Research] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
-		"Triggers a [Global Mobilisation] event <for [Inca] Civilizations> <upon turn end> <with [99]% chance> ",
+		
 
 	]
 }
