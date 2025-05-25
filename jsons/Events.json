@@ -363,14 +363,6 @@
 	
 	},
 
-	{
-		    "name": "Global Mobilisation",
-		    "text": "",
-		    "choices": [
-			    {"text": "Oh no.",
-			     "uniques": ["Free [Giant Death Robot] appears <for [AI player] Civilizations>"] } ]
-	
-	},
 
 
 
