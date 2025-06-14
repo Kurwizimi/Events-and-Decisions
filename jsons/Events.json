@@ -363,6 +363,43 @@
 	
 	},
 
+	{
+		    "name": "Asteroid",
+		    "text": "Worrying news has come from our top astronomers. It appears that an asteroid is expected to hit our planet, directly in our nation! Peaople are anxious, and many are losing hope, believing this is the beginning of Doomsday. What shall we do?",
+		    "choices": [
+
+			    { "text": "We shall prevent that asteroid from hitting Earth, no matter the cost! Our nation shall be the saviour of this planet!",
+			  "uniques": [["Comment [Lose 1100 Gold]",
+				  	"Gain [-1100] [Gold] <hidden from users>",
+				  	"[-100]% [Gold] [in all cities] <for [5] turns>",
+				  	"[+50]% growth [in all cities] <for [10] turns>",
+				  	"[+50]% [Production] [in all cities] <for [10] turns>",
+				  	"[+50]% [Culture] [in all cities] <for [20] turns>",
+				  	"All newly-trained [Military] units [in all cities] receive the [Saviours of the Planet] promotion <for [9999] turns>",
+			  		"[Military] units gain the [Saviours of the Planet] promotion",
+			  		"Only available <when number of [Nuclear Missile] is more than [0]> <hidden from users>"]},
+
+			     { "text": "Evacuate all civilians immediately! We can't stop the asteroid, we can prevevnt the devestation it will cause.",
+			  "uniques": ["[-75]% growth [in all cities] <for [10] turns>",
+				  	"[-50]% [Production] [in all cities] <for [10] turns>",
+				  	"[+25]% [Culture] <in cities with a [Bomb Shelter]> <for [10] turns>",
+				  	"[-25]% [Culture] <in cities without a [Bomb Shelter]> <for [10] turns>",
+			  		"[+5 Happiness] <in cities with a [Bomb Shelter]> <for [10] turns>",
+			  		"[-5 Happiness] <in cities without a [Bomb Shelter]> <for [10] turns>"]},
+			    
+			    {"text": "Screw the people, get all me top advisors and GET ME OUT OF HERE!",
+			     "uniques": ["Rebel units may spawn <for [50] turns>",
+				     	"[-10 Happiness] [in all cities] <for [10] turns>",
+			     		"[-5] population [in all cities]",
+			     		"Free Great Person",
+			     		"Free [Great General] appears",
+			     		"Free [Great Scientist] appears",
+			     		"Free [Great Merchant] appears",
+			     		"Free [Great Artist] appears",
+			     		"Free [Great Engineer] appears"] } ]
+	
+	},
+
 
 
 
