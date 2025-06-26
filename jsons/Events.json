@@ -369,7 +369,7 @@
 		    "choices": [
 
 			    { "text": "We shall prevent that asteroid from hitting Earth, no matter the cost! Our nation shall be the saviour of this planet!",
-			  "uniques": [["Comment [Lose 1100 Gold]",
+			  "uniques": ["Comment [Lose 1100 Gold]",
 				  	"Gain [-1100] [Gold] <hidden from users>",
 				  	"[-100]% [Gold] [in all cities] <for [5] turns>",
 				  	"[+50]% growth [in all cities] <for [10] turns>",
