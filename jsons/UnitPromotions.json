@@ -1,7 +1,7 @@
 [
 		{
 		"name": "Saviours of the Planet",
-        	"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+10]% Strength when stacked with [Civilian]"],
+        	"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+10]% Strength <when stacked with a [Civilian] unit>"],
 	},
 	
 		{	
