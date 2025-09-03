@@ -400,6 +400,25 @@
 	
 	},
 
+	{
+		    "name": "Obstacle",
+		    "text": "For years now, the grand building that has been serving as the seat of power of our nation has fallen into disrepair. Cracks and mould crawl out of far corneres of walls, doors are unable to be closed as their hinges wear away, the beutiful art that line corridors and rooms have been smotherd in inch-thich layers of dust and grime. This building is no longer deemed fit for its purpose, and action needs to be taked immediately. What shall we do?",
+		    "choices": [
+
+			    { "text": "We shall build a new building for our government! There may already be people and property present where the building site needs to be... but surely a bit of 'convincing' shall remove them from the area.",
+			  "uniques": ["[-10 Happiness] [in capital] <for [10] turns>",
+			  			"Gain a free [New Palace] [in capital]",
+			  			"[+20]% [Production] [in capital] <for [10] turns>",
+			  			"[-10]% [Culture] [in Capital] <for [10] turns>"]},
+
+			     { "text": "The embarassment of having such a beutiful piece of architecture being tarnished from decades of neglct shall not carry on! We shall renovate it immediately!",
+			  "uniques": ["[+5 Culture, +5 Happiness] from every [Palace]  <for [10] turns>",
+				  		"[+200]% Yield from every [Palace] <for [9999] turns>",
+			  			"[-10]% [Production] [in capital] <for [10] turns>",
+			  			"[+20]% [Culture] [in Capital] <for [10] turns>"]}]
+	
+	},
+
 
 
 
