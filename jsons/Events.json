@@ -127,7 +127,7 @@
 		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
 		"choices": [
 			{ "text": "Wonderful news!",
-			  "uniques": [ "Double quantity of [Oil] produced <for [20] turns>"] }]
+			  "uniques": [ "[+100]% [Oil] resource production <for [20] turns>"] }]
   },
 
 	{
@@ -766,11 +766,12 @@
 			  		   "[+3 Culture] from every [Castle] <for [9999] turns>"]} 
       
       			{ "text": "Foriegn nations look down upon Japan, calling us barbaric, and the Emperor knows this. We shall not worry however, as our ingenuity will pull Japan into the ranks of elite nations.  ",
-			  "uniques": [	   "Double quantity of [Coal] produced <for [9999] turns>",
-			  		   "Double quantity of [Aluminum] produced <for [9999] turns>"] }
+			  "uniques": [	 "[+100]% [Coal] resource production <for [9999] turns>",
+			  		  	 "[+100]% [Aluminum] resource production <for [9999] turns>"] }
 
 			{ "text": "Our coasts are weak and undefended. The Emperor worries that our foes might exploit this weakness. Therefore we will build new defences so that the Emperor can sleep easy at night.",
-			  "uniques": [	 "All newly-trained [Water] units [in all cities] receive the [Yamato] promotion <for [9999] turns>"] }]
+			  "uniques": [	 "All newly-trained [Water] units [in all cities] receive the [Yamato] promotion <for [9999] turns>",
+			  					 "[+2] Movement <for [Water] units> <for [10] turns>", ] }]
   	},
 	{
 
@@ -818,8 +819,8 @@
 			  		"[Land] units gain the [Eranshahr] promotion"]} 
       
       			{ "text": "Bring me the prince with the greatest mathematical knowledge. This empire is the lagest ever concieved by man, and it takes a wise man to properly rule it, and not a brute that will break it.",
-			  "uniques": [	 "[+20]% [Science] [in all cities] <during a Golden Age>", 
-			  		   		 "[+1 Happiness, +1 Production] from all [Science] buildings <for [10] turns>"] }
+			  "uniques": [	 "[+25]% [Science] [in all cities] <for [10] turns>", 
+			  		   		 "[+1 Happiness, +1 Production] from all [Science] buildings <for [9999] turns>"] }
 
 			{ "text": "These prices are not suitable to be my heir. Bring me my daughter! She has the mind of a banker and the wit of a general. She shall lead this empire to prosperity and wealth.",
 			  "uniques": [	 "[+3 Culture] from all [Production] buildings <for [9999] turns>",
