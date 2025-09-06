@@ -777,17 +777,19 @@
 		"name": "Korea UE", //On Physics
 		"text": "Great King, all your advisors and scholars of the Jade Hall have arrived to discuss the matters of your kingdom. What shall we set out to do in the next years of your reign?",
 		"choices": [
-			{ "text": "We shall construct a new place of gathering for my loyal advisors. The construction of Gyeongbok Palace shall begin!",
-			  "uniques": ["[+200]% Yield from every [Palace] <for [9999] turns>",
-			  				"[+50]% [Happiness] [in all cities] <for [10] turns>"]} 
-      
+			
       			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. In order to settle this, we shall reform the alphabet, so that the peasants shall easily rise to the wisest ranks of Korean society!",
 			  "uniques": [	 "[+1 Science] from [Farm] tiles [in all cities] <for [9999] turns>",
 			  		   		"Empire enters a [10]-turn Golden Age"] }
 
 			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. Therefore, we shall limit the levels of social mobility in our nation, so that the elite scholarss hall not be tainted by the peasantry!",
 			  "uniques": [	 "[+2 Culture, +1 Production] from every specialist [in all cities] <for [9999] turns>",
-			  				"[+25]% [Gold] [in capital] <for [10] turns>"] }]
+			  				"[+25]% [Gold] [in capital] <for [10] turns>"] }
+			
+			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. So, in order to prevent any conflict, I shall ignore this problem alltogeter and order the rconstruction of Gyeongbok Palace!",
+			  "uniques": ["[+200]% Yield from every [Palace] <for [9999] turns>",
+			  				"[+50]% [Happiness] [in all cities] <for [10] turns>",
+			  				"Comment [The peasantry and the nobles become very confused.]"] }]
   	},
 	{
 
@@ -805,6 +807,40 @@
 			{ "text": "Men of their Gods? They beg to give mercy to their followers souls, so I shall. It is the wise and the holy of all religions that keeps our Orda strong.",
 			  "uniques": [	 "[+2 Gold, +2 Production] from all [Faith] buildings <for [9999] turns>",
 			  				"[+100]% [Faith] [in all cities] <for [10] turns>"] }]
+  	},
+	{
+
+		"name": "Persia UE", //On Banking
+		"text": "Shahanshah! Your sons have finally arrived after years of being taught to be the next leader of Eranshahr. It is now time to pick your successor, great king of kings.",
+		"choices": [
+			{ "text": "Bring me the prince that has the best military strategy. Only a Shah that can protect their lands and can live up to the glory of their ancestors can be fit for rule.",
+			  "uniques": ["All newly-trained [Land] units [in all cities] receive the [Eranshahr] promotion <for [1000] turns>",
+			  		"[Land] units gain the [Eranshahr] promotion"]} 
+      
+      			{ "text": "Bring me the prince with the greatest mathematical knowledge. This empire is the lagest ever concieved by man, and it takes a wise man to properly rule it, and not a brute that will break it.",
+			  "uniques": [	 "[+20]% [Science] [in all cities] <during a Golden Age>", 
+			  		   		 "[+1 Happiness, +1 Production] from all [Science] buildings <for [10] turns>"] }
+
+			{ "text": "These prices are not suitable to be my heir. Bring me my daughter! She has the mind of a banker and the wit of a general. She shall lead this empire to prosperity and wealth.",
+			  "uniques": [	 "[+3 Culture] from all [Production] buildings <for [9999] turns>",
+			  				"[+400]% Yield from every [Monument] <for [10] turns>"] }]
+  	},
+	{
+
+		"name": "Polynesia UE", //On Optics
+		"text": "Great Unifier of Hawai'i! Troublesome news have been heard from some tribal leaders. They say that you have lost your Mana, and that you are no longer the great king you once were. How are you going to convince them that this is not the case?",
+		"choices": [
+			{ "text": "I shall show my care for the people. I shall order the reconstruction of the anciant fish-traps that have been left derelict for years.",
+			  "uniques": [ "[+3 Food] from all [Lighthouse] buildings <for [10] turns>",
+			  		 "[+1 Production] from [Fish] tiles [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "We shall go wayfinding once more! Under the stars and above the waves we shall go beyond!.",
+			  "uniques": [	 "[+3] Movement <for [Water] units> <for [10] turns>", 
+			  		   		 "[+1 Food, +1 Culture] from [Water] tiles [in all cities] <for [9999] turns>"] }
+
+			{ "text": "The wisdom of the Kahuna shall definitely elavate my stature. I shall bring them out of hiding and obscurity, and restore them to theor former power!",
+			  "uniques": [	 "[+2 Culture] from all [Production] buildings <for [10] turns>",
+			  				"[+20]% Great Person generation [in all cities] <for [9999] turns>"] }]
   	},
 	
 	
