@@ -22,6 +22,10 @@
 	}
 		{
 		"name": "Yamato",
-        	"uniques": ["[+50]% Strength <when defending>"],
+        	"uniques": ["[+75]% Strength <when defending>"],
+	},
+	{
+		"name": "Eranshahr",
+        	"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [25]% chance>"],
 	},
 ]
