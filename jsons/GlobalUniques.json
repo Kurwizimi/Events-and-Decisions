@@ -29,6 +29,8 @@
 		"Triggers a [Japan UE] event <for [Japan] Civilizations> <upon discovering [Gunpowder] technology>",
 		"Triggers a [Korea UE] event <for [Korea] Civilizations> <upon discovering [Physics] technology>",
 		"Triggers a [Mongolia UE] event <for [Mongolia] Civilizations> <upon discovering [Chivalry] technology>",
+		"Triggers a [Persia UE] event <for [Persia] Civilizations> <upon discovering [Banking] technology>",
+		"Triggers a [Polynesia UE] event <for [Polynesia] Civilizations> <upon discovering [Optics] technology>",
 		
 		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
 		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
