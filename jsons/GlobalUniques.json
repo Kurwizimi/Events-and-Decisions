@@ -54,5 +54,7 @@
 		"Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
 		"Triggers a [Obstacle] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Renaissance era]>",
 
+		"When defeating a [Land] unit, earn [10] Gold and recruit it <with [25]% chance> <for units with [Eranshahr]>"
+
 	]
 }
