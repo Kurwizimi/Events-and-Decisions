@@ -26,6 +26,6 @@
 	},
 	{
 		"name": "Eranshahr",
-        	"uniques": ["When defeating a [Land] unit, earn [10] Gold and recruit it <with [25]% chance>"],
+        	"uniques": ["Comment [When defeating a Land unit, earn 10 [Gold] and recruit it with 25% chance>"],
 	},
 ]
