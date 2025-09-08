@@ -1,5 +1,10 @@
 [
 		{
+		"name": "Saviours of the Planet",
+        	"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+10]% Strength <when stacked with a [Civilian] unit>"],
+	},
+	
+		{	
 		"name": "We the People",
         	"uniques": ["[+50]% Strength <in [Foreign Land] tiles> <when defending>"],
 	},
@@ -17,6 +22,10 @@
 	}
 		{
 		"name": "Yamato",
-        	"uniques": ["[+50]% Strength <when defending>"],
+        	"uniques": ["[+75]% Strength <when defending>"],
+	},
+	{
+		"name": "Eranshahr",
+        	"uniques": ["Comment [When defeating a Land unit, earn 10 [Gold] and recruit it with 25% chance]"],
 	},
 ]

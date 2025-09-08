@@ -40,11 +40,18 @@
 		"happiness": 4,
 		"culture": 3,
 		"uniques": ["[-25]% City-State Influence degradation","[+20]% Golden Age length","Only available <in cities with a [IOC Membership]>"],
-				//"greatPersonPoints": {"Great Merchant": 2},
 		"requiredTech": "Refrigeration",
         	"quote": "'Citius, Altius, Fortius – Communiter' - Olympic Motto"
 		"isWonder": true,
 	},
+	
+	{
+		"name": "New Palace",
+		"cost": 0,
+		"uniques": ["[+5]% [Production] [in this city]","[+5]% [Science] [in this city]","[+5]% [Gold] [in this city]","[-1 Happiness]","Unbuildable"],
+		"isNationalWonder": true,
+	},
+	
 	{
 		"name": "Colonial Offices",
 		"cost": 80,
@@ -73,7 +80,7 @@
 		"uniques": ["Unbuildable"],
 	},
 	{
-		"name": "Hanse Guilds",
+		"name": "Hanse Guild",
 		"cost": 80,
 		"gold": 2,
 		"percentStatBonus": {"production": 10},
