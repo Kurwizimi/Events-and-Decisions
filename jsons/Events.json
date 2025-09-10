@@ -871,8 +871,8 @@
 			  		 "[+1 Food, +1 Culture] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
       
       			{ "text": "The serfs and the workers have been a bit too rebelious recently. I intend my advisors draft up a revised governing scheme for the nation, in order to quell any dissent.",
-			  "uniques": [	 "[+5 Produciton] from all [Castle] buildings <for [10] turns>"", 
-			  		   		 "[+1 Gold] from [Farm] tiles [in all cities] <for [9999] turns>"]] }
+			  "uniques": [	 "[+5 Produciton] from all [Castle] buildings <for [10] turns>", 
+			  		   		 "[+1 Gold] from [Farm] tiles [in all cities] <for [9999] turns>"] }
 
 			{ "text": "Conscription of more men into the army is needed if this empire wishes to remain. Send out the dafts and open the conscription centres!",
 			  "uniques": [	 "[3] free [Cossack] units appear",
@@ -893,7 +893,7 @@
       
       			{ "text": "They only want to discuss about the current trade situation between our nations. It bores me to talk economics all day, but it has to be done...",
 			  "uniques": [	 "[+2 Culture] from all [Market] buildings <for [10] turns>", 
-			  		   		 "[+15]% [Gold] [in all cities] <for [9999] turns>"]] }
+			  		   		 "[+15]% [Gold] [in all cities] <for [9999] turns>"] }
 
 			{ "text": "Investors and missionaries are with these diplomats? They wish to fund new temples in our lands. Hmm... I don't see why we should reject this offer!",
 			  "uniques": [	 	"Gain a free [Vihara] [in all cities]"
@@ -911,10 +911,10 @@
       
       			{ "text": "Divinity is the only way to find solace in life. Fund the local preists and preacers, for through them is the only was to true eternal salvation.",
 			  "uniques": [	 "[+3 Faith] from all [Shrine] buildings <for [20] turns>", 
-			  		   		  "[+2 Happiness] from all [Faith] buildings <for [9999] turns>"]] }
+			  		   		  "[+2 Happiness] from all [Faith] buildings <for [9999] turns>"] }
 
 			{ "text": "God has gifted these lands with extreme wealth, but these sources are not going to last forever. It is our upmost priority to proctect our wealth to ensure it doesnt fall through our grasps.",
-			  "uniques": [	 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>"
+			  "uniques": [	 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>",
 				  				 "[+100]% Yield from every [Market] <for [10] turns>"] }]
   	},
 {
