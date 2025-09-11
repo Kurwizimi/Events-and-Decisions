@@ -920,7 +920,7 @@
 {
 
 		"name": "Spain UE", //On Gunpowder
-		"text": "Yor majesty? I deeply apologise for interupting your prayer, but your advisors wish for you to be in their presence. They want to discuss some urgent matters with you.",
+		"text": "Your majesty? I deeply apologise for interupting your prayer, but your advisors wish for you to be in their presence. They want to discuss some urgent matters with you.",
 		"choices": [
 			{ "text": "What's this? Rumours about a recently decesed student being suddenly ressurected!? I wish for this boy to be summoned to me right now! This is a miracle of the Lord!",
 			  "uniques": [ "Free Great Person",
@@ -928,12 +928,30 @@
       
       			{ "text": "My advisors are concerened about our godless neighbours encroaching on our holy land? An understandable concern..., but no worry! If they refuse to see the light of God, then we shall bring it to them!",
 			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Iberian Fervor] promotion <for [9999] turns>",
-			  		"[Land] units gain the [Iberian Farvor] promotion"]] }
+			  		"[Land] units gain the [Iberian Fervor] promotion"] }
 
 			{ "text": "Riches beyond belief have been reported outside our borders? The discovery of these riches shall be our upmost prority, for it will be the righteous children of God who shall marvel these wonders!",
 			  "uniques": [	 	 "[+100]% Production when constructing [Settler] units [in all cities] <for [9999] turns>",
 				  				"[+100]% Production when constructing [Conquistador] units [in all cities] <for [9999] turns>",
 				  				 "[+20]% growth [in all cities] <for [10] turns>"] }]
+  	},
+	{
+
+		"name": "Sweden UE", //On Rifling
+		"text": "My King, our kingdom has prospered for many years now, from the frozen fjords to the mountainous peaks. However, there are still many threats to this realm. What shall we do about them?",
+		"choices": [
+			{ "text": "Rumours about a blight destroying crops is worrying me, for if it is true, then the entire nation will starve. The only way to ensure that our people have a reliable food source, is to collaborate with the native Sami, for they are the only ones who truely know how to tame these lands.",
+			  "uniques": [  "[+20]% growth [in all cities] <for [10] turns>",
+			  		 	"[+2 Gold, +2 Food, +2 Culture] from [Camp] tiles [in all cities] <for [9999] turns>",
+				   		"[+1 Food, +1 Production] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "The land I have given to my nobles have been left uncared for and wasted, and because of that our empire has stagnated. I want all the nobility to be checked on their competence, and anyone who fails will have all the lands I gifted to them canfiscated!!",
+			  "uniques": [	 "Gain [2500] [Gold]",
+			  		"[+1 Food, +1 Production, +1 Culture] from every specialist [in all cities] <for [9999] turns>"] }
+
+			{ "text": "More and more people leave this empire for more productive, more wealthy nations. We need to rapidly industrialise to prevent our empire. from collapsing from within, as our people pledge allegiance to other nations",
+			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [20] turns>",
+				  				 "[+1 Production, +1 Science, +1 Gold] from [Camp] tiles [in all cities] <for [9999] turns>"] }]
   	},
 	
 	
