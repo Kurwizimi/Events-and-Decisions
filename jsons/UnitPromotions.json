@@ -29,7 +29,18 @@
         	"uniques": ["Comment [When defeating a Land unit, earn 10 [Gold] and recruit it with 25% chance]"],
 	},
 {
+		"name": "Slavers",
+        	"uniques": ["[This unit] gains [3] movement <upon defeating a [Land] unit>"],
+	},
+{
 		"name": "Iberian Fervor",
         	"uniques": ["[This unit] heals [15] HP <upon defeating a [Land] unit>"],
 	},
+
+
+
+
+
+
+
 ]
