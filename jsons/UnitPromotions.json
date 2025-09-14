@@ -28,4 +28,8 @@
 		"name": "Eranshahr",
         	"uniques": ["Comment [When defeating a Land unit, earn 10 [Gold] and recruit it with 25% chance]"],
 	},
+{
+		"name": "Iberian Fervor",
+        	"uniques": ["[This unit] heals [15] HP <upon defeating a [Land] unit>"],
+	},
 ]
