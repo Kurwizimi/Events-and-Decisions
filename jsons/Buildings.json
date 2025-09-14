@@ -86,4 +86,22 @@
 		"percentStatBonus": {"production": 10},
 		"uniques": ["Unbuildable"],
 	},
+	{
+		"name": "Vihara",
+		"cost": 80,
+		"faith": 3,
+		"culture": 2,
+		"production": 2,
+		"uniques": ["Unbuildable"],
+	},
+
+
+
+
+
+
+
+
+
+
 ]
