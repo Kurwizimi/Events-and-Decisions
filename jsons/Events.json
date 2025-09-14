@@ -953,6 +953,43 @@
 			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [20] turns>",
 				  				 "[+1 Production, +1 Science, +1 Gold] from [Camp] tiles [in all cities] <for [9999] turns>"] }]
   	},
-	
+
+
+	{
+
+		"name": "The Huns UE", //On Animal Husbandry
+		"text": "Great Scourge of God! The leader sof the united tribes have arrived at your court! Give them the advice they have came to hear! Glory to the Huns!",
+		"choices": [
+			{ "text": "Glorious! We shall be the ones that drive all settled civilisations to the tiny caves that they crawled out from. The Huns shall rule all the open lands!!",
+			  "uniques": [  "[5] free [Horse Archer] units appear",
+			  		 	"[2] free [Settler] units appear"]} 
+      
+      			{ "text": "We will destroy all our foes, but our enemies are many, and we are one. We shall defend our pastures and land just as fiercely as we pillace and treck on our enemies!",
+			  "uniques": [	 "Free Great Person",
+			  		"[+4 Production, +2 Culture] from [Fort] tiles [in all cities] <for [9999] turns>", 
+						"[+4 Production, +2 Gold, +4 Culture] from [Citadel] tiles [in all cities] <for [9999] turns>",] }
+
+			{ "text": "The glory of war and battle is immense, but the only way to fully destroy our enemies is to break them from the inside. After all, nothing is more glorious that seeing your enemies collapse from within, not even an entire grassland painted red with blood!!",
+			  "uniques": [	 	 "Gain an extra spy",
+				  				 "Research [50]% of [Horseback Riding]"] }]
+  	},
+
+{
+
+		"name": "The Maya UE", //On Theology
+		"text": "The Long Count has begun, my Lord! What a glorious day! Oh, well, apart from... from the lack of willing sacrifices. Er... not to fear, my Lord! We... we can figure something out? Right...? What shall we do?",
+		"choices": [
+			{ "text": "Hmm... Maybe there was just an error in the preist's calculations. We might have enough sacrifices, but a mistake in some mathematics resulted in this situation.",
+			  "uniques": [  "[2] free [Great Scientist] units appear",
+			  		 	"[+20]% Great Person generation [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "There has been a new game coming around to our lands. I believe its called 'Pok', and it is very competitive. Why dont we make it into a religious celebration, and the losers will be given the gift of sacrifice!",
+			  "uniques": [	 "[+2 Faith, +1 Culture] from all [Happiness] buildings <for [9999] turns>", 
+						"[-1 Production, +2 Culture, +2 Gold] from [Production] tiles [in all cities] <for [20] turns>",] }
+
+			{ "text": "You dont know how much I'm holding back from ordering the priests to sacrifice you right now. But, you don't need to worry, maybe there is another way to give the Gods gifts ither than sacrifice?",
+			  "uniques": [	 	 "[+2 Faith] from [resource] tiles [in all cities] <for [20] turns>",
+														"[-20]% Unhappiness from [population] [in all cities] <for [9999] turns>"] }]
+  	},
 	
 ]
