@@ -871,7 +871,7 @@
 			  		 "[+1 Food, +1 Culture] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
       
       			{ "text": "The serfs and the workers have been a bit too rebelious recently. I intend my advisors draft up a revised governing scheme for the nation, in order to quell any dissent.",
-			  "uniques": [	 "[+5 Produciton] from all [Castle] buildings <for [10] turns>", 
+			  "uniques": [	 "[+5 Production] from all [Castle] buildings <for [10] turns>", 
 			  		   		 "[+1 Gold] from [Farm] tiles [in all cities] <for [9999] turns>"] }
 
 			{ "text": "Conscription of more men into the army is needed if this empire wishes to remain. Send out the dafts and open the conscription centres!",
@@ -896,7 +896,7 @@
 			  		   		 "[+15]% [Gold] [in all cities] <for [9999] turns>"] }
 
 			{ "text": "Investors and missionaries are with these diplomats? They wish to fund new temples in our lands. Hmm... I don't see why we should reject this offer!",
-			  "uniques": [	 	"Gain a free [Vihara] [in all cities]"
+			  "uniques": [	 	"Gain a free [Vihara] [in all cities]",
 				  			 "[+1 Faith, +1 Science, +2 Food] from all [Wat] buildings <for [9999] turns>"] }]
   	},
 {
@@ -990,7 +990,7 @@
 
 			{ "text": "You dont know how much I'm holding back from ordering the priests to sacrifice you right now. But, you don't need to worry, maybe there is another way to give the Gods gifts ither than sacrifice?",
 			  "uniques": [	 	 "[+2 Faith] from [resource] tiles [in all cities] <for [20] turns>",
-								"[-20]% Unhappiness from [population] [in all cities] <for [9999] turns>"] }]
+								"[-20]% Unhappiness from [Population] [in all cities] <for [9999] turns>"] }]
   	},
 	
 {
@@ -1028,7 +1028,7 @@
 
 			{ "text": "The Vizier must be trying to influence the trade through my empire. I want to reform the coinage, then they will struggle to carry out their plans, and we can 'settle' some of our debt to other nations.",
 			  "uniques": [	 	 "[+1 Culture, +2 Science] from each Trade Route <for [20] turns>",
-								"[+2 Gold, +1 Science] <from every [[Water] Units]> <for [9999] turns>"] }]
+								"[+2 Gold, +1 Science] <for every [[Water] Units]> <for [9999] turns>"] }]
   	},
 
 
