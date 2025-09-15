@@ -24,8 +24,28 @@
 		"name": "Yamato",
         	"uniques": ["[+75]% Strength <when defending>"],
 	},
-	{
+		{
 		"name": "Eranshahr",
         	"uniques": ["Comment [When defeating a Land unit, earn 10 [Gold] and recruit it with 25% chance]"],
 	},
+		{
+		"name": "Alphini",
+        	"uniques": ["[+10]% Strength <when fighting in [Rough terrain] tiles>",
+						"Great General provides double combat bonus"],
+	},
+		{
+		"name": "Slavers",
+        	"uniques": ["[This unit] gains [3] movement <upon defeating a [Land] unit>"],
+	},
+		{
+		"name": "Iberian Fervor",
+        	"uniques": ["[This unit] heals [15] HP <upon defeating a [Land] unit>"],
+	},
+
+
+
+
+
+
+
 ]

@@ -480,12 +480,12 @@
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
-			  "uniques": [	"[+10 Happiness] [in all cities]  <for [1000] turns>",
+			  "uniques": [	"[+3 Happiness] [in all cities]  <for [1000] turns>",
 			  		"[+20]% growth [in all cities] <for [20] turns>"] }
 
 			{ "text": "People on the borders of our empire are starting to not pay tribute to their preists and are showing signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
 			  "uniques": [	"[+10 Gold] from [Plantation] tiles [in all cities] <for [20] turns>",
-				  	"[-5 Happiness] [in all cities] <for [20] turns>"] }]
+				  	"[-5 Happiness] [in all cities] <for [10] turns>"] }]
   	},
 	{
 
@@ -508,7 +508,7 @@
 		"name": "Byzantium UE", //On Theology
 		"text": "Noble Empress of the Romans, I have worrying news to tell you. Once again the Patriarchy of Constantinople seek to unseat you from your rightful throne, for they refuse to be led by a woman. What plans do you suspect they are carrying ou to depose your rightous rule?",
 		"choices": [
-			{ "text": "They must be planning to stage a coup with the army, maning we cannot trust even or own troops. Hire some mercenaries, so that we have soldiers that are not under the thumb of the Patriarchy!",
+			{ "text": "They must be planning to stage a coup with the army, meaning we cannot trust even or own troops. Hire some mercenaries, so that we have soldiers that are not under the thumb of the Patriarchy!",
 			  "uniques": [	 "[4] free [Horse Archer] units appear",
 			  		 "[2] free [Berserker] units appear"]}
       
@@ -843,6 +843,211 @@
 			  "uniques": [	 "[+2 Culture] from all [Production] buildings <for [10] turns>",
 			  				"[+20]% Great Person generation [in all cities] <for [9999] turns>"] }]
   	},
+
+	{
+
+		"name": "Rome UE", //On Construction
+		"text": "Imperator! Unfortunate news has come from the Senate of Rome. One of their consuls have suddenly died recently, and a successor needs to be apointed soon. Can you give your guidence to the Senate?",
+		"choices": [
+			{ "text": "Appoint the consul whose father was a Merchant. The skills that their Father has passed onto them shall surely bring large benefits to the Empire.",
+			  "uniques": [ "[+1 Culture, +1 Food, +1 Science] from all [Market] buildings <for [9999] turns>",
+			  		 "[+2 Gold] from [Farm] tiles [in all cities] <for [10] turns>"]} 
+      
+      			{ "text": "Appoint the Architect. I have inherited this empire from Ceaser, and turned it Rome into a city of Marble. It takes a man of engineering and art to ensure Rome keeps on standing.",
+			  "uniques": [	 "Gain a free [Aqueduct] [in this city] <upon founding a city>", 
+			  		   		"[+3 Food, +2 Science] from all [Granary] buildings <for [10] turns>",] }
+
+			{ "text": "Appoint the General. Only through combar and war is Rome's might tested, and only a Legatus will guarantee victory to our Legions.",
+			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Alphini] promotion <for [9999] turns>",
+			  					"[-75]% Culture cost of natural border growth [in all cities] <for [10] turns>"] }]
+  	},
+	{
+
+		"name": "Russia UE", //On Military Science
+		"text": "Tsarina! Your advisors have all arived at the Winter Palace for our annual secretmeeting. What matters do you want to discuss, your Imperial Majesty?",
+		"choices": [
+			{ "text": "I want to hasten the assimilation of the people of the far-flung borders of my empire. They rest on land too valuble to pass up, and getting them into our hands is a priority.",
+			  "uniques": [ "[+3 Culture] [in all cities] <for [10] turns>",
+			  		 "[+1 Food, +1 Culture] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "The serfs and the workers have been a bit too rebelious recently. I intend my advisors draft up a revised governing scheme for the nation, in order to quell any dissent.",
+			  "uniques": [	 "[+5 Produciton] from all [Castle] buildings <for [10] turns>", 
+			  		   		 "[+1 Gold] from [Farm] tiles [in all cities] <for [9999] turns>"] }
+
+			{ "text": "Conscription of more men into the army is needed if this empire wishes to remain. Send out the dafts and open the conscription centres!",
+			  "uniques": [	 "[3] free [Cossack] units appear",
+				  			"[3] free [Rifleman] units appear",
+				  			"[3] free [Gatling Gun] units appear",
+				  			"[3] free [Artillery] units appear",
+			  				"Nullifies Growth [in all cities] <for [10] turns>"] }]
+  	},
+	{
+
+		"name": "Siam UE", //On Education
+		"text": "Great King, emmisaries from our neighbouring kingdoms have arrived. They wait to discuss matters, and are currently waiting in the Palace gardens. Would... you like me to accompany you? After all, none of us would want what happened last time to happen again...",
+		"choices": [
+			{ "text": "Those petty kingdoms have driven elephants between our borders to extinction, all due to their desire for ivory. I shall teach these envoys a lesson for disrespcting the symbol of the Siamese!",
+			  "uniques": [ "[+2 Happiness] [in all cities] <for [9999] turns>",
+				  			"[+2 Culture] from every [Shrine] <for [10] turns>",
+			  		 "[+4 Happiness] from [Ivory] tiles [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "They only want to discuss about the current trade situation between our nations. It bores me to talk economics all day, but it has to be done...",
+			  "uniques": [	 "[+2 Culture] from all [Market] buildings <for [10] turns>", 
+			  		   		 "[+15]% [Gold] [in all cities] <for [9999] turns>"] }
+
+			{ "text": "Investors and missionaries are with these diplomats? They wish to fund new temples in our lands. Hmm... I don't see why we should reject this offer!",
+			  "uniques": [	 	"Gain a free [Vihara] [in all cities]"
+				  			 "[+1 Faith, +1 Science, +2 Food] from all [Wat] buildings <for [9999] turns>"] }]
+  	},
+{
+
+		"name": "Songhai UE", //On Chivalry
+		"text": "O Righteous King, you have done great things to our empire ever since your ascension. However, life is slowly becomin more difficult for your people. What shall we do to prevent your people from potentially experiencing any more hardships?",
+		"choices": [
+			{ "text": "The slave trade has brought this land its riches, but governing these slavers are an impossible task. They dont bend the knee to God's will, so how can a mere human like me govern them. Regulate the slave trade, for this will bend the slavers into my grasp, and then these merchants shall be under my control!",
+			  "uniques": [ "All newly-trained [Land] units [in all cities] receive the [Slavers] promotion <for [9999] turns>",
+			  		"[Land] units gain the [Slavers] promotion",
+			  		 "[+4 Production] from all [Market] buildings <for [10] turns>"]} 
+      
+      			{ "text": "Divinity is the only way to find solace in life. Fund the local preists and preacers, for through them is the only was to true eternal salvation.",
+			  "uniques": [	 "[+3 Faith] from all [Shrine] buildings <for [20] turns>", 
+			  		   		  "[+2 Happiness] from all [Faith] buildings <for [9999] turns>"] }
+
+			{ "text": "God has gifted these lands with extreme wealth, but these sources are not going to last forever. It is our upmost priority to proctect our wealth to ensure it doesnt fall through our grasps.",
+			  "uniques": [	 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>",
+				  				 "[+100]% Yield from every [Market] <for [10] turns>"] }]
+  	},
+{
+
+		"name": "Spain UE", //On Gunpowder
+		"text": "Your majesty? I deeply apologise for interupting your prayer, but your advisors wish for you to be in their presence. They want to discuss some urgent matters with you.",
+		"choices": [
+			{ "text": "What's this? Rumours about a recently decesed student being suddenly ressurected!? I wish for this boy to be summoned to me right now! This is a miracle of the Lord!",
+			  "uniques": [ "Free Great Person",
+			  		"[+2 Faith] from every specialist [in all cities] <for [10] turns>"]} 
+      
+      			{ "text": "My advisors are concerened about our godless neighbours encroaching on our holy land? An understandable concern..., but no worry! If they refuse to see the light of God, then we shall bring it to them!",
+			  "uniques": [	 "All newly-trained [Land] units [in all cities] receive the [Iberian Fervor] promotion <for [9999] turns>",
+			  		"[Land] units gain the [Iberian Fervor] promotion"] }
+
+			{ "text": "Riches beyond belief have been reported outside our borders? The discovery of these riches shall be our upmost prority, for it will be the righteous children of God who shall marvel these wonders!",
+			  "uniques": [	 	 "[+100]% Production when constructing [Settler] units [in all cities] <for [9999] turns>",
+				  				"[+100]% Production when constructing [Conquistador] units [in all cities] <for [9999] turns>",
+				  				 "[+20]% growth [in all cities] <for [10] turns>"] }]
+  	},
+	{
+
+		"name": "Sweden UE", //On Rifling
+		"text": "My King, our kingdom has prospered for many years now, from the frozen fjords to the mountainous peaks. However, there are still many threats to this realm. What shall we do about them?",
+		"choices": [
+			{ "text": "Rumours about a blight destroying crops is worrying me, for if it is true, then the entire nation will starve. The only way to ensure that our people have a reliable food source, is to collaborate with the native Sami, for they are the only ones who truely know how to tame these lands.",
+			  "uniques": [  "[+20]% growth [in all cities] <for [10] turns>",
+			  		 	"[+2 Gold, +2 Food, +2 Culture] from [Camp] tiles [in all cities] <for [9999] turns>",
+				   		"[+1 Food, +1 Production] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "The land I have given to my nobles have been left uncared for and wasted, and because of that our empire has stagnated. I want all the nobility to be checked on their competence, and anyone who fails will have all the lands I gifted to them canfiscated!!",
+			  "uniques": [	 "Gain [2500] [Gold]",
+			  		"[+1 Food, +1 Production, +1 Culture] from every specialist [in all cities] <for [9999] turns>"] }
+
+			{ "text": "More and more people leave this empire for more productive, more wealthy nations. We need to rapidly industrialise to prevent our empire. from collapsing from within, as our people pledge allegiance to other nations",
+			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [20] turns>",
+				  				 "[+1 Production, +1 Science, +1 Gold] from [Camp] tiles [in all cities] <for [9999] turns>"] }]
+  	},
+
+
+	{
+
+		"name": "The Huns UE", //On Animal Husbandry
+		"text": "Great Scourge of God! The leader sof the united tribes have arrived at your court! Give them the advice they have came to hear! Glory to the Huns!",
+		"choices": [
+			{ "text": "Glorious! We shall be the ones that drive all settled civilisations to the tiny caves that they crawled out from. The Huns shall rule all the open lands!!",
+			  "uniques": [  "[5] free [Horse Archer] units appear",
+			  		 	"[2] free [Settler] units appear"]} 
+      
+      			{ "text": "We will destroy all our foes, but our enemies are many, and we are one. We shall defend our pastures and land just as fiercely as we pillace and treck on our enemies!",
+			  "uniques": [	 "Free Great Person",
+			  		"[+4 Production, +2 Culture] from [Fort] tiles [in all cities] <for [9999] turns>", 
+						"[+4 Production, +2 Gold, +4 Culture] from [Citadel] tiles [in all cities] <for [9999] turns>",] }
+
+			{ "text": "The glory of war and battle is immense, but the only way to fully destroy our enemies is to break them from the inside. After all, nothing is more glorious that seeing your enemies collapse from within, not even an entire grassland painted red with blood!!",
+			  "uniques": [	 	 "Gain an extra spy",
+				  				 "Research [50]% of [Horseback Riding]",
+			  					 "Research [50]% of [Chivalry]"] }]
+  	},
+
+{
+
+		"name": "The Maya UE", //On Theology
+		"text": "The Long Count has begun, my Lord! What a glorious day! Oh, well, apart from... from the lack of willing sacrifices. Er... not to fear, my Lord! We... we can figure something out? Right...? What shall we do?",
+		"choices": [
+			{ "text": "Hmm... Maybe there was just an error in the preist's calculations. We might have enough sacrifices, but a mistake in some mathematics resulted in this situation.",
+			  "uniques": [  "[2] free [Great Scientist] units appear",
+			  		 	"[+20]% Great Person generation [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "There has been a new game coming around to our lands. I believe its called 'Pok', and it is very competitive. Why dont we make it into a religious celebration, and the losers will be given the gift of sacrifice!",
+			  "uniques": [	 "[+2 Faith, +1 Culture] from all [Happiness] buildings <for [9999] turns>", 
+						"[-1 Production, +2 Culture, +2 Gold] from [Production] tiles [in all cities] <for [20] turns>",] }
+
+			{ "text": "You dont know how much I'm holding back from ordering the priests to sacrifice you right now. But, you don't need to worry, maybe there is another way to give the Gods gifts ither than sacrifice?",
+			  "uniques": [	 	 "[+2 Faith] from [resource] tiles [in all cities] <for [20] turns>",
+								"[-20]% Unhappiness from [population] [in all cities] <for [9999] turns>"] }]
+  	},
 	
+{
+
+		"name": "The Netherlands UE", //On Economics
+		"text": "Your Majesty, I do apologise for disturbing you, but your advisors have all arrived at the palace to discuss some matters with your. They don't seem very happy, so you should expect some... fierce debates, my Lord.",
+		"choices": [
+			{ "text": "Arguments on how we should manage our finances? Simple, we shall invest in chartered companies, for they have been the most profitable ventures as of late. The strength of our business will be the strength of our nation!",
+			  "uniques": [  "[-1 Happiness, +2 Culture] from all [Gold] buildings <for [20] turns>", 
+			  		 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>"]} 
+      
+      			{ "text": "Fears about Dutch culture being subverted by our neighbours? Nonesence, the Dutch are one of the most enlightend people on this continent! Our artist and their patrons will be the embodiment of civilised culture across the globe!",
+			  "uniques": [	 "[+3 Culture] from [Luxury] tiles [in all cities] <for [9999] turns>", 
+						"[+2 Culture] from [Gold] tiles [in all cities] <for [20] turns>",] }
+
+			{ "text": "Worries about foreign influence in our internal politics? Well, that's rich coming from some of the most important political figures in the country... Well, we are a peaceful people at our core, and no meddling from other empires will tear our unity apart!",
+			  "uniques": [	 	 "Allied City-States provide [Gold] equal to [500]% of what they produce for themselves <for [20] turns>",
+								"City-State territory always counts as friendly territory <for [9999] turns>",
+			  					"[-20]% City-State Influence degradation <for [9999] turns>"] }]
+  	},
+
+		
+{
+
+		"name": "The Ottomans UE", //On Gunpowder
+		"text": "Grand Sultan! I come bearing some delicate information. The Grand Vizier has been seen planning some... suspicious activities. What will happen will be up to you, your magnificence.",
+		"choices": [
+			{ "text": "They must be planning to stage a military coup. I want to reform the army, and only recruit people outside of Turkish birth, for then they will no longer have any allegiances other than me, and therefore total loyalty to me!",
+			  "uniques": [  "All newly-trained [All] units [in all cities] receive the [March] promotion <for [9999] turns>",
+			  				 "[4] free [Janissary] units appear"]} 
+      
+      			{ "text": "He must be trying to stir discontent in the religious minorities on this empire. I shall not let this happen, for all faiths are welcome to my lands. After all, the more minorities I rule over, the more taxes I can carry out!",
+			  "uniques": [	  "[+2 Faith, +3 Food] from all [Faith] buildings <for [9999] turns>",
+			  					"[+100]% Production towards any buildings that already exist in the Capital <for [20] turns>"] }
+
+			{ "text": "The Vizier must be trying to influence the trade through my empire. I want to reform the coinage, then they will struggle to carry out their plans, and we can 'settle' some of our debt to other nations.",
+			  "uniques": [	 	 "[+1 Culture, +2 Science] from each Trade Route <for [20] turns>",
+								"[+2 Gold, +1 Science] <from every [[Water] Units]> <for [9999] turns>"] }]
+  	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 ]
