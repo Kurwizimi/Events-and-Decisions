@@ -89,6 +89,23 @@
   },
 
 	{
+		"name": "Warbands",
+		"text": "A warband, seeking refuge from some foreign war, has arrived at your Palace, and offer their services to you. These are no mere barbarians; these are diciplined soldiers. If not us, then they might turn to our enemies.",
+		"choices": [
+			{ "text": "We shall have no foreigners in our armies!",
+			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+					"Gain [75] [Culture]"]},
+
+			{ "text": "We must turn them away!",
+			  "uniques": [ "Comment [The mercenaries leave.]"]},
+      
+     			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Comment [Lose 100 [Gold] ]",
+							"[3] free [Swordsman] units appear",
+							"Gain [-100] [Gold] <hidden from users>" ] }]
+  },
+
+	{
 		"name": "Mercenaries",
 		"text": "A band of mercenaries, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.",
 		"choices": [
@@ -103,6 +120,23 @@
 			  "uniques": [ "Comment [Lose 300 [Gold] ]",
 							"[3] free [Landsknecht] units appear",
 							"Gain [-300] [Gold] <hidden from users>" ] }]
+  },
+
+	{
+		"name": "Outlaws",
+		"text": "A posse of outlaws, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere burgalars; these are trained raiders. If not us, then they might turn to our enemies.",
+		"choices": [
+			{ "text": "We shall have no foreigners in our armies!",
+			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+					"Gain [100] [Culture]"]},
+
+			{ "text": "We must turn them away!",
+			  "uniques": [ "Comment [The mercenaries leave.]"]},
+      
+     			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Comment [Lose 500 [Gold] ]",
+							"[3] free [Outlaw] units appear",
+							"Gain [-500] [Gold] <hidden from users>" ] }]
   },
 
 	{
