@@ -55,7 +55,8 @@
 	{
 		"name": "Colonial Offices",
 		"cost": 80,
-		"uniques": ["[+1] population [in this city]","[-1 Happiness] from each Trade Route","Unbuildable"],
+		"gold": 1,
+		"uniques": ["[+1] population [in this city]","[-1 Happiness]","Unbuildable"],
 	},
 	{
 		"name": "Ishtar's Gate",

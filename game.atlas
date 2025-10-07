@@ -1,138 +1,159 @@
 
 game.png
-size: 2048, 128
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bus Routes
   rotate: false
-  xy: 984, 16
+  xy: 592, 66
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 BuildingIcons/Code of Laws
   rotate: false
-  xy: 1081, 15
+  xy: 690, 163
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
   index: -1
 BuildingIcons/IOC Membership
   rotate: false
-  xy: 298, 8
+  xy: 200, 156
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/International Olympic Committee Headquarters
   rotate: false
-  xy: 396, 6
+  xy: 298, 154
   size: 90, 88
   orig: 90, 88
   offset: 0, 0
   index: -1
 BuildingIcons/Underground Subway
   rotate: false
-  xy: 1372, 16
+  xy: 690, 77
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Livonian Order Knight
   rotate: false
-  xy: 1469, 24
+  xy: 787, 85
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/PMC
   rotate: false
-  xy: 1554, 29
+  xy: 872, 82
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pomeranian Knight
   rotate: false
-  xy: 1639, 24
+  xy: 787, 7
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Teutonic Order Knight
   rotate: false
-  xy: 1724, 24
+  xy: 872, 4
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 UnitIcons/Livonian Order Knight
   rotate: false
-  xy: 494, 4
+  xy: 298, 56
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/PMC
   rotate: false
-  xy: 1178, 15
+  xy: 787, 163
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
   index: -1
 UnitIcons/Pomeranian Knight
   rotate: false
-  xy: 690, 7
+  xy: 396, 57
   size: 90, 87
   orig: 90, 87
   offset: 0, 0
   index: -1
 UnitIcons/Teutonic Order Knight
   rotate: false
-  xy: 1275, 7
+  xy: 884, 155
   size: 89, 87
   orig: 89, 87
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Alphini
+  rotate: false
+  xy: 4, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Deus Vult
   rotate: false
-  xy: 4, 4
+  xy: 4, 54
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Eranshahr
   rotate: false
-  xy: 102, 4
+  xy: 102, 152
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Eternal Mourning
   rotate: false
-  xy: 200, 4
+  xy: 102, 54
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Iberian Fervor
+  rotate: false
+  xy: 200, 58
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pirate Slaver
   rotate: false
-  xy: 592, 4
+  xy: 396, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Slavers
+  rotate: false
+  xy: 494, 152
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitPromotionIcons/We the People
   rotate: false
-  xy: 788, 7
+  xy: 494, 57
   size: 90, 87
   orig: 90, 87
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Yamato
   rotate: false
-  xy: 886, 4
+  xy: 592, 152
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
