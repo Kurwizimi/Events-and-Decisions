@@ -35,11 +35,11 @@
 	},
 		{
 		"name": "Slavers",
-        	"uniques": ["[This unit] gains [3] movement <upon defeating a [Land] unit>"],
+        	"uniques": ["[This Unit] gains [3] movement <upon defeating a [Land] unit>"],
 	},
 		{
 		"name": "Iberian Fervor",
-        	"uniques": ["[This unit] heals [15] HP <upon defeating a [Land] unit>"],
+        	"uniques": ["[This Unit] heals [15] HP <upon defeating a [Land] unit>"],
 	},
 
 
