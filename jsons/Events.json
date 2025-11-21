@@ -409,7 +409,7 @@
 				  	"[+50]% [Culture] [in all cities] <for [20] turns>",
 				  	"All newly-trained [Military] units [in all cities] receive the [Saviours of the Planet] promotion <for [9999] turns>",
 			  		"[Military] units gain the [Saviours of the Planet] promotion",
-			  		"Only available <when number of [Nuclear Missile] is more than [0]> <hidden from users>"]},
+			  		"Only available <when number of [[Nuclear Missile] Units] is more than [0]> <hidden from users>"]},
 
 			     { "text": "Evacuate all civilians immediately! We can't stop the asteroid, we can prevevnt the devestation it will cause.",
 			  "uniques": ["[-75]% growth [in all cities] <for [10] turns>",
