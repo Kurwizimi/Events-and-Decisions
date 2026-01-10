@@ -102,7 +102,7 @@
       
      			{ "text": "Pay them well, and bring them into our service!",
 			  "uniques": [ "Comment [Lose 100 [Gold] ]",
-							"[3] free [Swordsman] units appear",
+							"[3] free [Spearman] units appear",
 							"Gain [-100] [Gold] <hidden from users>" ] }]
   },
 
@@ -229,8 +229,7 @@
 			    { "text": "These industries shall stay private!",
 			  "uniques": [ "Gain [1000] [Gold]" ,
 				       "[+15 Gold] [in all cities] <for [15] turns>",
-				  		 "Gain a free [Stock Exchange] [in capital]",
-				       "[-3 Happiness] [in all cities] <for [10] turns>"]},
+				  		 "Gain a free [Stock Exchange] [in capital]"]},
 			    
 			    {"text": "For the People!",
 			     "uniques": ["Comment [Lose 1000 [Gold]]",
@@ -246,17 +245,17 @@
 		    "choices": [
 
 			    { "text": "Expand bus and tram routes.",
-			  "uniques": [ "Comment [Lose 300 [Gold]]",
-				  		"Gain [-300] [Gold]" ,
+			  "uniques": [ "Comment [Lose 500 [Gold]]",
+				  		"Gain [-500] [Gold]" ,
 				       "[+25 Gold] [in all cities] <for [20] turns>",
-				       "[+4 Happiness] [in all cities] <for [30] turns>",
+				       "[+5 Happiness] [in all cities] <for [30] turns>",
 			  		"Gain a free [Bus Routes] [in capital]"]},
 			    
 			    {"text": "Fund an underground subway.",
-			     "uniques": ["Comment [Lose 650 [Gold]]",
-				     	 "[+20 Production] [in all cities] <for [20] turns>",
+			     "uniques": ["Comment [Lose 500 [Gold]]",
+				     	 "[+15 Production] [in all cities] <for [20] turns>",
 				     	 "[+10 Culture] [in all cities] <for [10] turns>",
-				     	 "Gain [-650] [Gold] <hidden from users>",
+				     	 "Gain [-500] [Gold] <hidden from users>",
 			     		"Gain a free [Underground Subway] [in capital]"] } ]
 	
 	},
@@ -419,7 +418,7 @@
 			  		"[+5 Happiness] <in cities with a [Bomb Shelter]> <for [10] turns>",
 			  		"[-5 Happiness] <in cities without a [Bomb Shelter]> <for [10] turns>"]},
 			    
-			    {"text": "Screw the people, get all me top advisors and GET ME OUT OF HERE!",
+			    {"text": "Screw the people, grap all my top advisors and GET ME OUT OF HERE!",
 			     "uniques": ["Rebel units may spawn <for [50] turns>",
 				     	"[-10 Happiness] [in all cities] <for [10] turns>",
 			     		"[-5] population [in all cities]",
@@ -434,7 +433,7 @@
 
 	{
 		    "name": "Obstacle",
-		    "text": "For years now, the grand building that has been serving as the seat of power of our nation has fallen into disrepair. Cracks and mould crawl out of far corneres of walls, doors are unable to be closed as their hinges wear away, the beutiful art that line corridors and rooms have been smotherd in inch-thich layers of dust and grime. This building is no longer deemed fit for its purpose, and action needs to be taked immediately. What shall we do?",
+		    "text": "For years now, the grand building that has been serving as the seat of power of our nation has fallen into disrepair. Cracks and mould crawl out of far corners of walls, doors are unable to be closed as their hinges wear away, the beautiful art that line corridors and rooms have been smotherd in inch-thich layers of dust and grime. This building is no longer deemed fit for its purpose, and action needs to be taken immediately. What shall we do?",
 		    "choices": [
 
 			    { "text": "We shall build a new building for our government! There may already be people and property present where the building site needs to be... but surely a bit of 'convincing' shall remove them from the area.",
@@ -471,7 +470,7 @@
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
 			  "uniques": [	"Rebel units may spawn <for [50] turns>",
-				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [1000] turns>",
+				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [9999] turns> <hidden from users>",
 			  		"[Land] units gain the [We the People] promotion"] } ]
   	},
 	{
@@ -483,7 +482,7 @@
 				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [30] turns>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
-			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings  <for [1000] turns>",
+			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings  <for [9999] turns> <hidden from users>", "Comment [+4 [Science], +5 [Faith] from all [Science] buildings]", 
 			  		"Empire enters golden age"] }
 
 			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
@@ -502,7 +501,7 @@
 			  		"Free [Settler] appears"] }
 
 			{ "text": "I can't be dealing with such petty attempts trying to win my hand in marriage. If you or any of the other handmaidens are interested in these men, I could arrange your marriages instead!",
-			  "uniques": [	"[+3 Happiness] [in all cities] <for [1000] turns>",
+			  "uniques": [	"[+3 Happiness] [in all cities] <for [9999] turns> <hidden from users>", "Comment [+3 [Happiness] in all cities]", 
 			  		"[+25]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	{
@@ -511,7 +510,7 @@
 		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nation's demise. What shall we do to prevent these disasters from happening?",
 		"choices": [
 			{ "text": "The Gods are testing us so that they know that we are worthy of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
-			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns>",
+			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns> <hidden from users>", "Comment [Earn 200% of killed Military unit's Strength as [Faith]",
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
@@ -663,7 +662,7 @@
 		"text": "Ras Tafari, your people gather in the city square, waiting for you to show them the wisdom of Solomon. Show them the wisdom of Solomon, oh Negusa Nagast!",
 		"choices": [
 			{ "text": "With only 30 pieces of silver, our Lord was betrayed. We will print His likeness into seventy times seven coins, and spread them around the whole World! So every man, woman, and child knows the name of their savior!",
-			  "uniques": [	 "[+2 Faith] from all [Market] buildings <for [1000] turns> <hidden from users>"]}
+			  "uniques": [	 "[+2 Faith] from all [Market] buildings <for [1000] turns>"]}
       
       			{ "text": "In this world plagued by division, we allow things like race and creed to set us apart. But God does not see the color of our skin, only the goodness of our soul. We will write it in our songs, in our tales, in our laws.",
 			  "uniques": [	 "[3] free [Pikeman] units appear",
@@ -671,7 +670,7 @@
 
 			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
 			  "uniques": [	"[+2 Food] from every [Farm] <for [20] turns>",
-			  		"[+2 Food] from every [Plantation]  <for [9999] turns> <hidden from users>"] }] //
+			  		"[+2 Food] from every [Plantation]  <for [9999] turns>"] }] //
   	},
 	{
 
@@ -744,7 +743,7 @@
 			  		"[+2 Happiness] [in all cities] <for [20] turns>"]} 
       
       			{ "text": "Riches from the mountains and rare goods from the earth have been gifted to us by the Gods. My vassals shall gift me these luxuries, so we can uncover the vast riches the Gods have given to us",
-			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
+			  "uniques": [	 "[+5 Gold] from every [Mountain] <for [9999] turns>",
 			  		 "[+2 Production] from every [Hill] <for [20] turns>"] }
 
 			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
@@ -776,7 +775,7 @@
 	{
 
 		"name": "Iroquois UE", //On 
-		"text": "Great Chieftan! All of the lessert chiefs have gathered here today as the Mid-Winter festival draws to a close. What shall our tribes pla for this year, to ensure our freedom and heratige?",
+		"text": "Great Chieftan! All of the lesser chiefs have gathered here today as the Mid-Winter festival draws to a close. What shall our tribes pla for this year, to ensure our freedom and heratige?",
 		"choices": [
 			{ "text": "We have fought in many wars recently, and now many families mourn the loss of their kin. We shall devout this year for retribution against our enemies, for these soldiers have not died in vain!",
 			  "uniques": [	  "All newly-trained [Land] units [in all cities] receive the [Eternal Mourning] promotion <for [1000] turns>",
@@ -818,7 +817,7 @@
 			  "uniques": [	 "[+1 Science] from [Farm] tiles [in all cities] <for [9999] turns>",
 			  		   		"Empire enters a [10]-turn Golden Age"] }
 
-			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. Therefore, we shall limit the levels of social mobility in our nation, so that the elite scholarss hall not be tainted by the peasantry!",
+			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. Therefore, we shall limit the levels of social mobility in our nation, so that the elite scholars hall not be tainted by the peasantry!",
 			  "uniques": [	 "[+2 Culture, +1 Production] from every specialist [in all cities] <for [9999] turns>",
 			  				"[+25]% [Gold] [in capital] <for [10] turns>"] }
 			
