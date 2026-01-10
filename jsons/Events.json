@@ -440,13 +440,13 @@
 			  "uniques": ["[-10 Happiness] [in capital] <for [10] turns>",
 			  			"Gain a free [New Palace] [in capital]",
 			  			"[+20]% [Production] [in capital] <for [10] turns>",
-			  			"[-10]% [Culture] [in Capital] <for [10] turns>"]},
+			  			"[-10]% [Culture] [in capital] <for [10] turns>"]},
 
 			     { "text": "The embarassment of having such a beutiful piece of architecture being tarnished from decades of neglct shall not carry on! We shall renovate it immediately!",
 			  "uniques": ["[+5 Culture, +5 Happiness] from every [Palace]  <for [10] turns>",
 				  		"[+200]% Yield from every [Palace] <for [9999] turns>",
 			  			"[-10]% [Production] [in capital] <for [10] turns>",
-			  			"[+20]% [Culture] [in Capital] <for [10] turns>"]}]
+			  			"[+20]% [Culture] [in capital] <for [10] turns>"]}]
 	
 	},
 
@@ -510,7 +510,7 @@
 		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nation's demise. What shall we do to prevent these disasters from happening?",
 		"choices": [
 			{ "text": "The Gods are testing us so that they know that we are worthy of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
-			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns> <hidden from users>", "Comment [Earn 200% of killed Military unit's Strength as [Faith]",
+			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns> <hidden from users>", "Comment [Earn 200% of killed Military unit's Strength as [Faith]]",
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
@@ -604,7 +604,7 @@
 				 	 "Gain [-400] [Gold] <hidden from users>"] }
 
 			{ "text": "An envoy? There is news of a rediscovered religious text after an excavation of an old palace? This text could change the way we see the world forever!",
-			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy Site] <for [1000] turns>",
+			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy site] <for [1000] turns>",
 				 	"[+2 Food, +2 Faith] from all [Culture] buildings <for [20] turns>"] }]
   	},
 	{
@@ -710,7 +710,7 @@
 			  		"[1] free [Pomeranian Knight] units appear"] }
 
 			{ "text": "German trade has fallen dramatically, causing our craftsmen and merchants to become penniless. We shall form the Hanseatic League to improve trade relations and stop us from entering an economic disaster.",
-			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
+			  "uniques": [	"Gain a free [Hanse Guild] [in all cities] <for [9999] turns>",
 			  		"Gain [300] [Gold]" ] }]
   	},
 
@@ -787,7 +787,7 @@
 
 			{ "text": "Foriegn empires have taken interest in our decorative Wampum beads. By producing more of them and selling them to these people, we will surely benefit.",
 			  "uniques": [	"[+3 Gold, +2 Production] from every [Longhouse] <for [20] turns>",
-			  		"[+3 Culture] from every [Luxury] <for [9999] turns>",] }]
+			  		"[+3 Culture] from every [Luxury resource] <for [9999] turns>",] }]
   	},
 		{
 
@@ -1020,7 +1020,7 @@
       
       			{ "text": "There has been a new game coming around to our lands. I believe its called 'Pok', and it is very competitive. Why dont we make it into a religious celebration, and the losers will be given the gift of sacrifice!",
 			  "uniques": [	 "[+2 Faith, +1 Culture] from all [Happiness] buildings <for [9999] turns>", 
-						"[-1 Production, +2 Culture, +2 Gold] from [Production] tiles [in all cities] <for [20] turns>",] }
+						"[-1 Production, +2 Culture, +2 Gold] from [Forest] tiles [in all cities] <for [20] turns>",] }
 
 			{ "text": "You dont know how much I'm holding back from ordering the priests to sacrifice you right now. But, you don't need to worry, maybe there is another way to give the Gods gifts ither than sacrifice?",
 			  "uniques": [	 	 "[+2 Faith] from [resource] tiles [in all cities] <for [20] turns>",
@@ -1037,8 +1037,8 @@
 			  		 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>"]} 
       
       			{ "text": "Fears about Dutch culture being subverted by our neighbours? Nonesence, the Dutch are one of the most enlightend people on this continent! Our artist and their patrons will be the embodiment of civilised culture across the globe!",
-			  "uniques": [	 "[+3 Culture] from [Luxury] tiles [in all cities] <for [9999] turns>", 
-						"[+2 Culture] from [Gold] tiles [in all cities] <for [20] turns>",] }
+			  "uniques": [	 "[+3 Culture] from [Luxury resource] tiles [in all cities] <for [9999] turns>", 
+						"[+2 Culture] from [Coast] tiles [in all cities] <for [20] turns>",] }
 
 			{ "text": "Worries about foreign influence in our internal politics? Well, that's rich coming from some of the most important political figures in the country... Well, we are a peaceful people at our core, and no meddling from other empires will tear our unity apart!",
 			  "uniques": [	 	 "Allied City-States provide [Gold] equal to [500]% of what they produce for themselves <for [20] turns>",
