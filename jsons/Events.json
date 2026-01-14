@@ -94,16 +94,16 @@
 		"text": "A warband, seeking refuge from some foreign war, has arrived at your Palace, and offer their services to you. These are no mere barbarians; these are diciplined soldiers. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [75] [Culture]"]},
+			  "uniques": [ "[3] [Spearman]s rebel",
+					"Gain [100] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 100 [Gold] ]",
+			  "uniques": [ "Comment [Lose 150 [Gold] ]",
 							"[3] free [Spearman] units appear",
-							"Gain [-100] [Gold] <hidden from users>" ] }]
+							"Gain [-150] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -111,16 +111,16 @@
 		"text": "A band of mercenaries, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [100] [Culture]"]},
+			  "uniques": [ "[3] [Landsknecht]s rebel",
+					"Gain [150] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 300 [Gold] ]",
+			  "uniques": [ "Comment [Lose 500 [Gold] ]",
 							"[3] free [Landsknecht] units appear",
-							"Gain [-300] [Gold] <hidden from users>" ] }]
+							"Gain [-500] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -128,16 +128,16 @@
 		"text": "A posse of outlaws, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere burgalars; these are trained raiders. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [100] [Culture]"]},
+			  "uniques": [ "[3] [Rifleman]s rebel",
+					"Gain [200] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 500 [Gold] ]",
+			  "uniques": [ "Comment [Lose 800 [Gold] ]",
 							"[3] free [Rifleman] units appear",
-							"Gain [-500] [Gold] <hidden from users>" ] }]
+							"Gain [-800] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -145,16 +145,16 @@
 		"text": "An organisation of PMCs, fresh from some foreign war now settled, has sent a message to the military, and offer their services to you. These are no mere insurgents; these are true veterans. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no guns-for-hire in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+			  "uniques": [ "[3] [PMC]s rebel",
 					"Gain [300] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The PMC's leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 500 [Gold]]",
+			  "uniques": [ "Comment [Lose 1500 [Gold]]",
 				  	"[3] free [PMC] units appear",
-					"Gain [-600] [Gold] <hidden from users>" ] }]
+					"Gain [-1500] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -420,6 +420,8 @@
 			    
 			    {"text": "Screw the people, grap all my top advisors and GET ME OUT OF HERE!",
 			     "uniques": ["Rebel units may spawn <for [50] turns>",
+					 	"[5] [Infantry]s rebel <hidden from users>",
+					 	"[15] [Spearman]s rebel <hidden from users>",
 				     	"[-10 Happiness] [in all cities] <for [10] turns>",
 			     		"[-5] population [in all cities]",
 			     		"Free Great Person",
@@ -469,7 +471,7 @@
 				  	"[-5 Happiness] [in all cities] <for [50] turns>"]} 
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
-			  "uniques": [	"Rebel units may spawn <for [50] turns>",
+			  "uniques": [	"Rebel units may spawn <for [50] turns>", "[5] [Musketman]s rebel <hidden from users>",
 				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [9999] turns> <hidden from users>",
 			  		"[Land] units gain the [We the People] promotion"] } ]
   	},
@@ -687,7 +689,7 @@
 			  		 "Empire enters a [10]-turn Golden Age"] }
 
 			{ "text": "Bah! Can the people not see that I am a master leader!? If those ungratful brutes believe they deserve anything more than they already got, then I'll make them grateful!",
-			  "uniques": [	"Rebel units may spawn <for [30] turns>",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>", "[5] [Rifleman]s rebel <hidden from users>", "[2] [Cavalry]s rebel <hidden from users>", "[2] [Ironclad]s rebel <hidden from users>",
 			  		"[-20 Happiness] [in all cities] <for [2] turns>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
@@ -765,11 +767,11 @@
 			  		 "[+2 Faith] from every [Mughal Fort]  <for [9999] turns>" ] }
 
 			{ "text": "The people in the lands we have recently expanded into have complained about how they are treated under the caste system. We must abolish this backwards system, even if it might anger the lords of the nation",
-			  "uniques": [	"Rebel units may spawn <for [30] turns>",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>", "[3] [Pikeman]s rebel <hidden from users>", "[2] [War Elephant]s rebel <hidden from users>",
 			  		"[-20 Happiness] [in all cities] <for [2] turns>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
-			  		"[+100]% [Food] [in all cities] <for [100] turns>"] }]
+			  		"[+75]% [Food] [in all cities] <for [9999] turns>"] }]
   	},
 
 	{
@@ -787,7 +789,7 @@
 
 			{ "text": "Foriegn empires have taken interest in our decorative Wampum beads. By producing more of them and selling them to these people, we will surely benefit.",
 			  "uniques": [	"[+3 Gold, +2 Production] from every [Longhouse] <for [20] turns>",
-			  		"[+3 Culture] from every [Luxury resource] <for [9999] turns>",] }]
+			  		"[+3 Culture] from every [Luxury resource] <for [9999] turns>"] }]
   	},
 		{
 
