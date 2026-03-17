@@ -227,14 +227,11 @@
 		    "choices": [
 
 			    { "text": "These industries shall stay private!",
-			  "uniques": [ "Gain [1000] [Gold]" ,
-				       "[+15 Gold] [in all cities] <for [15] turns>",
+			  "uniques": ["[+15 Gold] [in all cities] <for [15] turns>",
 				  		 "Gain a free [Stock Exchange] [in capital]"]},
 			    
 			    {"text": "For the People!",
-			     "uniques": ["Comment [Lose 1000 [Gold]]",
-				     	 "[+10 Production] [in all cities] <for [15] turns>",
-				     	 "Gain [-1000] [Gold] <hidden from users>",
+			     "uniques": ["[+10 Production] [in all cities] <for [15] turns>",
 			     		 "Gain a free [Factory] [in capital]"] } ]
 	
 	},
@@ -384,13 +381,10 @@
 			  		"Only available <when at war> <hidden from users>"]},
 
 			     { "text": "Knowledge is of no use if it is not passed on.",
-			  "uniques": ["[+3 Happiness, +3 Science] from all [Science] buildings <for [10] turns>"]},
+			  "uniques": ["[+1 Culture, +1 Science] from all [Science] buildings <for [10] turns>"]},
 			    
 			    {"text": "Support the Academia, and fund their research.",
-			     "uniques": ["Comment [Lose 500 [Gold]]",
-				     	 "[+3 Science] from every [Academy]  <for [10] turns>",
-				     	 "Free Technology",
-				     	 "Gain [-500] [Gold] <hidden from users>"] } ]
+			     "uniques": ["[+3 Science] from every [Academy] <for [10] turns>"] } ]
 	
 	},
 
@@ -422,6 +416,7 @@
 			     "uniques": ["Rebel units may spawn <for [50] turns>",
 					 	"[5] [Infantry]s rebel <hidden from users>",
 					 	"[15] [Spearman]s rebel <hidden from users>",
+					 	"[5] [Archer]s rebel <hidden from users>",
 			     		"[-5] population [in all cities]",
 			     		"Free Great Person",
 			     		"Free [Great General] appears",
@@ -438,14 +433,12 @@
 		    "choices": [
 
 			    { "text": "We shall build a new building for our government! There may already be people and property present where the building site needs to be... but surely a bit of 'convincing' shall remove them from the area.",
-			  "uniques": ["[-10 Happiness] [in capital] <for [10] turns>",
-			  			"Gain a free [New Palace] [in capital]",
+			  "uniques": ["Gain a free [New Palace] [in capital]",
 			  			"[+20]% [Production] [in capital] <for [10] turns>",
 			  			"[-10]% [Culture] [in capital] <for [10] turns>"]},
 
-			     { "text": "The embarassment of having such a beutiful piece of architecture being tarnished from decades of neglct shall not carry on! We shall renovate it immediately!",
-			  "uniques": ["[+5 Culture, +5 Happiness] from every [Palace]  <for [10] turns>",
-				  		"[+200]% Yield from every [Palace] <for [9999] turns>",
+			     { "text": "The embarassment of having such a beautiful piece of architecture being tarnished from decades of neglct shall not carry on! We shall renovate it immediately!",
+			  "uniques": ["[+2 Production, +2 Culture, +2 Science, +1 Faith] from every [Palace]  <for [9999] turns>",
 			  			"[-10]% [Production] [in capital] <for [10] turns>",
 			  			"[+20]% [Culture] [in capital] <for [10] turns>"]}]
 	
