@@ -814,8 +814,8 @@
 			  "uniques": [	 "[+2 Culture, +1 Production] from every specialist [in all cities] <for [9999] turns>",
 			  				"[+25]% [Gold] [in capital] <for [10] turns>"] }
 			
-			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. So, in order to prevent any conflict, I shall ignore this problem alltogeter and order the rconstruction of Gyeongbok Palace!",
-			  "uniques": ["[+200]% Yield from every [Palace] <for [9999] turns>",
+			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. So, in order to prevent any conflict, I shall ignore this problem alltogether and order the construction of Gyeongbok Palace!",
+			  "uniques": ["[+10]% Yield from every [Palace] <for [9999] turns>",
 			  				"[+50]% [Happiness] [in all cities] <for [10] turns>",
 			  				"Comment [The peasantry and the nobles become very confused.]"] }]
   	},
@@ -825,7 +825,7 @@
 		"text": "Chinggis Khan! The latest rounds of captives have been brought to you. What would you like to do with them? I'll get you a cushion to rest your legs on, this will take a while.",
 		"choices": [
 			{ "text": "These men are all carers of silkworms, living peaceful lives and selling silk to merchants, and now they can continue! Their fine silk shall give our Orda many riches.",
-			  "uniques": ["[+200]% Yield from every [Palace] <for [9999] turns>",
+			  "uniques": ["[+10]% Yield from every [Palace] <for [9999] turns>",
 			  				"[+100]% [Gold] from Trade Routes <for [10] turns>"]} 
       
       			{ "text": "Tea farmers? Hmm... let these men carry on growing their crops; there are many city-dwellers that would kill for this plant!",
@@ -851,7 +851,7 @@
 
 			{ "text": "These prices are not suitable to be my heir. Bring me my daughter! She has the mind of a banker and the wit of a general. She shall lead this empire to prosperity and wealth.",
 			  "uniques": [	 "[+3 Culture] from all [Production] buildings <for [9999] turns>",
-			  				"[+400]% Yield from every [Monument] <for [10] turns>"] }]
+			  				"[+4 Culture] from every [Monument] <for [10] turns>"] }]
   	},
 	{
 
@@ -942,7 +942,7 @@
 
 			{ "text": "God has gifted these lands with extreme wealth, but these sources are not going to last forever. It is our upmost priority to proctect our wealth to ensure it doesnt fall through our grasps.",
 			  "uniques": [	 	 "[+1 Gold] from [resource] tiles [in all cities] <for [20] turns>",
-				  				 "[+50]% Yield from every [Market] <for [9999] turns>"] }]
+				  				 "[+4 Gold] from every [Market] <for [9999] turns>"] }]
   	},
 {
 
@@ -977,7 +977,7 @@
 			  		"[+1 Food, +1 Production, +1 Culture] from every specialist [in all cities] <for [9999] turns>"] }
 
 			{ "text": "More and more people leave this empire for more productive, more wealthy nations. We need to rapidly industrialise to prevent our empire. from collapsing from within, as our people pledge allegiance to other nations",
-			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [75] turns>",
+			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [15] turns>",
 				  				 "[+2 Production, +1 Science, +1 Gold] from [Camp] tiles [in all cities] <for [9999] turns>"] }]
   	},
 
@@ -985,10 +985,10 @@
 	{
 
 		"name": "The Huns UE", //On Animal Husbandry
-		"text": "Great Scourge of God! The leader sof the united tribes have arrived at your court! Give them the advice they have came to hear! Glory to the Huns!",
+		"text": "Great Scourge of God! The leaders of the united tribes have arrived at your court! Give them the advice they have came to hear! Glory to the Huns!",
 		"choices": [
 			{ "text": "Glorious! We shall be the ones that drive all settled civilisations to the tiny caves that they crawled out from. The Huns shall rule all the open lands!!",
-			  "uniques": [  "[5] free [Horse Archer] units appear",
+			  "uniques": [  "[3] free [Horse Archer] units appear",
 			  		 	"[2] free [Settler] units appear"]} 
       
       			{ "text": "We will destroy all our foes, but our enemies are many, and we are one. We shall defend our pastures and land just as fiercely as we pillace and treck on our enemies!",
