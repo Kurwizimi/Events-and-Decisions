@@ -37,12 +37,13 @@
       
      			{ "text": "We can't take it down! We're using it as a radio tower!",
 			  "uniques": [ "Gain a free [Broadcast Tower] [in this city]",
-                      		"Comment [Lose 250 [Gold]]",
-							"Gain [-250] [Gold] <hidden from users>" ]},
+                      		"Comment [Lose 750 [Gold]]",
+							"Gain [-750] [Gold] <hidden from users>" ]},
       
      			{ "text": "Fine, let's tear it down.",
 			  "uniques": ["Comment [Lose [Eiffel Tower] benefits]",
-				     		"Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
+				     		"[-1 Happiness] per [2] social policies adopted <for [999999] turns> <hidden from users>",
+				  			"[-5 Happiness, -1 Culture] [in capital] <for [999999] turns> <hidden from users>",
                             "[2] free [Great Artist] units appear",
                         	"[1] free [Great Engineer] units appear"] }]
   },
@@ -56,7 +57,7 @@
      			{ "text": "Have him cleaned up and suited with armor.",
 			  "uniques": [ "[1] free [Great General] units appear",
                       		"Comment [Lose 100 [Gold]]",
-							"Gain [-100] [Gold] <hidden from users>" ]},
+							"Gain [-150] [Gold] <hidden from users>" ]},
       
      			{ "text": "Confiscate what little estate he possesses and then have him executed!",
 			  "uniques": ["[-2 Happiness] [in all cities] <for [10] turns>",
@@ -81,7 +82,7 @@
 		"choices": [
 			{ "text": "Our prayers and sacrifices shall bring back the light.",
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
-			  		"[+50]% [Faith] [in all cities] <for [8] turns>"]},
+			  		"[+100]% [Faith] [in all cities] <for [8] turns>"]},
       
      			{ "text": "There must be a reasonable explanation.",
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
@@ -93,16 +94,16 @@
 		"text": "A warband, seeking refuge from some foreign war, has arrived at your Palace, and offer their services to you. These are no mere barbarians; these are diciplined soldiers. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [75] [Culture]"]},
+			  "uniques": [ "[3] [Spearman]s rebel",
+					"Gain [100] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 100 [Gold] ]",
-							"[3] free [Swordsman] units appear",
-							"Gain [-100] [Gold] <hidden from users>" ] }]
+			  "uniques": [ "Comment [Lose 150 [Gold] ]",
+							"[3] free [Spearman] units appear",
+							"Gain [-150] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -110,16 +111,16 @@
 		"text": "A band of mercenaries, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [100] [Culture]"]},
+			  "uniques": [ "[3] [Landsknecht]s rebel",
+					"Gain [150] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 300 [Gold] ]",
+			  "uniques": [ "Comment [Lose 500 [Gold] ]",
 							"[3] free [Landsknecht] units appear",
-							"Gain [-300] [Gold] <hidden from users>" ] }]
+							"Gain [-500] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -127,16 +128,16 @@
 		"text": "A posse of outlaws, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere burgalars; these are trained raiders. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [100] [Culture]"]},
+			  "uniques": [ "[3] [Rifleman]s rebel",
+					"Gain [200] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 500 [Gold] ]",
+			  "uniques": [ "Comment [Lose 800 [Gold] ]",
 							"[3] free [Rifleman] units appear",
-							"Gain [-500] [Gold] <hidden from users>" ] }]
+							"Gain [-800] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -144,16 +145,16 @@
 		"text": "An organisation of PMCs, fresh from some foreign war now settled, has sent a message to the military, and offer their services to you. These are no mere insurgents; these are true veterans. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no guns-for-hire in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+			  "uniques": [ "[3] [PMC]s rebel",
 					"Gain [300] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The PMC's leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 500 [Gold]]",
+			  "uniques": [ "Comment [Lose 1500 [Gold]]",
 				  	"[3] free [PMC] units appear",
-					"Gain [-600] [Gold] <hidden from users>" ] }]
+					"Gain [-1500] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -171,20 +172,20 @@
 			{ "text": "I do not address mere rumors." } ,
       
      			{ "text": "Send out some guards and bring back the pelt of this beast.",
-			  "uniques": [ "[+2 Happiness] [in all cities] <for [5] turns>",
+			  "uniques": [ "[+2 Happiness] [in all cities] <for [5] turns> <with [50]% chance>",
                       		"Comment [Lose 25 [Gold]]",
 					"Gain [-25] [Gold] <hidden from users>" ]},
 
 			{ "text": "Capture it, put it in a zoo, and charge extra to have it seen.",
-			  "uniques": [ "[+2 Culture] [in all cities] <for [10] turns>",
+			  "uniques": [ "[+2 Culture] [in all cities] <for [10] turns> <with [50]% chance>",
                       		"Comment [Lose 50 [Gold]]",
 							"Gain [-50] [Gold] <hidden from users>" ]},
       
      			{ "text": "I shall hunt this beast myself!",
-			  "uniques": ["[+3 Happiness] [in all cities] <for [5] turns>",
-				      "[+3 Culture] [in all cities] <for [10] turns>",
-				      "Comment [Lose 250 [Gold]]",
-				      "Gain [-250] [Gold] <hidden from users>"] }]
+			  "uniques": ["[+3 Happiness] [in all cities] <for [5] turns> <with [50]% chance>",
+				      "[+3 Culture] [in all cities] <for [10] turns> <with [50]% chance>",
+				      "Comment [Lose 200 [Gold]]",
+				      "Gain [-200] [Gold] <hidden from users>"] }]
   },
 
 	 {
@@ -207,7 +208,7 @@
 				       "[-3 Happiness] [in all cities] <for [10] turns>" ]},
 			
      			{ "text": "Whoever thinks this is a good idea are traitors to the state! Have them executed!",
-			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>",
+			  "uniques": ["[-2 Culture] [in all cities] <for [5] turns>",
 				      "[+2 Happiness] [in all cities] <for [10] turns>"] }]
   },
 
@@ -226,15 +227,11 @@
 		    "choices": [
 
 			    { "text": "These industries shall stay private!",
-			  "uniques": [ "Gain [300] [Gold]" ,
-				       "[+15 Gold] [in all cities] <for [15] turns>",
-				  		 "Gain a free [Stock Exchange] [in capital]",
-				       "[-3 Happiness] [in all cities] <for [10] turns>"]},
+			  "uniques": ["[+15 Gold] [in all cities] <for [15] turns>",
+				  		 "Gain a free [Stock Exchange] [in capital]"]},
 			    
 			    {"text": "For the People!",
-			     "uniques": ["Comment [Lose 300 [Gold]]",
-				     	 "[+10 Production] [in all cities] <for [15] turns>",
-				     	 "Gain [-300] [Gold] <hidden from users>",
+			     "uniques": ["[+10 Production] [in all cities] <for [15] turns>",
 			     		 "Gain a free [Factory] [in capital]"] } ]
 	
 	},
@@ -245,17 +242,17 @@
 		    "choices": [
 
 			    { "text": "Expand bus and tram routes.",
-			  "uniques": [ "Comment [Lose 300 [Gold]]",
-				  		"Gain [-300] [Gold]" ,
-				       "[+15 Gold] [in all cities] <for [20] turns>",
-				       "[+4 Happiness] [in all cities] <for [30] turns>",
+			  "uniques": [ "Comment [Lose 500 [Gold]]",
+				  		"Gain [-500] [Gold]" ,
+				       "[+25 Gold] [in all cities] <for [20] turns>",
+				       "[+5 Happiness] [in all cities] <for [30] turns>",
 			  		"Gain a free [Bus Routes] [in capital]"]},
 			    
 			    {"text": "Fund an underground subway.",
-			     "uniques": ["Comment [Lose 650 [Gold]]",
-				     	 "[+20 Production] [in all cities] <for [20] turns>",
+			     "uniques": ["Comment [Lose 500 [Gold]]",
+				     	 "[+15 Production] [in all cities] <for [20] turns>",
 				     	 "[+10 Culture] [in all cities] <for [10] turns>",
-				     	 "Gain [-650] [Gold] <hidden from users>",
+				     	 "Gain [-500] [Gold] <hidden from users>",
 			     		"Gain a free [Underground Subway] [in capital]"] } ]
 	
 	},
@@ -304,8 +301,8 @@
 			  "uniques": [	"[-20]% Strength <for [All] units> <for [10] turns>"]}
       
       			{ "text": "Increase their pay! A man will walk to Hell and back as long as they are given enough gold.",
-			  "uniques": [	"Comment [Lose 500 [Gold]]",
-				  	"Gain [-500] [Gold] <hidden from users>"] }
+			  "uniques": [	"Comment [Lose 1500 [Gold]]",
+				  	"Gain [-1500] [Gold] <hidden from users>"] }
 
 			{ "text": "Put the deserters on trial and court-martial them. There is no space for conscientious objectors in our army!",
 			  "uniques": [	"[-10]% Strength <for [All] units> <for [10] turns>",
@@ -344,7 +341,7 @@
 			  		"[+5 Gold] [in all cities] <in cities with a [Stadium]> <for [5] turns>",
 			  		"[-5 Production] [in all cities] <for [5] turns>"] }
 
-			{ "text": "We shall only accept this offer if we are able to deny our enemies from participating. We need to beat them on the front, not on the field.",
+			{ "text": "We shall only accept this offer if we are able to deny our enemies from participating. We need to beat them on the front, and on the field!",
 			  "uniques": [	"[+20]% Strength <for [All] units> <for [5] turns> <with [50]% chance>",
 				  	"[+5 Culture] [in capital] <for [5] turns>",
 			  		"[+5 Happiness] [in capital] <for [5] turns>",
@@ -384,13 +381,10 @@
 			  		"Only available <when at war> <hidden from users>"]},
 
 			     { "text": "Knowledge is of no use if it is not passed on.",
-			  "uniques": ["[+3 Happiness, +3 Science] from all [Science] buildings <for [10] turns>"]},
+			  "uniques": ["[+1 Culture, +1 Science] from all [Science] buildings <for [10] turns>"]},
 			    
 			    {"text": "Support the Academia, and fund their research.",
-			     "uniques": ["Comment [Lose 500 [Gold]]",
-				     	 "[+3 Science] from every [Academy]  <for [10] turns>",
-				     	 "Free Technology",
-				     	 "Gain [-500] [Gold] <hidden from users>"] } ]
+			     "uniques": ["[+3 Science] from every [Academy] <for [10] turns>"] } ]
 	
 	},
 
@@ -400,15 +394,15 @@
 		    "choices": [
 
 			    { "text": "We shall prevent that asteroid from hitting Earth, no matter the cost! Our nation shall be the saviour of this planet!",
-			  "uniques": ["Comment [Lose 1100 [Gold]]",
-				  	"Gain [-1100] [Gold] <hidden from users>",
-				  	"[-100]% [Gold] [in all cities] <for [5] turns>",
+			  "uniques": ["Comment [Lose 3500 [Gold]]",
+				  	"Gain [-3500] [Gold] <hidden from users>",
+				  	"[-80]% [Gold] [in all cities] <for [5] turns>",
 				  	"[+50]% growth [in all cities] <for [10] turns>",
 				  	"[+50]% [Production] [in all cities] <for [10] turns>",
 				  	"[+50]% [Culture] [in all cities] <for [20] turns>",
 				  	"All newly-trained [Military] units [in all cities] receive the [Saviours of the Planet] promotion <for [9999] turns>",
 			  		"[Military] units gain the [Saviours of the Planet] promotion",
-			  		"Only available <when number of [Nuclear Missile] is more than [0]> <hidden from users>"]},
+			  		"Only available <when number of [[Nuclear Missile] Units] is more than [0]> <hidden from users>"]},
 
 			     { "text": "Evacuate all civilians immediately! We can't stop the asteroid, we can prevevnt the devestation it will cause.",
 			  "uniques": ["[-75]% growth [in all cities] <for [10] turns>",
@@ -418,9 +412,11 @@
 			  		"[+5 Happiness] <in cities with a [Bomb Shelter]> <for [10] turns>",
 			  		"[-5 Happiness] <in cities without a [Bomb Shelter]> <for [10] turns>"]},
 			    
-			    {"text": "Screw the people, get all me top advisors and GET ME OUT OF HERE!",
+			    {"text": "Screw the people, grap all my top advisors and GET ME OUT OF HERE!",
 			     "uniques": ["Rebel units may spawn <for [50] turns>",
-				     	"[-10 Happiness] [in all cities] <for [10] turns>",
+					 	"[5] [Infantry]s rebel <hidden from users>",
+					 	"[15] [Spearman]s rebel <hidden from users>",
+					 	"[5] [Archer]s rebel <hidden from users>",
 			     		"[-5] population [in all cities]",
 			     		"Free Great Person",
 			     		"Free [Great General] appears",
@@ -433,20 +429,18 @@
 
 	{
 		    "name": "Obstacle",
-		    "text": "For years now, the grand building that has been serving as the seat of power of our nation has fallen into disrepair. Cracks and mould crawl out of far corneres of walls, doors are unable to be closed as their hinges wear away, the beutiful art that line corridors and rooms have been smotherd in inch-thich layers of dust and grime. This building is no longer deemed fit for its purpose, and action needs to be taked immediately. What shall we do?",
+		    "text": "For years now, the grand building that has been serving as the seat of power of our nation has fallen into disrepair. Cracks and mould crawl out of far corners of walls, doors are unable to be closed as their hinges wear away, the beautiful art that line corridors and rooms have been smotherd in inch-thich layers of dust and grime. This building is no longer deemed fit for its purpose, and action needs to be taken immediately. What shall we do?",
 		    "choices": [
 
 			    { "text": "We shall build a new building for our government! There may already be people and property present where the building site needs to be... but surely a bit of 'convincing' shall remove them from the area.",
-			  "uniques": ["[-10 Happiness] [in capital] <for [10] turns>",
-			  			"Gain a free [New Palace] [in capital]",
+			  "uniques": ["Gain a free [New Palace] [in capital]",
 			  			"[+20]% [Production] [in capital] <for [10] turns>",
-			  			"[-10]% [Culture] [in Capital] <for [10] turns>"]},
+			  			"[-10]% [Culture] [in capital] <for [10] turns>"]},
 
-			     { "text": "The embarassment of having such a beutiful piece of architecture being tarnished from decades of neglct shall not carry on! We shall renovate it immediately!",
-			  "uniques": ["[+5 Culture, +5 Happiness] from every [Palace]  <for [10] turns>",
-				  		"[+200]% Yield from every [Palace] <for [9999] turns>",
+			     { "text": "The embarassment of having such a beautiful piece of architecture being tarnished from decades of neglct shall not carry on! We shall renovate it immediately!",
+			  "uniques": ["[+2 Production, +2 Culture, +2 Science, +1 Faith] from every [Palace]  <for [9999] turns>",
 			  			"[-10]% [Production] [in capital] <for [10] turns>",
-			  			"[+20]% [Culture] [in Capital] <for [10] turns>"]}]
+			  			"[+20]% [Culture] [in capital] <for [10] turns>"]}]
 	
 	},
 
@@ -469,8 +463,8 @@
 				  	"[-5 Happiness] [in all cities] <for [50] turns>"]} 
 
 			{ "text": "Both sides ignore the fact that the very existence of this nation is to protect the freedoms of all. We shall not do any of the barbaric practices these groups propose, even if it will cause a Civil War. Liberty for all, no mattter the cost!",
-			  "uniques": [	"Rebel units may spawn <for [50] turns>",
-				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [1000] turns>",
+			  "uniques": [	"Rebel units may spawn <for [50] turns>", "[5] [Musketman]s rebel <hidden from users>",
+				  	"All newly-trained [Land] units [in all cities] receive the [We the People] promotion <for [9999] turns> <hidden from users>",
 			  		"[Land] units gain the [We the People] promotion"] } ]
   	},
 	{
@@ -482,7 +476,7 @@
 				  	"[+25]% Strength <for [Military] units> <in [Foreign Land] tiles> <for [30] turns>"]}
       
       			{ "text": "We should be known for our great contributions to science and philosophy. Our scholars and ulama shall be world-renowned masters of knowledge!",
-			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings  <for [1000] turns>",
+			  "uniques": [	"[+4 Science, +5 Faith] from all [Science] buildings  <for [9999] turns> <hidden from users>", "Comment [+4 [Science], +5 [Faith] from all [Science] buildings]", 
 			  		"Empire enters golden age"] }
 
 			{ "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
@@ -501,7 +495,7 @@
 			  		"Free [Settler] appears"] }
 
 			{ "text": "I can't be dealing with such petty attempts trying to win my hand in marriage. If you or any of the other handmaidens are interested in these men, I could arrange your marriages instead!",
-			  "uniques": [	"[+3 Happiness] [in all cities] <for [1000] turns>",
+			  "uniques": [	"[+3 Happiness] [in all cities] <for [9999] turns> <hidden from users>", "Comment [+3 [Happiness] in all cities]", 
 			  		"[+25]% [Culture] [in capital] <for [20] turns>"] }]
   	},
 	{
@@ -510,16 +504,16 @@
 		"text": "Great Emperor of Tenochtitlan, our sacrifices to the Gods have allowed us to prosper and rise above other nations, but the high preists are concerened about our future. They have observed worrying patterns in the stars, pointing to our nation's demise. What shall we do to prevent these disasters from happening?",
 		"choices": [
 			{ "text": "The Gods are testing us so that they know that we are worthy of life. We shall devote more sacrifices to them. The blood from the temples shall not stop flowing!",
-			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns>",
+			  "uniques": [	 "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <for [1000] turns> <hidden from users>", "Comment [Earn 200% of killed Military unit's Strength as [Faith]]",
 			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "Our cities are slowly being engulfed in waste and filth. Take some of the sacrificial captives and make them clean the streets.",
-			  "uniques": [	"[+3 Happiness] [in all cities]  <for [1000] turns>",
+			  "uniques": [	"[+2 Happiness] [in all cities]  <for [1000] turns>",
 			  		"[+20]% growth [in all cities] <for [20] turns>"] }
 
 			{ "text": "People on the borders of our empire are starting to not pay tribute to their preists and are showing signs of rebellion. Increase the power of the Tlatoani and the landowners to ensure stability!",
-			  "uniques": [	"[+10 Gold] from [Plantation] tiles [in all cities] <for [20] turns>",
-				  	"[-5 Happiness] [in all cities] <for [10] turns>"] }]
+			  "uniques": [	"[+10 Gold] from [Plantation] tiles [in all cities] <for [50] turns>",
+				  	"[-1 Happiness] [in all cities] <for [10] turns>"] }]
   	},
 	{
 
@@ -535,7 +529,7 @@
 
 			{ "text": "Get all the wise men in Babylon to observe this holy battle, quick! This war will only happen once, and we shall not have the chance to observe it in a later age.",
 			  "uniques": [	"Gain a free [Observatory] [in this city] <upon founding a city>",
-			  		"[+2 Faith] from every [Academy]  <for [1000] turns>"] }]
+			  		"[+3 Faith] from every [Academy]  <for [20] turns>"] }]
   	},
 	{
 
@@ -551,7 +545,7 @@
 			  		 "[+5 Gold] from all [Faith] buildings <for [20] turns>"] }
 
 			{ "text": "Only the external threats to Byzantium keep the Patriarchy in power. By destroying our foreign enemies, we would be able to cripple the Patriarchy!",
-			  "uniques": [	"[3] free [Cataphract] units appear",
+			  "uniques": [	"[2] free [Cataphract] units appear",
 			  		"All newly-trained [Military] units [in all cities] receive the [Deus Vult] promotion  <for [1000] turns>"] }]
   	},
 	{
@@ -596,7 +590,7 @@
 			{ "text": "Isn't that the son of my rival?... You Fool! This is an assassin, not a messenger! Guards! Guards!",
 			  "uniques": [	 "[+2 Food, +1 Gold] from every [Plantation] <for [20] turns>",
 				  	 "[+1 Production] from every [Farm] <for [1000] turns>",
-			  		 "[-5 Happiness] [in all cities] <for [20] turns>"]}
+			  		 "[-2 Happiness] [in all cities] <for [20] turns>"]}
       
       			{ "text": "A tea merchant? An offer to establish a tea pavilion in the capital in exchange for some patronage. My, why would I reject such an offer!",
 			  "uniques": [	"[+3 Culture, +2 Happiness] from all [Opera House] buildings <for [1000] turns>",
@@ -604,7 +598,7 @@
 				 	 "Gain [-400] [Gold] <hidden from users>"] }
 
 			{ "text": "An envoy? There is news of a rediscovered religious text after an excavation of an old palace? This text could change the way we see the world forever!",
-			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy Site] <for [1000] turns>",
+			  "uniques": [	"[+2 Food, +2 Culture] from every [Holy site] <for [1000] turns>",
 				 	"[+2 Food, +2 Faith] from all [Culture] buildings <for [20] turns>"] }]
   	},
 	{
@@ -636,8 +630,9 @@
 			  		"[+1 Food] from [Flood plains] tiles [in all cities] <for [1000] turns>"] }
 
 			{ "text": "He shall help me purge the old, idiosyncratic ways of the nobility and start a lineage of fresh leaders. Now Egypt shall not fall behind its enemies!",
-			  "uniques": [	"[+4 Culture] from [Farm] tiles  <for [20] turns>",
-			  		"[-5 Happiness] [in all cities] <for [20] turns>"] }]
+			  "uniques": [	"[+4 Culture] from [Farm] tiles <for [20] turns>",
+				  "[+1 Culture] from [Plantation] tiles <for [1000] turns>",
+			  		"[-2 Happiness] [in all cities] <for [20] turns>"] }]
   	},
 	{
 
@@ -662,7 +657,7 @@
 		"text": "Ras Tafari, your people gather in the city square, waiting for you to show them the wisdom of Solomon. Show them the wisdom of Solomon, oh Negusa Nagast!",
 		"choices": [
 			{ "text": "With only 30 pieces of silver, our Lord was betrayed. We will print His likeness into seventy times seven coins, and spread them around the whole World! So every man, woman, and child knows the name of their savior!",
-			  "uniques": [	 "[+2 Faith] from all [Market] buildings <for [1000] turns> <hidden from users>"]}
+			  "uniques": [	 "[+2 Faith] from all [Market] buildings <for [1000] turns>"]}
       
       			{ "text": "In this world plagued by division, we allow things like race and creed to set us apart. But God does not see the color of our skin, only the goodness of our soul. We will write it in our songs, in our tales, in our laws.",
 			  "uniques": [	 "[3] free [Pikeman] units appear",
@@ -670,7 +665,7 @@
 
 			{ "text": "When they came to hear the Lord, they were called away to eat. But instead, he told them, stay, and fed them with manna from Heaven. How can we come closer to the Lord when our thoughts are shackled to the necessities of Earth. I will see that no man wants for bread, but no man can live by bread alone...",
 			  "uniques": [	"[+2 Food] from every [Farm] <for [20] turns>",
-			  		"[+2 Food] from every [Plantation]  <for [9999] turns> <hidden from users>"] }] //
+			  		"[+2 Food] from every [Plantation]  <for [9999] turns>"] }] 
   	},
 	{
 
@@ -687,8 +682,7 @@
 			  		 "Empire enters a [10]-turn Golden Age"] }
 
 			{ "text": "Bah! Can the people not see that I am a master leader!? If those ungratful brutes believe they deserve anything more than they already got, then I'll make them grateful!",
-			  "uniques": [	"Rebel units may spawn <for [30] turns>",
-			  		"[-20 Happiness] [in all cities] <for [2] turns>",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>", "[5] [Rifleman]s rebel <hidden from users>", "[2] [Cavalry]s rebel <hidden from users>", "[2] [Ironclad]s rebel <hidden from users>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
 			  		"[2] Free Social Policies",
@@ -710,7 +704,7 @@
 			  		"[1] free [Pomeranian Knight] units appear"] }
 
 			{ "text": "German trade has fallen dramatically, causing our craftsmen and merchants to become penniless. We shall form the Hanseatic League to improve trade relations and stop us from entering an economic disaster.",
-			  "uniques": [	"Gain a free [Hanse Guild] [in all  cities] <for [9999] turns>",
+			  "uniques": [	"Gain a free [Hanse Guild] [in all cities] <for [9999] turns>",
 			  		"Gain [300] [Gold]" ] }]
   	},
 
@@ -743,7 +737,7 @@
 			  		"[+2 Happiness] [in all cities] <for [20] turns>"]} 
       
       			{ "text": "Riches from the mountains and rare goods from the earth have been gifted to us by the Gods. My vassals shall gift me these luxuries, so we can uncover the vast riches the Gods have given to us",
-			  "uniques": [	 "[+10 Gold] from every [Mountain] <for [9999] turns>",
+			  "uniques": [	 "[+5 Gold] from every [Mountain] <for [9999] turns>",
 			  		 "[+2 Production] from every [Hill] <for [20] turns>"] }
 
 			{ "text": "I shall not demand tribute, but instead order them to expand the mountain shrines of the Waka'a Trail, so that we shall be closer to the Gods, and let them know that we shall eternally be their loyal servants.",
@@ -765,17 +759,16 @@
 			  		 "[+2 Faith] from every [Mughal Fort]  <for [9999] turns>" ] }
 
 			{ "text": "The people in the lands we have recently expanded into have complained about how they are treated under the caste system. We must abolish this backwards system, even if it might anger the lords of the nation",
-			  "uniques": [	"Rebel units may spawn <for [30] turns>",
-			  		"[-20 Happiness] [in all cities] <for [2] turns>",
+			  "uniques": [	"Rebel units may spawn <for [30] turns>", "[3] [Pikeman]s rebel <hidden from users>", "[2] [War Elephant]s rebel <hidden from users>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
-			  		"[+100]% [Food] [in all cities] <for [100] turns>"] }]
+			  		"[+75]% [Food] [in all cities] <for [9999] turns>"] }]
   	},
 
 	{
 
 		"name": "Iroquois UE", //On 
-		"text": "Great Chieftan! All of the lessert chiefs have gathered here today as the Mid-Winter festival draws to a close. What shall our tribes pla for this year, to ensure our freedom and heratige?",
+		"text": "Great Chieftan! All of the lesser chiefs have gathered here today as the Mid-Winter festival draws to a close. What shall our tribes pla for this year, to ensure our freedom and heratige?",
 		"choices": [
 			{ "text": "We have fought in many wars recently, and now many families mourn the loss of their kin. We shall devout this year for retribution against our enemies, for these soldiers have not died in vain!",
 			  "uniques": [	  "All newly-trained [Land] units [in all cities] receive the [Eternal Mourning] promotion <for [1000] turns>",
@@ -787,7 +780,7 @@
 
 			{ "text": "Foriegn empires have taken interest in our decorative Wampum beads. By producing more of them and selling them to these people, we will surely benefit.",
 			  "uniques": [	"[+3 Gold, +2 Production] from every [Longhouse] <for [20] turns>",
-			  		"[+3 Culture] from every [Luxury] <for [9999] turns>",] }]
+			  		"[+3 Culture] from every [Luxury resource] <for [9999] turns>"] }]
   	},
 		{
 
@@ -817,12 +810,12 @@
 			  "uniques": [	 "[+1 Science] from [Farm] tiles [in all cities] <for [9999] turns>",
 			  		   		"Empire enters a [10]-turn Golden Age"] }
 
-			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. Therefore, we shall limit the levels of social mobility in our nation, so that the elite scholarss hall not be tainted by the peasantry!",
+			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. Therefore, we shall limit the levels of social mobility in our nation, so that the elite scholars hall not be tainted by the peasantry!",
 			  "uniques": [	 "[+2 Culture, +1 Production] from every specialist [in all cities] <for [9999] turns>",
 			  				"[+25]% [Gold] [in capital] <for [10] turns>"] }
 			
-			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. So, in order to prevent any conflict, I shall ignore this problem alltogeter and order the rconstruction of Gyeongbok Palace!",
-			  "uniques": ["[+200]% Yield from every [Palace] <for [9999] turns>",
+			{ "text": "There has been tension between the peasantry, wanting to learn and become scholars, and the educated elite, who want to limit others from grasping at their power. So, in order to prevent any conflict, I shall ignore this problem alltogether and order the construction of Gyeongbok Palace!",
+			  "uniques": ["[+10]% Yield from every [Palace] <for [9999] turns>",
 			  				"[+50]% [Happiness] [in all cities] <for [10] turns>",
 			  				"Comment [The peasantry and the nobles become very confused.]"] }]
   	},
@@ -832,7 +825,7 @@
 		"text": "Chinggis Khan! The latest rounds of captives have been brought to you. What would you like to do with them? I'll get you a cushion to rest your legs on, this will take a while.",
 		"choices": [
 			{ "text": "These men are all carers of silkworms, living peaceful lives and selling silk to merchants, and now they can continue! Their fine silk shall give our Orda many riches.",
-			  "uniques": ["[+200]% Yield from every [Palace] <for [9999] turns>",
+			  "uniques": ["[+10]% Yield from every [Palace] <for [9999] turns>",
 			  				"[+100]% [Gold] from Trade Routes <for [10] turns>"]} 
       
       			{ "text": "Tea farmers? Hmm... let these men carry on growing their crops; there are many city-dwellers that would kill for this plant!",
@@ -858,14 +851,14 @@
 
 			{ "text": "These prices are not suitable to be my heir. Bring me my daughter! She has the mind of a banker and the wit of a general. She shall lead this empire to prosperity and wealth.",
 			  "uniques": [	 "[+3 Culture] from all [Production] buildings <for [9999] turns>",
-			  				"[+400]% Yield from every [Monument] <for [10] turns>"] }]
+			  				"[+4 Culture] from every [Monument] <for [10] turns>"] }]
   	},
 	{
 
 		"name": "Polynesia UE", //On Optics
 		"text": "Great Unifier of Hawai'i! Troublesome news have been heard from some tribal leaders. They say that you have lost your Mana, and that you are no longer the great king you once were. How are you going to convince them that this is not the case?",
 		"choices": [
-			{ "text": "I shall show my care for the people. I shall order the reconstruction of the anciant fish-traps that have been left derelict for years.",
+			{ "text": "I shall show my care for the people. I shall order the reconstruction of the ancient fish-traps that have been left derelict for years.",
 			  "uniques": [ "[+3 Food] from all [Lighthouse] buildings <for [10] turns>",
 			  		 "[+1 Production] from [Fish] tiles [in all cities] <for [9999] turns>"]} 
       
@@ -913,7 +906,7 @@
 				  			"[3] free [Rifleman] units appear",
 				  			"[3] free [Gatling Gun] units appear",
 				  			"[3] free [Artillery] units appear",
-			  				"Nullifies Growth [in all cities] <for [10] turns>"] }]
+			  				"Nullifies Growth [in all cities] <for [7] turns>"] }]
   	},
 	{
 
@@ -948,8 +941,8 @@
 			  		   		  "[+2 Happiness] from all [Faith] buildings <for [9999] turns>"] }
 
 			{ "text": "God has gifted these lands with extreme wealth, but these sources are not going to last forever. It is our upmost priority to proctect our wealth to ensure it doesnt fall through our grasps.",
-			  "uniques": [	 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>",
-				  				 "[+100]% Yield from every [Market] <for [10] turns>"] }]
+			  "uniques": [	 	 "[+1 Gold] from [resource] tiles [in all cities] <for [20] turns>",
+				  				 "[+4 Gold] from every [Market] <for [9999] turns>"] }]
   	},
 {
 
@@ -976,37 +969,37 @@
 		"choices": [
 			{ "text": "Rumours about a blight destroying crops is worrying me, for if it is true, then the entire nation will starve. The only way to ensure that our people have a reliable food source, is to collaborate with the native Sami, for they are the only ones who truely know how to tame these lands.",
 			  "uniques": [  "[+20]% growth [in all cities] <for [10] turns>",
-			  		 	"[+2 Gold, +2 Food, +2 Culture] from [Camp] tiles [in all cities] <for [9999] turns>",
-				   		"[+1 Food, +1 Production] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
+			  		 	"[+2 Food, +1 Culture] from [Camp] tiles [in all cities] <for [9999] turns>",
+				   		"[+1 Food, +1 Culture] from [Tundra] tiles [in all cities] <for [9999] turns>"]} 
       
       			{ "text": "The land I have given to my nobles have been left uncared for and wasted, and because of that our empire has stagnated. I want all the nobility to be checked on their competence, and anyone who fails will have all the lands I gifted to them canfiscated!!",
 			  "uniques": [	 "Gain [2500] [Gold]",
 			  		"[+1 Food, +1 Production, +1 Culture] from every specialist [in all cities] <for [9999] turns>"] }
 
 			{ "text": "More and more people leave this empire for more productive, more wealthy nations. We need to rapidly industrialise to prevent our empire. from collapsing from within, as our people pledge allegiance to other nations",
-			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [20] turns>",
-				  				 "[+1 Production, +1 Science, +1 Gold] from [Camp] tiles [in all cities] <for [9999] turns>"] }]
+			  "uniques": [	 	 "[+100]% Great Person generation [in all cities] <for [15] turns>",
+				  				 "[+2 Production, +1 Science, +1 Gold] from [Camp] tiles [in all cities] <for [9999] turns>"] }]
   	},
 
 
 	{
 
 		"name": "The Huns UE", //On Animal Husbandry
-		"text": "Great Scourge of God! The leader sof the united tribes have arrived at your court! Give them the advice they have came to hear! Glory to the Huns!",
+		"text": "Great Scourge of God! The leaders of the united tribes have arrived at your court! Give them the advice they have came to hear! Glory to the Huns!",
 		"choices": [
 			{ "text": "Glorious! We shall be the ones that drive all settled civilisations to the tiny caves that they crawled out from. The Huns shall rule all the open lands!!",
-			  "uniques": [  "[5] free [Horse Archer] units appear",
+			  "uniques": [  "[3] free [Horse Archer] units appear",
 			  		 	"[2] free [Settler] units appear"]} 
       
       			{ "text": "We will destroy all our foes, but our enemies are many, and we are one. We shall defend our pastures and land just as fiercely as we pillace and treck on our enemies!",
-			  "uniques": [	 "Free Great Person",
-			  		"[+4 Production, +2 Culture] from [Fort] tiles [in all cities] <for [9999] turns>", 
+			  "uniques": ["[+4 Production, +2 Culture] from [Fort] tiles [in all cities] <for [9999] turns>", 
 						"[+4 Production, +2 Gold, +4 Culture] from [Citadel] tiles [in all cities] <for [9999] turns>",] }
 
 			{ "text": "The glory of war and battle is immense, but the only way to fully destroy our enemies is to break them from the inside. After all, nothing is more glorious that seeing your enemies collapse from within, not even an entire grassland painted red with blood!!",
 			  "uniques": [	 	 "Gain an extra spy",
 				  				 "Research [50]% of [Horseback Riding]",
-			  					 "Research [50]% of [Chivalry]"] }]
+				  				 "Research [50]% of [Chivalry]",
+			  					 "Research [50]% of [Military Science]"] }]
   	},
 
 {
@@ -1020,10 +1013,10 @@
       
       			{ "text": "There has been a new game coming around to our lands. I believe its called 'Pok', and it is very competitive. Why dont we make it into a religious celebration, and the losers will be given the gift of sacrifice!",
 			  "uniques": [	 "[+2 Faith, +1 Culture] from all [Happiness] buildings <for [9999] turns>", 
-						"[-1 Production, +2 Culture, +2 Gold] from [Production] tiles [in all cities] <for [20] turns>",] }
+						"[-1 Production, +2 Culture, +2 Gold] from [Forest] tiles [in all cities] <for [20] turns>",] }
 
 			{ "text": "You dont know how much I'm holding back from ordering the priests to sacrifice you right now. But, you don't need to worry, maybe there is another way to give the Gods gifts ither than sacrifice?",
-			  "uniques": [	 	 "[+2 Faith] from [resource] tiles [in all cities] <for [20] turns>",
+			  "uniques": [	 	 "[+1 Faith] from [resource] tiles [in all cities] <for [20] turns>",
 								"[-20]% Unhappiness from [Population] [in all cities] <for [9999] turns>"] }]
   	},
 	
@@ -1037,15 +1030,14 @@
 			  		 	 "[+1 Gold] from [resource] tiles [in all cities] <for [9999] turns>"]} 
       
       			{ "text": "Fears about Dutch culture being subverted by our neighbours? Nonesence, the Dutch are one of the most enlightend people on this continent! Our artist and their patrons will be the embodiment of civilised culture across the globe!",
-			  "uniques": [	 "[+3 Culture] from [Luxury] tiles [in all cities] <for [9999] turns>", 
-						"[+2 Culture] from [Gold] tiles [in all cities] <for [20] turns>",] }
+			  "uniques": [	 "[+3 Culture] from [Luxury resource] tiles [in all cities] <for [9999] turns>", 
+						"[+2 Culture] from [Coast] tiles [in all cities] <for [20] turns>",] }
 
 			{ "text": "Worries about foreign influence in our internal politics? Well, that's rich coming from some of the most important political figures in the country... Well, we are a peaceful people at our core, and no meddling from other empires will tear our unity apart!",
 			  "uniques": [	 	 "Allied City-States provide [Gold] equal to [500]% of what they produce for themselves <for [20] turns>",
 								"City-State territory always counts as friendly territory <for [9999] turns>",
 			  					"[-20]% City-State Influence degradation <for [9999] turns>"] }]
   	},
-
 		
 {
 
@@ -1062,26 +1054,6 @@
 
 			{ "text": "The Vizier must be trying to influence the trade through my empire. I want to reform the coinage, then they will struggle to carry out their plans, and we can 'settle' some of our debt to other nations.",
 			  "uniques": [	 	 "[+1 Culture, +2 Science] from each Trade Route <for [20] turns>",
-								"[+2 Gold, +1 Science] <for every [[Water] Units]> <for [9999] turns>"] }]
-  	},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
+								"[+1 Science] <for every [[Water] Units]> <for [9999] turns>"] }]
+  	},	
 ]
