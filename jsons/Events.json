@@ -9,7 +9,7 @@
       
       			{ "text": "The end is nigh!",
 			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
-                      		"Gain [20]-[40] [Culture]" ] }
+                      		"Gain [30]-[50] [Culture]" ] }
       
      			{ "text": "Keep looking at the sky!",
 			  "uniques": [ 	"Comment [Grants a burst of [Science]]",
@@ -33,7 +33,8 @@
 		"name": "Artists Protest the Eiffel Tower",
 		"text": "'We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of this nation, protest with all our strength, against the erection of this useless and monstrous Eiffel Tower. To bring our arguments home, imagine for a moment a giddy, ridiculous tower dominating this city like a gigantic black smokestack, crushing under its barbaric bulk all of our humiliated monuments which will disappear in this ghastly dream.'",
 		"choices": [
-			{ "text": "Idiots" } ,
+				{ "text": "Idiots" } ,
+				"uniques": [ "Comment [Nothing happens.]"]},
       
      			{ "text": "We can't take it down! We're using it as a radio tower!",
 			  "uniques": [ "Gain a free [Broadcast Tower] [in this city]",
@@ -56,12 +57,12 @@
       
      			{ "text": "Have him cleaned up and suited with armor.",
 			  "uniques": [ "[1] free [Great General] units appear",
-                      		"Comment [Lose 100 [Gold]]",
+                      		"Comment [Lose 150 [Gold]]",
 							"Gain [-150] [Gold] <hidden from users>" ]},
       
      			{ "text": "Confiscate what little estate he possesses and then have him executed!",
 			  "uniques": ["[-2 Happiness] [in all cities] <for [10] turns>",
-				      		"Gain [60] [Gold]",
+				      		"Gain [80] [Gold]",
                   		    "Gain [25]-[35] [Culture]"] }]
   },
 
@@ -135,9 +136,9 @@
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 800 [Gold] ]",
+			  "uniques": [ "Comment [Lose 1000 [Gold] ]",
 							"[3] free [Rifleman] units appear",
-							"Gain [-800] [Gold] <hidden from users>" ] }]
+							"Gain [-1000] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -152,9 +153,9 @@
 			  "uniques": [ "Comment [The PMC's leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 1500 [Gold]]",
+			  "uniques": [ "Comment [Lose 3000 [Gold]]",
 				  	"[3] free [PMC] units appear",
-					"Gain [-1500] [Gold] <hidden from users>" ] }]
+					"Gain [-3000] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -162,7 +163,7 @@
 		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
 		"choices": [
 			{ "text": "Wonderful news!",
-			  "uniques": [ "[+100]% [Oil] resource production <for [20] turns>"] }]
+			  "uniques": [ "[+100]% [Oil] resource production <for [15] turns>"] }]
   },
 
 	{
@@ -376,7 +377,7 @@
 
 			    { "text": "Use their research to support our current military effort",
 			  "uniques": ["[-1 Science] from all [Science] buildings <for [10] turns>",
-			  		"[-25]% Production when constructing [Military] units [in all cities] <for [10] turns>",
+			  		"[+25]% Production when constructing [Military] units [in all cities] <for [10] turns>",
 			  		"[+5]% Strength <for [All] units> <for [10] turns>",
 			  		"Only available <when at war> <hidden from users>"]},
 
@@ -443,6 +444,23 @@
 			  			"[+20]% [Culture] [in capital] <for [10] turns>"]}]
 	
 	},
+
+	{
+		    "name": "Typhoon",
+		    "text": "The water of our coasts have been unusually calm for the past few months. This unusual weather has finally shown its true nature, as a storm reared it head over the horizon. This tempest is unlike anything we have seen before, its winds tearing trees out of the ground, its rain pounding on roofs and walls. Debris and death lien our coasts, with lives lost and livelihoods destroyed.",
+		    "choices": [
+				
+			    {"text": "What did we do for nature to punish us like this?",
+			     "uniques": ["Comment [Some coastal buildings are destroyed]",
+					 		"[-2 Happiness] [in all coastal cities] <for [10] turns>",
+					 		"Nullifies Growth [in all coastal cities]",
+					 
+					 		"Remove [Harbor] [in all coastal cities] <with [40]% chance> <hidden from users>",
+				 			"Remove [Lighthouse] [in all coastal cities] <with [25]% chance> <hidden from users>",
+				 			"Remove [Seaport] [in all coastal cities] <with [10]% chance> <hidden from users>"] } ]
+	
+	},
+	
 
 
 
