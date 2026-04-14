@@ -453,7 +453,7 @@
 			    {"text": "What did we do for nature to punish us like this?",
 			     "uniques": ["Comment [Some coastal buildings are destroyed]",
 					 		"[-2 Happiness] [in all coastal cities] <for [10] turns>",
-					 		"Nullifies Growth [in all coastal cities]",
+					 		"Nullifies Growth [in all coastal cities] <for [10] turns>",
 					 
 					 		"Remove [Harbor] [in all coastal cities] <with [40]% chance> <hidden from users>",
 				 			"Remove [Lighthouse] [in all coastal cities] <with [25]% chance> <hidden from users>",
@@ -481,7 +481,7 @@
 			  "uniques": ["[+10]% Strength <for [All] units> <for [10] turns>",
 				  			"Comment [-1 [Happiness] for every 3 military units for 10 turns]",
 				  
-							"[-1 Happiness] <for every [[[Military] Units] / 3]> <for [10] turns]> <hidden from users>"]},
+							"[-1 Happiness] <for every [[[Military] Units] / 3]> <for [10] turns> <hidden from users>"]},
 
 			     { "text": "The protection of our army and people must come first. Prevent these vagrants from entering our lands, by any means nessacary. And I really do mean by ANY means.",
 			  "uniques": ["[+1 Happiness] [in all cities] <for [10] turns>",
