@@ -376,7 +376,7 @@
 
 			    { "text": "Use their research to support our current military effort",
 			  "uniques": ["[-1 Science] from all [Science] buildings <for [10] turns>",
-			  		"[-25]% Production when constructing [Military] units [in all cities] <for [10] turns>",
+			  		"[+25]% Production when constructing [Military] units [in all cities] <for [10] turns>",
 			  		"[+5]% Strength <for [All] units> <for [10] turns>",
 			  		"Only available <when at war> <hidden from users>"]},
 
@@ -443,6 +443,23 @@
 			  			"[+20]% [Culture] [in capital] <for [10] turns>"]}]
 	
 	},
+
+	{
+		    "name": "Typhoon",
+		    "text": "The water of our coasts have been unusually calm for the past few months. This unusual weather has finally shown its true nature, as a storm reared it head over the horizon. This tempest is unlike anything we have seen before, its winds tearing trees out of the ground, its rain pounding on roofs and walls. Debris and death lien our coasts, with lives lost and livelihoods destroyed.",
+		    "choices": [
+				
+			    {"text": "What did we do for nature to punish us like this?",
+			     "uniques": ["Comment [Some coastal buildings are destroyed]",
+					 		"[-2 Happiness] [in all coastal cities] <for [10] turns>",
+					 		"Nullifies Growth [in all coastal cities]",
+					 
+					 		"Remove [Harbor] [in all coastal cities] <with [40]% chance> <hidden from users>",
+				 			"Remove [Lighthouse] [in all coastal cities] <with [25]% chance> <hidden from users>",
+				 			"Remove [Seaport] [in all coastal cities] <with [10]% chance> <hidden from users>"] } ]
+	
+	},
+	
 
 
 
