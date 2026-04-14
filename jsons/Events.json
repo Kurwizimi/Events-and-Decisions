@@ -460,6 +460,34 @@
 				 			"Remove [Seaport] [in all coastal cities] <with [10]% chance> <hidden from users>"] } ]
 	
 	},
+
+	{
+		    "name": "Razing",
+		    "text": "Great Leader! Your recent military actions have proved our civilisations prowess in conflict, but... it seems like there has been some unforseen issues. In one of the cities that we have been Razing, massive waves of fleeing civilians are leaving the city. Our supply lines have been choked by this, and many of our people are afraid of these migrants. What shall we do to to, Commander?",
+		    "choices": [
+
+			    { "text": "These fleeing civilians can be put to work! Their efforts can help fuel our war further. After all, they are in no position to refuse...",
+			  "uniques": ["Comment [Free population appears in some cities]",
+				  		"[-1 Happiness] [in all cities] <for [10] turns>",
+
+				  		"[+1] population in a random city <hidden from users>",
+				  		"[+1] population in a random city <hidden from users>",
+					  	"[+1] population in a random city <hidden from users>",
+					  	"[+1] population in a random city <with [60]% chance> <hidden from users>",
+					  	"[+1] population in a random city <with [30]% chance> <hidden from users>",
+					  	"[+1] population in a random city <with [10]% chance> <hidden from users>"]},
+
+				 { "text": "Migrants make for easy troops. Conscript as many of them as possible, for these cheap troops can help reinforce our armies. If they are going to use our armies supplies, they might as well join the army! ",
+			  "uniques": ["[+10]% Strength <for [All] units> <for [10] turns>",
+				  			"Comment [-1 [Happiness] for every 3 military units for 10 turns]",
+				  
+							"[-1 Happiness] <for every [[[Military] Units] / 3]> <for [10] turns]> <hidden from users>"]},
+
+			     { "text": "The protection of our army and people must come first. Prevent these vagrants from entering our lands, by any means nessacary. And I really do mean by ANY means.",
+			  "uniques": ["[+1 Happiness] [in all cities] <for [10] turns>",
+			  			"[+50]% maintenance on road & railroads <for [10] turns>"]}]
+	
+	},
 	
 
 
