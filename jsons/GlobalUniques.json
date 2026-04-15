@@ -59,13 +59,13 @@
 		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
 		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
 		"Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when at war>",
-		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <if [International Olympic Committee Headquarters] is constructed by anybody>",   //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back,
+		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <if [IOC Membership] is constructed> <if [International Olympic Committee Headquarters] is constructed by anybody>",   //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back,
 		"Triggers a [Economic Depression] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
 		"Triggers a [Economic Boom] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
 		"Triggers a [Research] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
 		"Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
 		"Triggers a [Obstacle] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Renaissance era]>",
-		"Triggers a [Typhoon] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]> <when number of [[Coastal] Cities] is more than [0]>",
+		"Triggers a [Typhoon] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]> <when number of [[Coastal] Cities] is more than [5]>", //Don't want to bombard players with only a couple coastal cities (make it only for <on water maps>?)
 		"Triggers a [Razing] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when number of [[Razing] Cities] is more than [0]>",
 
 		"When defeating a [Land] unit, earn [10] Gold and recruit it <with [25]% chance> <for units with [Eranshahr]>"
