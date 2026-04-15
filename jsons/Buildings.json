@@ -14,7 +14,7 @@
 		"maintenance": 2,
 		"happiness": 3,
 		"culture": 1,
-		"uniques": ["[+2 Production] from each Trade Route","Unbuildable"],
+		"uniques": ["[+1 Production] from each Trade Route","Unbuildable"],
 		"isNationalWonder": true,
 	},
 	{
@@ -90,9 +90,9 @@
 	{
 		"name": "Vihara",
 		"cost": 80,
-		"faith": 3,
+		"faith": 2,
 		"culture": 2,
-		"production": 2,
+		"production": 1,
 		"uniques": ["Unbuildable"],
 	},
 
