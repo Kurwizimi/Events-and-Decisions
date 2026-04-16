@@ -446,7 +446,7 @@
 	},
 
 	{
-		    "name": "Typhoon",
+		    "name": "Typhoon I",
 		    "text": "The water of our coasts have been unusually calm for the past few months. This unusual weather has finally shown its true nature, as a storm reared it head over the horizon. This tempest is unlike anything we have seen before, its winds tearing trees out of the ground, its rain pounding on roofs and walls. Debris and death lien our coasts, with lives lost and livelihoods destroyed.",
 		    "choices": [
 				
@@ -460,6 +460,22 @@
 				 			"Remove [Seaport] [in all coastal cities] <with [10]% chance> <hidden from users>"] } ]
 	
 	},
+	{
+		    "name": "Typhoon II",
+		    "text": "The water of our coasts have been calm for the past few months. This unusual weather has finally shown its true nature, as a storm reared it head over the horizon. This tempest has dwarfed all other storms we have seen before, its winds tearing trees out of the ground, its rain pounding on roofs and walls. Debris and death lien our coasts, with lives lost and livelihoods destroyed.",
+		    "choices": [
+				
+			    {"text": "What did we do for nature to punish us like this?",
+			     "uniques": ["Comment [Some coastal buildings are destroyed]",
+					 		"[-1 Happiness] [in all coastal cities] <for [10] turns>",
+					 		"Nullifies Growth [in all coastal cities] <for [4] turns>",
+					 
+					 		"Remove [Harbor] [in all coastal cities] <with [25]% chance> <hidden from users>",
+				 			"Remove [Lighthouse] [in all coastal cities] <with [10]% chance> <hidden from users>",
+				 			"Remove [Seaport] [in all coastal cities] <with [5]% chance> <hidden from users>"] } ]
+	
+	},
+
 
 	{
 		    "name": "Razing",
